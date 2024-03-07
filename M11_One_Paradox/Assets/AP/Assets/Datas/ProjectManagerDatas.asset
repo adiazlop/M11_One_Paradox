@@ -13,16 +13,17 @@ MonoBehaviour:
   m_Name: ProjectManagerDatas
   m_EditorClassIdentifier: 
   helpBoxEditor: 0
-  currentDatasProjectFolder: Demo
-  int_CurrentDatasProjectFolder: 0
+  currentDatasProjectFolder: One_Paradox
+  int_CurrentDatasProjectFolder: 1
   int_CurrentDatasSaveSystem: 1
-  s_newProjectName: Name
+  s_newProjectName: One_Paradox
   languageList:
   - Default
-  s_newLanguageName: French
+  s_newLanguageName: Catala
   firstSceneBuildInIndex: 1
   buildinList:
+  - 02_Level02_CarnSintetica
   - 01_DefaultScene
   - 00_MainMenu
-  newSceneName: Level
+  newSceneName: Level02_CarnSintetica
   specificChar: \
