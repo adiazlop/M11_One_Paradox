@@ -20,10 +20,10 @@ MonoBehaviour:
   languageList:
   - Default
   s_newLanguageName: Catala
-  firstSceneBuildInIndex: 2
+  firstSceneBuildInIndex: 1
   buildinList:
-  - Level01_FabricInitial
-  - 02_Level02_CarnSintetica 1
+  - 03_Level03_Profunditats
+  - 01_Level01_FabricInitial
   - 00_MainMenu
   newSceneName: Level01_FabricInitial
   specificChar: \

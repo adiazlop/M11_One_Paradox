@@ -24,7 +24,9 @@ public class Grp_Audio : MonoBehaviour {
 	}
 
 	void Start(){
-		DontDestroyOnLoad (gameObject);
+
+		//Si comentamos, la música camnbia al cargar otra escena.
+		//DontDestroyOnLoad (gameObject);
 	}
 	
 

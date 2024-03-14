@@ -1,5 +1,0 @@
-Additional BPM and KEY information for song.
-
-01 - Go to Miami
-BPM:84
-KEY:G Major

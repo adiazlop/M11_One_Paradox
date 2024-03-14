@@ -187,6 +187,7 @@ public class SaveAndLoadManager : MonoBehaviour {
     //--> Call in the MainMenu.cs to start save process
 	public void F_SaveProcess(){
 		StartCoroutine(	SaveProcess(true));
+		
 	}
 
 	//--> Save All the informations ingame
