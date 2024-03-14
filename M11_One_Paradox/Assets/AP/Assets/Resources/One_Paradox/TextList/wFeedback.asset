@@ -69,7 +69,7 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - feedback 0
+      - "Entra el teu n\xFAmero de registre"
       diaryTextDisplayState: 01
       diaryText:
       - New description

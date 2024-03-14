@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   helpBoxEditor: 0
   currentDatasProjectFolder: One_Paradox
-  int_CurrentDatasProjectFolder: 1
+  int_CurrentDatasProjectFolder: 2
   int_CurrentDatasSaveSystem: 1
   s_newProjectName: One_Paradox
   languageList:
   - Default
   s_newLanguageName: Catala
-  firstSceneBuildInIndex: 1
+  firstSceneBuildInIndex: 2
   buildinList:
-  - 02_Level02_CarnSintetica
-  - 01_DefaultScene
+  - Level01_FabricInitial
+  - 02_Level02_CarnSintetica 1
   - 00_MainMenu
-  newSceneName: Level02_CarnSintetica
+  newSceneName: Level01_FabricInitial
   specificChar: \
