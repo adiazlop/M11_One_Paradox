@@ -22,8 +22,8 @@ MonoBehaviour:
   s_newLanguageName: Catala
   firstSceneBuildInIndex: 1
   buildinList:
-  - 03_Level03_Profunditats
-  - 01_Level01_FabricInitial
   - 00_MainMenu
+  - 01_Level01_FabricInitial
+  - 03_Level03_Profunditats
   newSceneName: Level01_FabricInitial
   specificChar: \

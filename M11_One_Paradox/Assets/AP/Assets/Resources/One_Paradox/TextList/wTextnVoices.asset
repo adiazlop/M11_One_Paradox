@@ -180,6 +180,32 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
+      - Llums
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Encen les llums per\ntreballar. Si no \napagales."
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 2e4fe242e09ac4c8da9901543f8d5688, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
       - "Enga\xF1o"
       diaryTextDisplayState: 01
       diaryText:
@@ -206,6 +232,32 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
+      - Llums
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Enc\xE9n les llums per \ntreballar. Despres apagales, \nhem d'estalviar."
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 2e37ab723f17b44c184f880845c6e1e9, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - "Encen les llums per \ntreballar"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 19
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
       - Registro Correcto
       diaryTextDisplayState: 01
       diaryText:
@@ -254,215 +306,7 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 8
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 9
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 11
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 12
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 13
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 14
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 15
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 16
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -472,7 +316,7 @@ MonoBehaviour:
       - "Benvinguda unitat Roger 1080. \nSI us plau, completi el captcha per demostrar
         que no \xE9s hum\xE0. "
       diaryAudioClip:
-      - {fileID: 8300000, guid: 7c18e1f70c3bc4f25a39b09d86e455f7, type: 3}
+      - {fileID: 8300000, guid: 6e28bbc41fb8a411a91a63127e7a47cf, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
@@ -493,42 +337,6 @@ MonoBehaviour:
       uniqueItemID: 17
       itemType: 0
       audioPriority: 0
-  - _languageSlot:
-    - diaryTitle:
-      - Title
-      diaryTextDisplayState: 00
-      diaryText:
-      - New Page
-      diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 8300000, guid: 0bb38877093e14025bb76c8d28cbcc36, type: 3}
-      - {fileID: 0}
-      diarySub:
-      - showMore: 000000
-        startPointsClip:
-        - 1.4657596
-        - 7.3287983
-        - 14.700047
-        firstLetter:
-        - 0
-        - 5
-        - 11.286307
-        lastLetter: 050000000400000005000000
-        bypasstextLayout: 010101
-        textSub:
-        - "Salut! Capcom a d\xE9taill\xE9 la nouvelle \xE9dition de street fighter
-          5."
-        - "Globalement annonc\xE9e pour le 16 f\xE9vrier prochain"
-        - Alors accrochez vous
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 0
-      itemType: 0
-      audioPriority: 0
     - diaryTitle:
       - Voice Name
       diaryTextDisplayState: 01
@@ -552,423 +360,7 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 1
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - New Title
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 2
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 3
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 4
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 5
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 6
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 7
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 8
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 9
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 11
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 12
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 13
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 14
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 15
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 16
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 17
+      uniqueItemID: 18
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -1160,7 +552,59 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 6
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 19
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1212,7 +656,7 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 8
+      uniqueItemID: 9
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1238,7 +682,199 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 9
+      uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
+      itemType: 0
+      audioPriority: 0
+  - _languageSlot:
+    - diaryTitle:
+      - Title
+      diaryTextDisplayState: 00
+      diaryText:
+      - New Page
+      diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 8300000, guid: 0bb38877093e14025bb76c8d28cbcc36, type: 3}
+      - {fileID: 0}
+      diarySub:
+      - showMore: 000000
+        startPointsClip:
+        - 1.4657596
+        - 7.3287983
+        - 14.700047
+        firstLetter:
+        - 0
+        - 5
+        - 11.286307
+        lastLetter: 050000000400000005000000
+        bypasstextLayout: 010101
+        textSub:
+        - "Salut! Capcom a d\xE9taill\xE9 la nouvelle \xE9dition de street fighter
+          5."
+        - "Globalement annonc\xE9e pour le 16 f\xE9vrier prochain"
+        - Alors accrochez vous
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 1
+      prefabSizeInViewer: 0
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 0
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 1
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 2
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 3
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 4
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 5
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1290,7 +926,33 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 11
+      uniqueItemID: 6
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - New Title
+      diaryTextDisplayState: 01
+      diaryText:
+      - New description
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 19
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1316,7 +978,7 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 12
+      uniqueItemID: 7
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1342,85 +1004,7 @@ MonoBehaviour:
       showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 13
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 14
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 15
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 16
+      uniqueItemID: 9
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1447,6 +1031,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
       itemType: 0
       audioPriority: 0
   helpBoxEditor: 1
@@ -1463,8 +1073,8 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 17
-  b_EditSubtitle: 1
+  selectedID: 8
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 0

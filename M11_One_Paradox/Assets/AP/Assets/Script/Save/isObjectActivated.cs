@@ -7,7 +7,6 @@ public class isObjectActivated : MonoBehaviour {
 
 	public bool SaveVoiceOverProperties = true;
 
-
     [Header("Choose the state of this object when the scene starts and save data doesn't exist.")]
     public bool  firstTimeEnabledObject = false;
 
@@ -32,98 +31,114 @@ public class isObjectActivated : MonoBehaviour {
 
     //private bool b_ProcessDone = false;
 
-//--> Use to load object state
-	public void saveSystemInitGameObject(string s_ObjectDatas){
-		string[] codes = s_ObjectDatas.Split ('_');
-		// Load Parameters 
-        if(s_ObjectDatas != ""){                                  // Save Exist
-            //Debug.Log("Here : " + s_ObjectDatas);
-            for (var i = 0; i < codes.Length; i++)
-            {
-                if (codes[0] == "T")
-                {
-                    if (gameObject.GetComponent<Renderer>())
-                    {         // Items
-                       // InitRenderer(gameObject, true);
-                        StartCoroutine(CallAllTheMethodsOneByOne(methodsList,0,true));
-                    }
-                    else
-                    {                                                   // Obj activate
-                   //     gameObject.SetActive(true);
-                        StartCoroutine(CallAllTheMethodsOneByOne(methodsList,1,true));
-                    }
-                }
-                else if (codes[0] == "F")
-                {
-                    if (gameObject.GetComponent<Renderer>())
-                    {          // Items
-                        StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated,0,false));
-                   //     InitRenderer(gameObject, false);
-
-                    }
-                    else
-                    {                                               // Obj activate
-                        StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated,1,false));
-                    //    gameObject.SetActive(false);
-                       
-                    }
-                }
-            } 
-
+    //--> Use to load object state
+    public void saveSystemInitGameObject(string s_ObjectDatas)
+    {
+        string[] codes = s_ObjectDatas.Split('_');
+        
+      
            
-        }
-        else{                                                       // Save doesn't exist   (only for Obj Activate)
-             if (!gameObject.GetComponent<Renderer>()){
-                if (firstTimeEnabledObject)
+            // Load Parameters 
+            if (s_ObjectDatas != "")
+            {                                  // Save Exist
+                                               //Debug.Log("Here : " + s_ObjectDatas);
+                for (var i = 0; i < codes.Length; i++)
                 {
-                   // gameObject.SetActive(true);                          // Obj activate
-                    StartCoroutine(CallAllTheMethodsOneByOne(methodsList,1,true));
+                    if (codes[0] == "T")
+                    {
+                        if (gameObject.GetComponent<Renderer>())
+                        {         // Items
+                                  // InitRenderer(gameObject, true);
+                            StartCoroutine(CallAllTheMethodsOneByOne(methodsList, 0, true));
+                        }
+                        else
+                        {                                                   // Obj activate
+                                                                            //     gameObject.SetActive(true);
+                            StartCoroutine(CallAllTheMethodsOneByOne(methodsList, 1, true));
+                        }
+                    }
+                    else if (codes[0] == "F")
+                    {
+                        if (gameObject.GetComponent<Renderer>())
+                        {          // Items
+                            StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated, 0, false));
+                            //     InitRenderer(gameObject, false);
+
+                        }
+                        else
+                        {                                               // Obj activate
+                            StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated, 1, false));
+                            //    gameObject.SetActive(false);
+
+                        }
+                    }
+                }
+
+
+            }
+            else
+            {                                                       // Save doesn't exist   (only for Obj Activate)
+                if (!gameObject.GetComponent<Renderer>())
+                {
+                    if (firstTimeEnabledObject)
+                    {
+                        // gameObject.SetActive(true);                          // Obj activate
+                        StartCoroutine(CallAllTheMethodsOneByOne(methodsList, 1, true));
+                    }
+                    else
+                    {
+                        StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated, 1, false));
+                        // gameObject.SetActive(false);                          // Obj activate
+
+                    }
                 }
                 else
                 {
-                    StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated,1,false));
-                   // gameObject.SetActive(false);                          // Obj activate
+                    if (firstTimeEnabledObject)
+                    {
+                        // InitRenderer(gameObject, true);
+                        StartCoroutine(CallAllTheMethodsOneByOne(methodsList, 0, true));
+                    }
+                    else
+                    {
+                        StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated, 0, false));
+                        //InitRenderer(gameObject, false);
+                    }
+                }
+                //Debug.Log(gameObject.name);
+            }
 
+            callMethods.Call_A_Method_WithSpecificStringArgument(methodsListSaveExtendLoadProcess, s_ObjectDatas);       // Extend Save Procees
+
+
+            for (var i = 0; i < ingameGlobalManager.instance._levelManager.listOfGameObjectForSaveSystem.Count; i++)
+            {
+                if (ingameGlobalManager.instance._levelManager.listOfGameObjectForSaveSystem[i] == gameObject)
+                {
+                    ingameGlobalManager.instance._levelManager.listState[i] = true;
+                    break;
                 }
             }
-            else{
-                if (firstTimeEnabledObject)
+
+
+            // Update VoiceProperties if needed
+            if (codes.Length > 1 && SaveVoiceOverProperties && gameObject.GetComponent<VoiceProperties>())
+            {
+                if (codes[1] == "T")
                 {
-                   // InitRenderer(gameObject, true);
-                    StartCoroutine(CallAllTheMethodsOneByOne(methodsList,0,true));
+                    gameObject.GetComponent<VoiceProperties>().b_alreadyPlayed = true;
                 }
-                else
+                else if (codes[1] == "F")
                 {
-                    StartCoroutine(CallAllTheMethodsOneByOne(methodsListObjDeactivated,0,false));
-                    //InitRenderer(gameObject, false);
+                    gameObject.GetComponent<VoiceProperties>().b_alreadyPlayed = false;
                 }
             }
-            //Debug.Log(gameObject.name);
-        }
-
-        callMethods.Call_A_Method_WithSpecificStringArgument(methodsListSaveExtendLoadProcess, s_ObjectDatas);       // Extend Save Procees
-		
-
-		for (var i = 0; i < ingameGlobalManager.instance._levelManager.listOfGameObjectForSaveSystem.Count; i++) {
-			if (ingameGlobalManager.instance._levelManager.listOfGameObjectForSaveSystem [i] == gameObject) {
-				ingameGlobalManager.instance._levelManager.listState [i] = true;
-				break;
-			}
-		}
+        
+    }
 
 
-		// Update VoiceProperties if needed
-        if (codes.Length > 1 && SaveVoiceOverProperties && gameObject.GetComponent<VoiceProperties> ()) {
-			if (codes [1] == "T") {
-				gameObject.GetComponent<VoiceProperties> ().b_alreadyPlayed = true;
-			} else if (codes [1] == "F") {
-				gameObject.GetComponent<VoiceProperties> ().b_alreadyPlayed = false;
-			}
-		}
-	}
-
-//--> Enable or disable gameObject renderer
-	private void InitRenderer(GameObject obj, bool b_Enabled){
+    //--> Enable or disable gameObject renderer
+    private void InitRenderer(GameObject obj, bool b_Enabled){
 		obj.GetComponent<Renderer> ().enabled = b_Enabled;
 		Transform[] Children = obj.GetComponentsInChildren<Transform>(true);
 		for (var j = 0; j < Children.Length; j++) {
@@ -138,10 +153,10 @@ public class isObjectActivated : MonoBehaviour {
 
 
 //--> Use to save Object state
-	public string ReturnSaveData () {
-		string value = r_TrueFalse(gameObject.activeSelf);
-
-		if(gameObject.GetComponent<Renderer>())
+	public string ReturnSaveData () 
+    {
+        string value = r_TrueFalse(gameObject.activeSelf);
+        if (gameObject.GetComponent<Renderer>())
 			value = r_TrueFalse(gameObject.GetComponent<Renderer>().enabled);
 
 		if (SaveVoiceOverProperties && gameObject.GetComponent<VoiceProperties> ()) {

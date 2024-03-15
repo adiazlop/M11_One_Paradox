@@ -69,7 +69,7 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - "Entra el teu n\xFAmero de registre"
+      - "El nostre planeta blau i sense poluci\xF3"
       diaryTextDisplayState: 01
       diaryText:
       - New description
