@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/AP/Assets/Scenes/One_Paradox/00_MainMenu.unity
     guid: 34cd1eb115bb26e49be144b8b2e68472
   - enabled: 1
-    path: Assets/AP/Assets/Scenes/One_Paradox/01_Level01_FabricInitial.unity
+    path: Assets/AP/Assets/Scenes/One_Paradox/01_Level01_Train.unity
+    guid: de0b8296721661a4082abcfa13156e8f
+  - enabled: 1
+    path: Assets/AP/Assets/Scenes/One_Paradox/02_Level01_FabricInitial.unity
     guid: 157196f44ca265f44aec78ab2dc80fc8
   - enabled: 1
     path: Assets/AP/Assets/Scenes/One_Paradox/03_Level03_Profunditats.unity
