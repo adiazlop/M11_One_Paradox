@@ -235,7 +235,7 @@ MonoBehaviour:
       - Llums
       diaryTextDisplayState: 01
       diaryText:
-      - "Enc\xE9n les llums per \ntreballar. Despres apagales, \nhem d'estalviar."
+      - Cada Unitat Roger
       diaryAudioClip:
       - {fileID: 8300000, guid: 2e37ab723f17b44c184f880845c6e1e9, type: 3}
       diarySub:
@@ -314,9 +314,9 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "Benvinguda unitat Roger 1080. \nSI us plau, completi el captcha per demostrar
-        que no \xE9s hum\xE0. "
+        que no \xE9s huma. "
       diaryAudioClip:
-      - {fileID: 8300000, guid: 6e28bbc41fb8a411a91a63127e7a47cf, type: 3}
+      - {fileID: 8300000, guid: 6f75113afd123ed4fb1a02b36a4e65a6, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
