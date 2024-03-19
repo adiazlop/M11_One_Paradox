@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Holo_Toni
+  m_Name: Holo_Toni_red
   m_Shader: {fileID: 4800000, guid: 002f6eab9ba9b994d8eec7af12c232ac, type: 3}
   m_ValidKeywords:
   - SCAN2_ON
@@ -115,8 +115,8 @@ Material:
     - _Parallax: 0.02
     - _RimFalloff: 1
     - _RimStrenght: 2
-    - _ScanStr: 0.598
-    - _ScanStr2: 1
+    - _ScanStr: 0.234
+    - _ScanStr2: 0.244
     - _Shading: 0.25
     - _SrcBlend: 1
     - _UVSec: 0
@@ -125,6 +125,6 @@ Material:
     - _Color: {r: 1, g: 0, b: 0.04943371, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FlickerColor: {r: 1, g: 1, b: 1, a: 1}
-    - _RimColor: {r: 1, g: 0.010215633, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 0.60443854, b: 0, a: 1}
     - _ScanlineColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_BuildTextureStacks: []
