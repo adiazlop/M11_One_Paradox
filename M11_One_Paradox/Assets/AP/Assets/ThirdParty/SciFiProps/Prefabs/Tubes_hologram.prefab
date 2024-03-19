@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 23018334981366406}
   - component: {fileID: 1698136573389238294}
   m_Layer: 0
-  m_Name: Tubes
+  m_Name: Tubes_hologram
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: f9275cba7d9265847a78590c20835ac6, type: 2}
+  - {fileID: 2100000, guid: f2546154ca03b8f4d8f550245418d919, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
