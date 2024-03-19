@@ -235,7 +235,7 @@ MonoBehaviour:
       - Llums
       diaryTextDisplayState: 01
       diaryText:
-      - "Enc\xE9n les llums per \ntreballar. Despres apagales, \nhem d'estalviar."
+      - Cada Unitat Roger
       diaryAudioClip:
       - {fileID: 8300000, guid: 2e37ab723f17b44c184f880845c6e1e9, type: 3}
       diarySub:
@@ -313,21 +313,21 @@ MonoBehaviour:
       - Puzle01
       diaryTextDisplayState: 01
       diaryText:
-      - "Benvinguda unitat Roger 1080. \nSI us plau, completi el captcha per demostrar
+      - "Benvinguda unitat Roger 1080. Si us plau, completi el captcha per demostrar
         que no \xE9s hum\xE0. "
       diaryAudioClip:
-      - {fileID: 8300000, guid: 6e28bbc41fb8a411a91a63127e7a47cf, type: 3}
+      - {fileID: 8300000, guid: c933479dc300584418a75dd46a7a4baa, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 5a000000
+        lastLetter: 64000000
         bypasstextLayout: 00
         textSub:
-        - "Benvinguda unitat Roger 1080. \nSI us plau, completi el captcha per demostrar
-          que no \xE9s hum"
+        - "Benvinguda unitat Roger 1080. Si us plau, completi el captcha per demostrar
+          que no \xE9s hum\xE0. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1073,8 +1073,8 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 8
-  b_EditSubtitle: 0
+  selectedID: 11
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 0
