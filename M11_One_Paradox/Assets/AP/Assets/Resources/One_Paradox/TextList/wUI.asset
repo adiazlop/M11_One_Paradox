@@ -6502,7 +6502,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Game
+      - NOVA PARTIDA
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6528,7 +6528,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Options
+      - OPCIONS
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6554,7 +6554,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Exit
+      - SORTIR
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6580,7 +6580,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Load
+      - CARREGA
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6606,7 +6606,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Credit
+      - CREDITS
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9138,10 +9138,10 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
-  fisrtTextDisplayedInEditor: 0
+  currentLanguage: 2
+  fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 89
+  selectedID: 14
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
