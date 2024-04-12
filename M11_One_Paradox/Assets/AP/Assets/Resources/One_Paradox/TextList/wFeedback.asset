@@ -15,7 +15,7 @@ MonoBehaviour:
   diaryList:
   - _languageSlot:
     - diaryTitle:
-      - Has de calcular la carn primer
+      - First you must choose the Kg of meat
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -41,7 +41,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "Has d'escollir dest\xED abans"
+      - You must choose destination first
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -147,7 +147,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Title
+      - "Has de calcular el dest\xED abans"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -186,7 +186,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 1
+  selectedID: 0
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 3

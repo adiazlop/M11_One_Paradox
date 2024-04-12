@@ -3053,7 +3053,7 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - New in Inventory
+      - Nuevo en Inventario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3079,7 +3079,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'New in Diary :'
+      - Nuevo en diario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3105,7 +3105,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Button 01
+      - "Bot\xF3n 1"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3198,7 +3198,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Back
+      - "Atr\xE1s"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3224,7 +3224,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Inventory
+      - Inventario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3250,7 +3250,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - English Info
+      - Informacion
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3334,7 +3334,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Loading
+      - Cargando...
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3360,7 +3360,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - You are Here
+      - "Est\xE1s aqu\xED"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3386,7 +3386,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Diary
+      - Diario
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3412,7 +3412,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Show
+      - Mostrar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3438,7 +3438,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Welcome to Hell !!!!!!!
+      - '?'
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3464,7 +3464,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Game
+      - Nuevo Juego
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3490,7 +3490,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Options
+      - Opciones
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3516,7 +3516,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Exit
+      - Salir
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3542,7 +3542,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Load
+      - Cargar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3568,7 +3568,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Credit
+      - "Cr\xE9ditos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3594,7 +3594,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Choose your load :'
+      - 'Escoge tu partida: '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3620,7 +3620,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Choose your slot :'
+      - 'Escoge la ranura: '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3646,7 +3646,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Select an option
+      - "Selecciona una opci\xF3n: "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3672,7 +3672,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Credit List
+      - "Cr\xE9ditos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3698,7 +3698,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Empty
+      - "Vac\xEDo"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3724,7 +3724,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Yes
+      - Si
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3776,7 +3776,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Slot already exist :'
+      - 'Ya existe la ranura: '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3802,7 +3802,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Do you want to delete it ?
+      - 'Seguro que quieres borrarlo con el esfuerzo que te ha llevado? '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3854,7 +3854,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left Clic Rotate
+      - 'Clic Izquierdo: Rotar'
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3880,7 +3880,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right Clic Back
+      - "Clic Derecho: Atr\xE1s"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3906,7 +3906,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Slide Rotate
+      - Desliza o rota
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3932,7 +3932,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Double Tap Back
+      - "Doble Clic atr\xE1s"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3958,7 +3958,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Menu
+      - "Men\xFA"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -3984,7 +3984,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Save
+      - Guardar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4010,7 +4010,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Go To Main Menu
+      - "Ir al Men\xFA Principal"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4036,7 +4036,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Are you sure ?
+      - "Seguro? No te estar\xE1n hackeando? "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4062,7 +4062,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward
+      - Adelante
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4088,7 +4088,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Backward
+      - "Atr\xE1s"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4114,7 +4114,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left
+      - Izquierda
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4140,7 +4140,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right
+      - Derecha
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4166,7 +4166,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Resume
+      - Continuar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4218,7 +4218,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Quality
+      - Calidad
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4244,7 +4244,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Graphics
+      - "Gr\xE1ficos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4270,7 +4270,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Inputs
+      - Entradas
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4296,7 +4296,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Game Options
+      - Opciones del juego
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4322,7 +4322,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Control
+      - Controles
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4348,7 +4348,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Keyboard
+      - Teclado
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4400,7 +4400,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward/Backward
+      - "Adelante/ Atr\xE1s"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4426,7 +4426,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Move Left/Right
+      - Mobver Izquierda/ Derecha
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4452,7 +4452,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Movement sensibility
+      - Sensibilidad del movimiento
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6091,7 +6091,7 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - New in Inventory
+      - 'Has trobat un nou objecte d''inventari! '
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6117,7 +6117,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'New in Diary :'
+      - Nova entrada de diari
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6143,7 +6143,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Button 01
+      - "But\xF3 1"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6236,7 +6236,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Back
+      - Enrere
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6262,7 +6262,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Inventory
+      - Inventori
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6288,7 +6288,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - English Info
+      - "Informaci\xF3 en catal\xE0"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6372,7 +6372,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Loading
+      - Carregant...
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6398,7 +6398,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - You are Here
+      - "Tu ets aqu\xED"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6424,7 +6424,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Diary
+      - Diari
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6450,7 +6450,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Show
+      - Mostrar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6476,7 +6476,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Welcome to Hell !!!!!!!
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6632,7 +6632,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Choose your load :'
+      - Escolleix on carregar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6658,7 +6658,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Choose your slot :'
+      - 'Escolleix ranura:'
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6684,7 +6684,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Select an option
+      - "Selecciona una opci\xF3"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6710,7 +6710,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Credit List
+      - "Cr\xE8dits"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6736,7 +6736,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Empty
+      - Buit
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6762,7 +6762,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Yes
+      - "S\xED"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6814,7 +6814,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - 'Slot already exist :'
+      - La ranura ja existeix
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6840,7 +6840,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Do you want to delete it ?
+      - "Segur que vols borrar amb l'esfor\xE7 que t'ha costat? "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6892,7 +6892,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left Clic Rotate
+      - Clic esquerre per rotar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6918,7 +6918,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right Clic Back
+      - Clic dret per anar enrere
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6944,7 +6944,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Slide Rotate
+      - Llisca o rota
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6970,7 +6970,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Double Tap Back
+      - Doble Clic i vas enrere
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7022,7 +7022,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Save
+      - Guardar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7048,7 +7048,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Go To Main Menu
+      - "Ves al men\xFA principal"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7074,7 +7074,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Are you sure ?
+      - "Est\xE1s segur? No t'estan hackejant? "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7100,7 +7100,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward
+      - Endavant
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7126,7 +7126,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Backward
+      - Enrere
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7152,7 +7152,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Left
+      - Esquerre
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7178,7 +7178,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Right
+      - Dreta
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7204,7 +7204,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Resume
+      - Continuar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7256,7 +7256,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Quality
+      - Qualitat
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7282,7 +7282,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Graphics
+      - "Gr\xE0fics"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7334,7 +7334,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Game Options
+      - Opcions del Joc
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7360,7 +7360,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Control
+      - Controls
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7386,7 +7386,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Keyboard
+      - Teclat
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7438,7 +7438,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Forward/Backward
+      - Davant/ Enrere
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7464,7 +7464,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Move Left/Right
+      - Moiure dreta/ esquerre
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7490,7 +7490,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Movement sensibility
+      - Sensibilitat de moviment
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9138,10 +9138,10 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
+  currentLanguage: 2
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 95
+  selectedID: 3
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2

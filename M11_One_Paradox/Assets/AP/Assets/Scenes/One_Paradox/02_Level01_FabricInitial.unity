@@ -978,7 +978,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SeeInspector: 0
-  managerID: 12
+  managerID: 2
   uniqueID: 18
   textList: {fileID: 11400000, guid: a62106bd6262228498298299bc876bb2, type: 2}
   editorType: 0
@@ -7121,7 +7121,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SeeInspector: 0
-  managerID: 15
+  managerID: 5
   uniqueID: 22
   textList: {fileID: 11400000, guid: a62106bd6262228498298299bc876bb2, type: 2}
   editorType: 0
@@ -11458,7 +11458,7 @@ RectTransform:
   m_GameObject: {fileID: 745053957}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.54600644, y: 0.01825742, z: 0.01825742}
+  m_LocalScale: {x: 0.57396543, y: 0.01825742, z: 0.01825742}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1716592450}
@@ -21189,7 +21189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SeeInspector: 1
-  managerID: 11
+  managerID: 1
   uniqueID: 17
   textList: {fileID: 11400000, guid: a62106bd6262228498298299bc876bb2, type: 2}
   editorType: 0
