@@ -2610,7 +2610,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Input
+      - "Est\xE0s desconnectat"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8686,7 +8686,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Input
+      - "Est\xE0s desconnectat"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9131,17 +9131,17 @@ MonoBehaviour:
   idEditorSize: 20
   titleEditorSize: 240
   textEditorSize: 300
-  showMoreOptions: 0
+  showMoreOptions: 1
   showMoveUpDown: 1
-  showNameOptions: 0
+  showNameOptions: 1
   listOfLanguage:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 14
+  selectedID: 95
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
