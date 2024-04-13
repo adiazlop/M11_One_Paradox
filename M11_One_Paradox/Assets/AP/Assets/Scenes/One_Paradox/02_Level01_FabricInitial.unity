@@ -7367,6 +7367,11 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7363548895120980185, guid: dd5d24bbef8ab8149b2a764a19253aeb,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dd5d24bbef8ab8149b2a764a19253aeb, type: 3}
 --- !u!1 &471892947
@@ -10963,6 +10968,16 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2101671343208764185, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
+    - target: {fileID: 2101671343214816397, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
     - target: {fileID: 2101671343918367603, guid: b895413d9d1fdf3418dc28235f2a6d62,
         type: 3}
       propertyPath: m_Color.b
@@ -11118,6 +11133,11 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2101671344965497039, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
     - target: {fileID: 2101671344965497072, guid: b895413d9d1fdf3418dc28235f2a6d62,
         type: 3}
       propertyPath: m_LocalRotation.w
@@ -11163,11 +11183,26 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3947669694820716556, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
+    - target: {fileID: 4323824452089363488, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
     - target: {fileID: 4599174719547094934, guid: b895413d9d1fdf3418dc28235f2a6d62,
         type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5117143111169986416, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
     - target: {fileID: 6094366543583042974, guid: b895413d9d1fdf3418dc28235f2a6d62,
         type: 3}
       propertyPath: m_RootOrder
@@ -11228,6 +11263,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FabricHall
       objectReference: {fileID: 0}
+    - target: {fileID: 8322206792956971164, guid: b895413d9d1fdf3418dc28235f2a6d62,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 385c75768079cc34095190854091b101, type: 2}
     - target: {fileID: 8475786492582354268, guid: b895413d9d1fdf3418dc28235f2a6d62,
         type: 3}
       propertyPath: m_IsActive
@@ -19423,7 +19463,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.72075474, g: 0.731426, b: 1, a: 1}
-  m_Intensity: 0.47
+  m_Intensity: 0.4
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
