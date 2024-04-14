@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9434fb110d71a554e8cb3fe37d718ff3
+guid: 041453183b50a1949921ad208b95eb44
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,23 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Black_MAT
-    second: {fileID: 2100000, guid: f1a908a7f7ae7c94b926876c3858a645, type: 2}
+      name: Black_MAT1
+    second: {fileID: 2100000, guid: 8b6467c63ec234445941bc76f7fdf380, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Green_Emissive_MAT
-    second: {fileID: 2100000, guid: c50de099c2b31be449407692fb2035e3, type: 2}
+      name: Green_Emissive_MAT1
+    second: {fileID: 2100000, guid: cca313d18c44388458dd291b03d7c1db, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Green_Mat
-    second: {fileID: 2100000, guid: fb70886ffa45e1848a99ae55b09ce42f, type: 2}
+      name: Green_Mat1
+    second: {fileID: 2100000, guid: 2513a718623e4bf4386b06d6a5da4e30, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Grey_MAT
-    second: {fileID: 2100000, guid: bdc15e24cd7a2644abf3b3c751ca2f75, type: 2}
+      name: Grey_MAT1
+    second: {fileID: 2100000, guid: ee51d0ef54e924e4ebe0389326262ffd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -52,7 +52,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
