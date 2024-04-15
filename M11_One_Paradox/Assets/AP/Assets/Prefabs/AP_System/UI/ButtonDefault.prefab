@@ -119,7 +119,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 160, y: 40}
+  m_SizeDelta: {x: 250, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222733015561293158
 CanvasRenderer:
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a5f2f4d7b1dbc437192721e1e5cc1022, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 84d2a1b60b3cc634ba2b85ceebf014ba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -227,9 +227,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e8c44ef98d59d491d8d32734dfa8556e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonOver: {fileID: 21300000, guid: 344e30da61b6c4a58bbd1e61034c61fe, type: 3}
-  buttonSelected: {fileID: 21300000, guid: ece8ef31c5ad345fa91eb7b9f2a54cdc, type: 3}
-  buttonClick: {fileID: 21300000, guid: 7e9f3ed45ef5c4dab98e45e7f8868eee, type: 3}
-  buttonDefault: {fileID: 21300000, guid: 71d216bec79ca4d9888bb537d1641457, type: 3}
+  buttonOver: {fileID: 21300000, guid: e90f27b45d1418d4c91fa894ad5de23c, type: 3}
+  buttonSelected: {fileID: 21300000, guid: e90f27b45d1418d4c91fa894ad5de23c, type: 3}
+  buttonClick: {fileID: 21300000, guid: 2faf5a124c3b9064e92db61eaa452439, type: 3}
+  buttonDefault: {fileID: 21300000, guid: 84d2a1b60b3cc634ba2b85ceebf014ba, type: 3}
   clickDown: {fileID: 8300000, guid: fdcacd731c83e4e79b1e079580a8e981, type: 3}
   audioEnter: {fileID: 8300000, guid: 67cb877321cd84d3c963cb0676f3cc5b, type: 3}
