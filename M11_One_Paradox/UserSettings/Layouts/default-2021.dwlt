@@ -97,7 +97,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 221}
   m_MaxSize: {x: 4000, y: 4021}
   vertical: 0
-  controlID: 230
+  controlID: 79
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -176,7 +176,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 189
+  controlID: 170
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -326,7 +326,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 178
+  controlID: 22
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -351,7 +351,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 179
+  controlID: 23
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -368,7 +368,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Animation
-    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -3237396543322336831, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -401,7 +401,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Animator
-    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: 1711060831702674872, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -490,7 +490,7 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -515,23 +515,25 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AP/Assets/ThirdParty/SciFiProps/Prefabs
+    - Assets/AP/Assets/ThirdParty/SciFi Warehouse Kit/Prefabs/Structures/Structure
+      Props
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 62
   m_LastFolders:
-  - Assets/AP/Assets/ThirdParty/SciFiProps/Prefabs
+  - Assets/AP/Assets/ThirdParty/SciFi Warehouse Kit/Prefabs/Structures/Structure
+    Props
   m_LastFoldersGridSize: 62
   m_LastProjectPath: C:\Users\javi\Desktop\OneParadox\M11_One_Paradox\M11_One_Paradox
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 962.2}
-    m_SelectedIDs: 6ae30500
-    m_LastClickedID: 385898
-    m_ExpandedIDs: 000000006ac200006cc200006ec2000070c2000072c2000074c2000076c2000078c200007ac200007cc200007ec2000080c2000082c2000084c2000086c2000088c200008ac200008cc200008ec2000090c2000092c200007ac400008ac40000d0bc0100fcbc010006bd01000cbd01007ae3050080e3050082e3050086e30500c450070000ca9a3b
+    scrollPos: {x: 0, y: 882.2}
+    m_SelectedIDs: 4ac70000
+    m_LastClickedID: 51018
+    m_ExpandedIDs: 000000006ac400006cc400006ec4000070c4000072c4000074c4000076c4000078c400007ac400007cc400007ec4000080c4000082c4000084c4000086c4000088c400008ac400008cc400008ec4000090c4000092c4000094c4000096c4000098c400009ac400009cc400009ec40000a0c40000a2c40000a4c40000a6c40000a8c4000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -559,7 +561,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006ac200006cc200006ec2000070c2000072c2000074c2000076c2000078c200007ac200007cc200007ec2000080c2000082c2000084c2000086c2000088c200008ac200008cc200008ec2000090c2000092c20000
+    m_ExpandedIDs: 000000006ac400006cc400006ec4000070c4000072c4000074c4000076c4000078c400007ac400007cc400007ec4000080c4000082c4000084c4000086c4000088c400008ac400008cc400008ec4000090c4000092c4000094c4000096c4000098c400009ac400009cc400009ec40000a0c40000a2c40000a4c40000a6c40000a8c40000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -674,7 +676,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -690,10 +692,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 976}
-      m_SelectedIDs: aa95f3ff
-      m_LastClickedID: -813654
-      m_ExpandedIDs: e430f5ff8624f6ff9a29f6ffda3ff6ffe448f6ff0c65f6ff6e92f6ff689df6ffc0b7f6ff0cc8f6ff06d1f6ff6ad8f6ff88f0f6ff2884f7ff4c8bf7ff3c92f7ff26f6fbff38f6fbff52f6fbff56f6fbff5ef6fbff6af6fbff6ef6fbffa2f6fbffc0f6fbfff0f6fbfffaf6fbff4af7fbff4cf7fbff50f7fbff60f7fbff6af7fbffa8f7fbffb2f7fbffbcf7fbffc6f7fbffcef7fbffd2f7fbffd6f7fbff22f8fbff26f8fbff66f8fbff6ef8fbff72f8fbff76f8fbff7af8fbffaef8fbffb2f8fbff50f9fbff5af9fbff62f9fbff4027fcffb05efcfffe6afcffc26bfcff866cfcff966cfcffa66cfcffb66cfcffc66cfcffde6dfcffea6dfcfff46efcfff66efcff9c72fcffae72fcffe675fcff5e76fcff6276fcffde79fcff667cfcff6a7cfcff687efcff6a7efcfff280fcff3481fcff4c81fcff9881fcffa481fcff4082fcff8683fcff9483fcffa283fcffb083fcffd683fcff4284fcffa086fcff148afcff448cfcff5ae5fdffea99feff1c9afeff289afeff369afeff429afeff4e9afeff5a9afeff669afeffb29afeffbe9afeffc09afeff0601ffffbc13ffffc44fffffd24fffff8450ffff9250ffff9450ffff2e93ffffcefaffff70d001004cd501004cd6010000d9010042bb030084bb03002ebe030080c00300
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: f019fdff
+      m_LastClickedID: -189968
+      m_ExpandedIDs: 00c3ffff58c3ffff8ac6ffff0cd3ffff64d3ffff98d6ffff9ee2ffff8ae4ffff88e6ffff8ae6ffff08fbffff36750000007800007e780000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -733,7 +735,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -1023,7 +1025,7 @@ MonoBehaviour:
       layout: 4
     m_OverlaysVisible: 1
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
-  m_Gizmos: 0
+  m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -1032,9 +1034,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -10.454432, y: 3.376884, z: 16.463888}
+    m_Target: {x: -17.953266, y: 4.1198244, z: 14.574486}
     speed: 2
-    m_Value: {x: -10.454432, y: 3.376884, z: 16.463888}
+    m_Value: {x: -17.953266, y: 4.1198244, z: 14.574486}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1081,13 +1083,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.045424297, y: -0.91788816, z: 0.103740856, w: 0.38176218}
+    m_Target: {x: 0.031916548, y: -0.9053745, z: -0.0618859, w: -0.42030397}
     speed: 2
-    m_Value: {x: 0.04539964, y: -0.9173899, z: 0.103684545, w: 0.38155496}
+    m_Value: {x: 0.031897303, y: -0.9048286, z: -0.061848585, w: -0.42005053}
   m_Size:
-    m_Target: 0.6010599
+    m_Target: 2.282138
     speed: 2
-    m_Value: 0.6010599
+    m_Value: 2.282138
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1128,7 +1130,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -1222,7 +1224,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
