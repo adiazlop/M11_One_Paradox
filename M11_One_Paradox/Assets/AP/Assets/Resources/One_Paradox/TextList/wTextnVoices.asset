@@ -147,10 +147,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lore01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Lore test
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -173,10 +173,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lore_02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Patat\xEDn Patat\xE1n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -378,6 +378,58 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 30
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Lore_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Lore_02
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -745,6 +797,58 @@ MonoBehaviour:
       uniqueItemID: 30
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Lore_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Lore_02
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puzle01_Captcha
@@ -879,10 +983,21 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lore01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "El planeta Terra s\u2019enfronta a onades de calor, d\xE8ficit h\xEDdric
+        i tempestes planet\xE0ries que arrasen pa\xEFsos sencers. La lluita contra
+        el canvi clim\xE0tic \xE9s lenta, per\xF2 tirarem endavant. L'Open Factory
+        One s\u2019ha convertit en la f\xE0brica d\u2019Europa, elaborant tota mena
+        de productes sostenibles. \r\n\r\nA l'Open Factory One l\u2019activitat del
+        centre de distribuci\xF3 \xE9s retransmesa en directe al m\xF3n en streaming,
+        24/7, demostrant estem compromesos amb la transpar\xE8ncia i orgullosos de
+        mostrar el nostre model de producci\xF3 sostenible a la resta del m\xF3n.
+        \r\n\r\nVosaltres, les unitats Roger sou els soldats que lluiteu per un dem\xE0
+        m\xE9s sostenible. Droides aut\xF2mats, programats per dur a terme les tasques
+        del centre de distribuci\xF3 i connectats a la IA Decuri\xF3, per\xF2 independents
+        en la resoluci\xF3 de problemes i tasques. \r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -905,10 +1020,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lore_02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Patat\xEDn Patat\xE1n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -1112,6 +1227,58 @@ MonoBehaviour:
       uniqueItemID: 30
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Lore_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Lore_02
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -1126,8 +1293,8 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 4
-  b_EditSubtitle: 1
+  selectedID: 6
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
