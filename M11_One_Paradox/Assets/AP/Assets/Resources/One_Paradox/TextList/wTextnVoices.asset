@@ -15,37 +15,11 @@ MonoBehaviour:
   diaryList:
   - _languageSlot:
     - diaryTitle:
-      - Lights
-      diaryTextDisplayState: 01
-      diaryText:
-      - Turn up the lights to work.
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
       - Puzle01_Captcha
       diaryTextDisplayState: 01
       diaryText:
-      - "Benvinguda unitat Roger 1080. Si us plau, completi el captcha per demostrar
-        que no \xE9s hum\xE0. "
+      - Welcome Roger Unit 1080. Please, complete the captcha to prove YOU'RE NOT
+        HUMAN.
       diaryAudioClip:
       - {fileID: 8300000, guid: c933479dc300584418a75dd46a7a4baa, type: 3}
       diarySub:
@@ -57,8 +31,8 @@ MonoBehaviour:
         lastLetter: 64000000
         bypasstextLayout: 00
         textSub:
-        - "Benvinguda unitat Roger 1080. Si us plau, completi el captcha per demostrar
-          que no \xE9s hum\xE0. "
+        - Welcome Roger Unit 1080. Please, complete the captcha to prove YOU'RE NOT
+          HUMAN.
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -72,7 +46,7 @@ MonoBehaviour:
       - Puzle02_Carn
       diaryTextDisplayState: 01
       diaryText:
-      - "Calcula els kilos de carn ecol\xF2gica a produ\xEFr durant cicle"
+      - 'Select the Kg of meat to produce in this cycle. '
       diaryAudioClip:
       - {fileID: 8300000, guid: d09344a6a95146f49bda8f5de5205cc8, type: 3}
       diarySub:
@@ -84,7 +58,7 @@ MonoBehaviour:
         lastLetter: 3f000000
         bypasstextLayout: 00
         textSub:
-        - "Calcula els kilos de carn ecol\xF2gica a produ\xEFr durant cicle"
+        - 'Select the Kg of meat to produce in this cycle. '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -95,12 +69,12 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puzle03_Distribucio
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Select the destination
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: a169a79cb24cb6c4186ff8ee811c83d7, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -110,7 +84,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Select the destination
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -121,12 +95,38 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lights
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Turn up the lights to work
       diaryAudioClip:
+      - {fileID: 8300000, guid: f82603e028fba864e8fe837a1714763b, type: 3}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - Turn up the lights to work
+      diarySprite:
       - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Puzle04_Productes
+      diaryTextDisplayState: 01
+      diaryText:
+      - Group products by family
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 04191c7d7de0ded49a530aa9353f0079, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -330,33 +330,7 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
+      - Puz01_Captcha
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -382,7 +356,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puz02_Carne
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -408,7 +382,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puz03_Distribucion
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -434,10 +408,36 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Luces
       diaryTextDisplayState: 01
       diaryText:
       - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Puzle04_Productos
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Agrupa los productos por fam\xEDlias"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -643,10 +643,11 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - Nivell01_PuzzleCarn
+      - Puzle01_Captcha
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Benvinguda Unitat Roger 1080. Si us plau, completi el captcha per demostrar
+        que NO \xC9S HUM\xC0. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -658,33 +659,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 10
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - "Nivell01_PuzzleDestinaci\xF3"
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
+        - 'Benvinguda Unitat Roger 1080. '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -695,10 +670,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Llums
+      - Puzle02_Carn
       diaryTextDisplayState: 01
       diaryText:
-      - "Enc\xE9n les llums per treballar"
+      - Selecciona els Kg de carn a produir
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -710,7 +685,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Selecciona els Kg de carn a pr
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -721,10 +696,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puzle03_Distribucio
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Selecciona la destinaci\xF3"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -736,7 +711,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Selecciona la destinaci\xF3"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -747,10 +722,36 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Llums
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Enc\xE9n les llums per comen\xE7ar a treballar"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 31000000
+        bypasstextLayout: 00
+        textSub:
+        - "Enc\xE9n les llums per comen\xE7ar a treballar"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 10
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Puzle04_Productes
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Agrupa els productes per fam\xEDles"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -968,11 +969,11 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 0
+  selectedID: 4
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
-  showDefaultLanguage: 0
+  showDefaultLanguage: 1
   multipleVoiceOver: 0
   b_ShowEye: 0
   b_UI_DisplayTextArea: 0
