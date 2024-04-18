@@ -861,7 +861,7 @@ PrefabInstance:
     - target: {fileID: 224038529422647128, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -9
+      value: -9.000015
       objectReference: {fileID: 0}
     - target: {fileID: 224516100504319370, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
@@ -5853,7 +5853,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 12, y: -14.299683}
+  m_AnchoredPosition: {x: 12, y: -14.299698}
   m_SizeDelta: {x: -29, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &213951447
@@ -21965,8 +21965,8 @@ MonoBehaviour:
     objValue: {fileID: 0}
     audioValue: {fileID: 0}
   popupSpeed: 1
-  a_puzzleSolved: {fileID: 8300000, guid: bdd0c7321996f48bb8e3940b41684dba, type: 3}
-  a_puzzleSolvedVolume: 0.4
+  a_puzzleSolved: {fileID: 8300000, guid: 7dfd0f3b5cead7a4492eea0ade29822a, type: 3}
+  a_puzzleSolvedVolume: 0.1
   objectActivatedWhenPuzzleIsSolved: {fileID: 331574879}
 --- !u!114 &778263211
 MonoBehaviour:
@@ -22077,7 +22077,7 @@ MonoBehaviour:
     type: 3}
   _Column: 3
   _NumberOfKey: 1
-  toolbarCurrentValue: 0
+  toolbarCurrentValue: 2
   SquareSize: 62
   currentSelectedSprite: 3
   pivotGearList:
@@ -22100,9 +22100,9 @@ MonoBehaviour:
   _conditionsToAccessThePuzzle: {fileID: 0}
   _actionsWhenPuzzleIsSolved: {fileID: 0}
   validationButtonJoystick: 4
-  a_KeyPressed: {fileID: 8300000, guid: fdcacd731c83e4e79b1e079580a8e981, type: 3}
+  a_KeyPressed: {fileID: 8300000, guid: a1a647b2ac37a794f9b4bcb1113420d1, type: 3}
   a_KeyPressedVolume: 0.231
-  a_Reset: {fileID: 8300000, guid: 1c5a60669febe4ec991635c6161c4be0, type: 3}
+  a_Reset: {fileID: 8300000, guid: 74aea70f80c277143ba464ea7369f700, type: 3}
   a_ResetVolume: 0.269
   VisualizeSprite: 1
   txt_result: {fileID: 0}
@@ -49138,9 +49138,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 82445773594477058, guid: b35447e2df1d44bb7a2f289c6e8d4f52,
         type: 3}
+      propertyPath: m_Volume
+      value: 0.104
+      objectReference: {fileID: 0}
+    - target: {fileID: 82445773594477058, guid: b35447e2df1d44bb7a2f289c6e8d4f52,
+        type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 9530af5580978c54abeca362d69483b5, type: 3}
+      objectReference: {fileID: 8300000, guid: 4641b151254997c49837417cc12c9740, type: 3}
+    - target: {fileID: 82445773594477058, guid: b35447e2df1d44bb7a2f289c6e8d4f52,
+        type: 3}
+      propertyPath: BypassEffects
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 82445773594477058, guid: b35447e2df1d44bb7a2f289c6e8d4f52,
         type: 3}
       propertyPath: m_PlayOnAwake
@@ -58739,8 +58749,8 @@ MonoBehaviour:
     objValue: {fileID: 0}
     audioValue: {fileID: 0}
   popupSpeed: 1
-  a_puzzleSolved: {fileID: 8300000, guid: 0ef53d3e0b8a24672bb9900323e9e4d7, type: 3}
-  a_puzzleSolvedVolume: 0.4
+  a_puzzleSolved: {fileID: 8300000, guid: 7dfd0f3b5cead7a4492eea0ade29822a, type: 3}
+  a_puzzleSolvedVolume: 0.1
   objectActivatedWhenPuzzleIsSolved: {fileID: 327406781}
 --- !u!114 &2137822097
 MonoBehaviour:
@@ -58809,7 +58819,7 @@ MonoBehaviour:
   defaultTile: {fileID: 0}
   _Column: 3
   _NumberOfKey: 3
-  toolbarCurrentValue: 0
+  toolbarCurrentValue: 4
   SquareSize: 50
   currentSelectedSprite: 1
   tilesList:
@@ -58826,9 +58836,9 @@ MonoBehaviour:
   _conditionsToAccessThePuzzle: {fileID: 0}
   _actionsWhenPuzzleIsSolved: {fileID: 0}
   validationButtonJoystick: 4
-  a_KeyPressed: {fileID: 8300000, guid: fdcacd731c83e4e79b1e079580a8e981, type: 3}
+  a_KeyPressed: {fileID: 8300000, guid: a1a647b2ac37a794f9b4bcb1113420d1, type: 3}
   a_KeyPressedVolume: 0.235
-  a_Reset: {fileID: 8300000, guid: 1c5a60669febe4ec991635c6161c4be0, type: 3}
+  a_Reset: {fileID: 8300000, guid: 74aea70f80c277143ba464ea7369f700, type: 3}
   a_ResetVolume: 0.235
   VisualizeSprite: 1
   txt_result: {fileID: 0}
@@ -69908,11 +69918,11 @@ MonoBehaviour:
   _conditionsToAccessThePuzzle: {fileID: 0}
   _actionsWhenPuzzleIsSolved: {fileID: 0}
   validationButtonJoystick: 4
-  a_KeyPressed: {fileID: 8300000, guid: 16c58450784714f99addc64614e8aaba, type: 3}
+  a_KeyPressed: {fileID: 8300000, guid: a1a647b2ac37a794f9b4bcb1113420d1, type: 3}
   a_KeyPressedVolume: 0.235
-  a_Reset: {fileID: 8300000, guid: 1c5a60669febe4ec991635c6161c4be0, type: 3}
+  a_Reset: {fileID: 8300000, guid: 74aea70f80c277143ba464ea7369f700, type: 3}
   a_ResetVolume: 0.268
-  a_WrongCode: {fileID: 8300000, guid: 231af7cde58bf42cd97469e1a906074e, type: 3}
+  a_WrongCode: {fileID: 8300000, guid: dc18f7e16e136e041b0af3567d2a4796, type: 3}
   a_WrongCodeVolume: 0.268
   VisualizeSprite: 1
   txt_result: {fileID: 5350006312221442548}
@@ -70039,8 +70049,8 @@ MonoBehaviour:
     objValue: {fileID: 0}
     audioValue: {fileID: 0}
   popupSpeed: 1
-  a_puzzleSolved: {fileID: 8300000, guid: 0ef53d3e0b8a24672bb9900323e9e4d7, type: 3}
-  a_puzzleSolvedVolume: 0.4
+  a_puzzleSolved: {fileID: 8300000, guid: 7dfd0f3b5cead7a4492eea0ade29822a, type: 3}
+  a_puzzleSolvedVolume: 0.1
   objectActivatedWhenPuzzleIsSolved: {fileID: 5350006312780930192}
 --- !u!114 &5350006312238570255
 MonoBehaviour:
