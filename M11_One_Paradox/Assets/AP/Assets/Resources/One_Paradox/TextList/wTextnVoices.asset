@@ -74,7 +74,7 @@ MonoBehaviour:
       diaryText:
       - Select the destination
       diaryAudioClip:
-      - {fileID: 8300000, guid: a169a79cb24cb6c4186ff8ee811c83d7, type: 3}
+      - {fileID: 8300000, guid: 2b096e8e527d4a748bbf7f0585a7ff36, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -100,7 +100,7 @@ MonoBehaviour:
       diaryText:
       - Turn up the lights to work
       diaryAudioClip:
-      - {fileID: 8300000, guid: f82603e028fba864e8fe837a1714763b, type: 3}
+      - {fileID: 8300000, guid: 9b2909b5d5f1e314e93ce693b1d94874, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -126,7 +126,7 @@ MonoBehaviour:
       diaryText:
       - Group products by family
       diaryAudioClip:
-      - {fileID: 8300000, guid: 04191c7d7de0ded49a530aa9353f0079, type: 3}
+      - {fileID: 8300000, guid: c2cce8ea17ed2a74eb8694b7b2ba8a3a, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -136,7 +136,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Group products by family
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1123,11 +1123,11 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 2
-  b_EditSubtitle: 0
+  selectedID: 4
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
