@@ -150,7 +150,19 @@ MonoBehaviour:
       - Lore01
       diaryTextDisplayState: 01
       diaryText:
-      - Lore test
+      - "In the year 2080. The planet Earth faces waves of heat, water shortages,
+        and planetary storms that ravage entire countries. The fight against climate
+        change is slow, but humanity pushes forward.\r\n\r\nAt Open Factory One,
+        the activity of the distribution center is broadcasted live to the world
+        via streaming, 24/7, demonstrating our commitment to transparency and pride
+        in showcasing our sustainable production model to the rest of the world.\r\n\r\nYou,
+        the Roger units, are the soldiers fighting for a more sustainable tomorrow.
+        Autonomous droids, programmed to carry out the tasks of the distribution
+        center and connected to the AI Decuri\xF3. You are interconnected, but independent
+        in problem-solving and tasks.\r\n\r\nThe planet Earth depends on you! Fulfill
+        your duties, and at the end of the cycle, you will be rewarded with a comforting
+        oil bath and the satisfaction of knowing that you are inspiring future generations
+        of the planet Earth."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -173,10 +185,17 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_02
+      - Lore02
       diaryTextDisplayState: 01
       diaryText:
-      - "Patat\xEDn Patat\xE1n"
+      - "At OF-1, we ensure a clean production with maximum benefit, being a global
+        reference for compliance with the 2080 Agenda.\r\n\r\nYou, the Rogers, are
+        in charge of the factory's production.\n\nYou are powered by renewable energies
+        and programmed with the 5 Roger Guidelines: Recycle, reuse, reduce, recover,
+        and repair. \n\nThe distribution center is on the surface, and in the deeper
+        layers, we find the production of sustainable meat with advanced technological
+        methods.\r\n\r\nOur factory will be an example of production for a more sustainable
+        tomorrow. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -564,10 +583,24 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lore01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "\rEn el a\xF1o 2080. El planeta Tierra enfrenta olas de calor, escasez de
+        agua y tormentas planetarias que arrasan pa\xEDses enteros. La lucha contra
+        el cambio clim\xE1tico es lenta, pero la humanidad avanza.\r\n\r\nEn Open
+        Factory One, la actividad del centro de distribuci\xF3n se transmite en vivo
+        al mundo a trav\xE9s de streaming, las 24 horas del d\xEDa, los 7 d\xEDas
+        de la semana, demostrando nuestro compromiso con la transparencia y el orgullo
+        de mostrar nuestro modelo de producci\xF3n sostenible al resto del mundo.\r\n\r\nUstedes,
+        las unidades Roger, son los soldados que luchan por un ma\xF1ana m\xE1s sostenible.
+        Droides aut\xF3nomos, programados para llevar a cabo las tareas del centro
+        de distribuci\xF3n y conectados a la IA Decuri\xF3. Est\xE1n interconectados,
+        pero son independientes en la resoluci\xF3n de problemas y tareas.\r\n\r\n\xA1El
+        planeta Tierra depende de ustedes! Cumplan con sus deberes y, al final del
+        ciclo, ser\xE1n recompensados con un reconfortante ba\xF1o de aceite y la
+        satisfacci\xF3n de saber que est\xE1n inspirando a las futuras generaciones
+        del planeta Tierra."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -590,7 +623,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Lore02
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -986,18 +1019,20 @@ MonoBehaviour:
       - Lore01
       diaryTextDisplayState: 01
       diaryText:
-      - "El planeta Terra s\u2019enfronta a onades de calor, d\xE8ficit h\xEDdric
-        i tempestes planet\xE0ries que arrasen pa\xEFsos sencers. La lluita contra
-        el canvi clim\xE0tic \xE9s lenta, per\xF2 tirarem endavant. L'Open Factory
-        One s\u2019ha convertit en la f\xE0brica d\u2019Europa, elaborant tota mena
-        de productes sostenibles. \r\n\r\nA l'Open Factory One l\u2019activitat del
-        centre de distribuci\xF3 \xE9s retransmesa en directe al m\xF3n en streaming,
-        24/7, demostrant estem compromesos amb la transpar\xE8ncia i orgullosos de
-        mostrar el nostre model de producci\xF3 sostenible a la resta del m\xF3n.
-        \r\n\r\nVosaltres, les unitats Roger sou els soldats que lluiteu per un dem\xE0
-        m\xE9s sostenible. Droides aut\xF2mats, programats per dur a terme les tasques
-        del centre de distribuci\xF3 i connectats a la IA Decuri\xF3, per\xF2 independents
-        en la resoluci\xF3 de problemes i tasques. \r\n"
+      - "Any 2080.  El planeta Terra s\u2019enfronta a onades de calor, d\xE8ficit
+        h\xEDdric i tempestes planet\xE0ries que arrasen pa\xEFsos sencers. La lluita
+        contra el canvi clim\xE0tic \xE9s lenta, per\xF2 la humanitat tira endavant.
+        \r\n\r\nA l'Open Factory One l\u2019activitat del centre de distribuci\xF3
+        \xE9s retransmesa en directe al m\xF3n en streaming, 24/7, demostrant estem
+        compromesos amb la transpar\xE8ncia i orgullosos de mostrar el nostre model
+        de producci\xF3 sostenible a la resta del m\xF3n. \r\n\r\nVosaltres, les
+        unitats Roger sou els soldats que lluiteu per un dem\xE0 m\xE9s sostenible.
+        Droides aut\xF2mats, programats per dur a terme les tasques del centre de
+        distribuci\xF3 i connectats a la IA Decuri\xF3. Esteu interconnectats, per\xF2
+        sou independents en la resoluci\xF3 de problemes i tasques. \r\n\r\nEl planeta
+        Terra dep\xE8n de vosaltres! Compliu i al final del cicle se us recompensar\xE0
+        amb reconfortant bany d\u2019oli i la satisfacci\xF3 de qu\xE8 esteu inspirant
+        a les futures generacions del planeta terra. \r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -1023,7 +1058,14 @@ MonoBehaviour:
       - Lore_02
       diaryTextDisplayState: 01
       diaryText:
-      - "Patat\xEDn Patat\xE1n"
+      - "A la OF-1. Assegurem una producci\xF3 neta amb un m\xE0xim benefici, sent
+        un referent mundial de compliment de l\u2019Agenda 2080.\r\n\nVosaltres,
+        els Rogers sou els encarregats de la producci\xF3 de la f\xE0brica. Funcioneu
+        amb energies renovables i esteu programats amb les 5 Directrius Roger: Reciclar,
+        reutilitzar, reduir, recuperar i reparar.\n\nEl centre de distribuci\xF3
+        est\xE0 a la superf\xEDcie i en les capes m\xE9s profundes trobem la producci\xF3
+        de carn sostenible amb avan\xE7ats m\xE8todes tecnol\xF2gics. \r\n\nLa nostra
+        f\xE0brica \xE9s un exemple de la producci\xF3 per un dem\xE0 m\xE9s sostenible.\r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
