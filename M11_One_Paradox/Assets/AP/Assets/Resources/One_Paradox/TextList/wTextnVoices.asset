@@ -46,7 +46,7 @@ MonoBehaviour:
       - Puzle02_Carn
       diaryTextDisplayState: 01
       diaryText:
-      - 'Select the Kg of meat to produce in this cycle. '
+      - 'Select the Kt of meat to produce in this cycle. '
       diaryAudioClip:
       - {fileID: 8300000, guid: d09344a6a95146f49bda8f5de5205cc8, type: 3}
       diarySub:
@@ -456,7 +456,8 @@ MonoBehaviour:
       - Puz01_Captcha
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Bienvenida Unidad Roger 1080! Completa el Captcha p\xE0ra demostrar que
+        no eres humano. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -482,7 +483,7 @@ MonoBehaviour:
       - Puz02_Carne
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Selecciona las Kilotoneladas de carne a producir en \xE9ste ciclo. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -508,7 +509,7 @@ MonoBehaviour:
       - Puz03_Distribucion
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Selecciona la destinaci\xF3n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -534,7 +535,7 @@ MonoBehaviour:
       - Luces
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - 'Enciende las luces para trabajar. '
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -915,7 +916,7 @@ MonoBehaviour:
       - Puzle02_Carn
       diaryTextDisplayState: 01
       diaryText:
-      - "Calcula els Kg de carn ecol\xF2gica a produ\xEFr durant aquest cicle"
+      - "Calcula les Kilotonelades de carn a produ\xEFr durant aquest cicle. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -1335,7 +1336,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 6
+  selectedID: 1
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
