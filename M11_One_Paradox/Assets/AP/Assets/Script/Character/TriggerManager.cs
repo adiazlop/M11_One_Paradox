@@ -31,12 +31,11 @@ public class TriggerManager : MonoBehaviour {
 	public int BuildInSceneIndex = 0;	// The index of the scene you want to load
 	public string spawnPointName = "Spawn_0";
 
+    // public Text testTxt;
 
-   // public Text testTxt;
 
-
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		GameObject tmpObj = GameObject.Find ("UI_Infos");
 		//if (tmpObj) info = tmpObj.GetComponent<infoUI> ();
 
@@ -61,8 +60,8 @@ public class TriggerManager : MonoBehaviour {
 
 
 
-//--> What to do for each trigger type
-	private void triggerAction(){
+    //--> What to do for each trigger type
+    private void triggerAction(){
 		switch (TriggerType) {
 	//-> Play a voice
 		case 0:									
@@ -71,9 +70,11 @@ public class TriggerManager : MonoBehaviour {
 				StartCoroutine (DisabledMovementDuringWSeconds (DisabledMovementTimer));
 			break;
 	//-> Go to another level
-		case 1:									
-			ingameGlobalManager.instance.saveAndLoadManager.F_GoToAnotherLevel (spawnPointName, BuildInSceneIndex);
-			break;
+		case 1:
+                
+                ingameGlobalManager.instance.saveAndLoadManager.F_GoToAnotherLevel (spawnPointName, BuildInSceneIndex);
+                
+                break;
     //-> Custom Method
         case 2:
             //Custom Method
