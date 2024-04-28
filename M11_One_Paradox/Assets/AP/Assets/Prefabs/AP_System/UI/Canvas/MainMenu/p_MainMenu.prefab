@@ -96,7 +96,7 @@ MonoBehaviour:
   SeeInspector: 0
   managerID: 10
   uniqueID: 16
-  textList: {fileID: 11400000, guid: 8b90aac8b9b21493eb382fa6771b64d3, type: 2}
+  textList: {fileID: 11400000, guid: 371d1983a476e9a48aafcc4d1825341d, type: 2}
   editorType: 2
   t_Language: 0
   t_ID: 0
