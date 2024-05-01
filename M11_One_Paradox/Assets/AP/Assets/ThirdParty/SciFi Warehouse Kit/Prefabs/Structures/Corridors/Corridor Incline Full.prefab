@@ -26,8 +26,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3361326707275342320}
   m_LocalRotation: {x: 0.7071068, y: -0.000000008458289, z: -0.7071067, w: -0.00000000845829}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: -1, y: -1, z: -1.82712}
+  m_LocalPosition: {x: -0, y: -0.18, z: 0}
+  m_LocalScale: {x: -1, y: -1.05, z: -1.82712}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3361326707275054558}
@@ -193,7 +193,7 @@ GameObject:
   - component: {fileID: 3361326707274284534}
   - component: {fileID: 3361326707273154358}
   - component: {fileID: 5211471753867180955}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Tunnel Incline Steps001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -208,8 +208,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3361326707275342324}
   m_LocalRotation: {x: 0.7071068, y: -0.000000008458289, z: -0.7071067, w: -0.00000000845829}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: -1, y: -1, z: -1.82712}
+  m_LocalPosition: {x: -0, y: -0.18, z: 0}
+  m_LocalScale: {x: -1, y: -1.05, z: -1.82712}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 3361326707275054558}
@@ -276,7 +276,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300008, guid: e76df27ac8248984b956e0afc508c53d, type: 3}
 --- !u!1 &3361326707275342326
