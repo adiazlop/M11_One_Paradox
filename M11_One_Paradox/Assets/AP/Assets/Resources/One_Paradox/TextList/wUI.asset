@@ -2584,7 +2584,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Jump
+      - Game Over
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5622,7 +5622,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Jump
+      - Game Over
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8660,7 +8660,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Jump
+      - "Est\xE0s desconnectat"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9138,14 +9138,14 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 1
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
   selectedID: 94
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
-  showDefaultLanguage: 1
+  showDefaultLanguage: 0
   multipleVoiceOver: 0
   b_ShowEye: 0
   b_UI_DisplayTextArea: 0
