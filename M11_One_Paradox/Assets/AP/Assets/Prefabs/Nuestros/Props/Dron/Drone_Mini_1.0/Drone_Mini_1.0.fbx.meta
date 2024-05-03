@@ -3,7 +3,32 @@ guid: 5262813c39d76a64681e799c9a1aa003
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: f5f854f1a31315949bb8a84fdde54497, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Legs
+    second: {fileID: 2100000, guid: 89cc3ddbca07ca24787b1c9c11f3bd3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights Down
+    second: {fileID: 2100000, guid: 190cd61710be1a04c84002ebb5084535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights Up
+    second: {fileID: 2100000, guid: ed818368251ab8c45842636eb602a33b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wings
+    second: {fileID: 2100000, guid: daad0e7deb6ec2d4a85a8af546cdb1b3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
