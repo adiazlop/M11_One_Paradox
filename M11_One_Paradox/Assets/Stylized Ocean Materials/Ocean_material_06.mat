@@ -84,7 +84,7 @@ Material:
     - _DstBlend: 0
     - _EdgeFoamLevel: 3.39
     - _EdgeFoamLevelDestination: 1
-    - _EdgeFoamPower: 0.216
+    - _EdgeFoamPower: 0.01
     - _FoamOpacity: 0.823
     - _GlossMapScale: 1
     - _Glossiness: 0.5
