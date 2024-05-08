@@ -17,8 +17,7 @@ public class TriggerManager : MonoBehaviour {
 	public bool 				b_DisabledPlayerMovement = false;
 	public float 				DisabledMovementTimer = 5;
 
-    public GameObject gameObjectToActivate; // El gameobject que se activará al entrar en el trigger
-    public AudioSource[] audioSources; // Lista de todas las fuentes de audio que quieres hacer fade out
+
 
     public List<EditorMethodsList.MethodsList> methodsList      // Create a list of Custom Methods that could be edit in the Inspector
     = new List<EditorMethodsList.MethodsList>();
@@ -53,49 +52,14 @@ public class TriggerManager : MonoBehaviour {
 			if (!alreadyPlayed && playOnce && intPlayOnce == 0){
 				intPlayOnce++;
 				alreadyPlayed = true;
-                StartCoroutine(TriggerActionWithDelay());
-			} else if(!playOnce) {
-                StartCoroutine(TriggerActionWithDelay());
+                triggerAction();
+            } else if(!playOnce) {
+                triggerAction();
             }
 		}
 	}
 
-    IEnumerator TriggerActionWithDelay()
-    {
-        // Hacer fade out en todas las fuentes de audio
-        foreach (AudioSource audioSource in audioSources)
-        {
-            StartCoroutine(FadeOutAudio(audioSource, 3f)); // 2 segundos para el fade out
-        }
 
-        // Activar el gameobject que se pasa por parámetro
-        if (gameObjectToActivate != null)
-        {
-            gameObjectToActivate.SetActive(true);
-        }
-
-        // Esperar dos segundos
-        yield return new WaitForSeconds(3f);
-
-        // Llamar a triggerAction() después de esperar dos segundos
-        triggerAction();
-    }
-
-    IEnumerator FadeOutAudio(AudioSource audioSource, float fadeDuration)
-    {
-        float startVolume = audioSource.volume;
-        float currentTime = 0;
-
-        while (currentTime < fadeDuration)
-        {
-            currentTime += Time.deltaTime;
-            audioSource.volume = Mathf.Lerp(startVolume, 0, currentTime / fadeDuration);
-            yield return null;
-        }
-
-        audioSource.Stop();
-        audioSource.volume = startVolume;
-    }
 
     //--> What to do for each trigger type
     private void triggerAction(){
@@ -108,7 +72,6 @@ public class TriggerManager : MonoBehaviour {
 			break;
 	//-> Go to another level
 		case 1:
-                
                 ingameGlobalManager.instance.saveAndLoadManager.F_GoToAnotherLevel (spawnPointName, BuildInSceneIndex);
                 
                 break;
