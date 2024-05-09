@@ -58,7 +58,7 @@ MonoBehaviour:
         lastLetter: 3f000000
         bypasstextLayout: 00
         textSub:
-        - 'Select the Kg of meat to produce in this cycle. '
+        - 'Select the Kt of meat to produce in this cycle. '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -154,15 +154,14 @@ MonoBehaviour:
         and planetary storms that ravage entire countries. The fight against climate
         change is slow, but humanity pushes forward.
 
-        
 
-        At Open
-        Factory One, the activity of the distribution center is broadcasted live
-        to the world via streaming, 24/7, demonstrating our commitment to transparency
-        and pride in showcasing our sustainable production model to the rest of the
-        world.
 
-        
+        At Open Factory One,
+        the activity of the distribution center is broadcasted live to the world
+        via streaming, 24/7, demonstrating our commitment to transparency and pride
+        in showcasing our sustainable production model to the rest of the world.
+
+
 
 '
       - "You, the Roger units, are the soldiers fighting for a more sustainable tomorrow.
@@ -216,7 +215,7 @@ MonoBehaviour:
       - 'The distribution center is on the surface, and in the deeper layers, we
         find the production of sustainable meat with advanced technological methods.
 
-        
+
 
         Our
         factory will be an example of production for a more sustainable tomorrow. '
@@ -253,7 +252,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - EXTRA
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -279,10 +278,13 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Panopticon_01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
+        de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
+        en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
+        Sort que tu no tens sentit del f\xE0stic, oi?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -305,10 +307,20 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Panopticon_02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
+        Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
+        d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent.\r\n\r\nPer\xF2
+        la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica habitual.
+        Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques, per\xF2
+        no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua. La
+        pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
+        purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
+        si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes? \r\n\r\nBaixem
+        una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
+        veure alguna an\xE0lisi, o obtenir una mostra.\r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -694,6 +706,58 @@ MonoBehaviour:
       uniqueItemID: 40
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 41
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 42
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puz01_Captcha
@@ -923,7 +987,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - EXTRA
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -949,10 +1013,13 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Panopticon_01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
+        de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
+        en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
+        Sort que tu no tens sentit del f\xE0stic, oi?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -975,10 +1042,20 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Panopticon_02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
+        Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
+        d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent.\r\n\r\nPer\xF2
+        la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica habitual.
+        Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques, per\xF2
+        no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua. La
+        pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
+        purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
+        si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes? \r\n\r\nBaixem
+        una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
+        veure alguna an\xE0lisi, o obtenir una mostra.\r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -1362,6 +1439,58 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 40
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 41
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 42
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -1593,7 +1722,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - EXTRA
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -1619,10 +1748,13 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Panopticon_01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
+        de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
+        en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
+        Sort que tu no tens sentit del f\xE0stic, oi?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -1645,10 +1777,20 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Panopticon_02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
+        Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
+        d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent.\r\n\r\nPer\xF2
+        la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica habitual.
+        Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques, per\xF2
+        no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua. La
+        pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
+        purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
+        si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes? \r\n\r\nBaixem
+        una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
+        veure alguna an\xE0lisi, o obtenir una mostra.\r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2034,6 +2176,58 @@ MonoBehaviour:
       uniqueItemID: 40
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 41
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 42
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -2045,7 +2239,7 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 1
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
   selectedID: 6
