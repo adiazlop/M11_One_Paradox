@@ -23,7 +23,7 @@ public class Acala_Flikering : MonoBehaviour
         while (true)
         {
             objectToToggle.SetActive(true);
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(3);
             objectToToggle.SetActive(false);
             yield return new WaitForSeconds(5);
         }
