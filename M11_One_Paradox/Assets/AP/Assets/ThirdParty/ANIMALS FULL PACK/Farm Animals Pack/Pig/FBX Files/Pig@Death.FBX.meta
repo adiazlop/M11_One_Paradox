@@ -1,233 +1,85 @@
 fileFormatVersion: 2
 guid: 722490a22fee9be41a6dd2453b1be686
 ModelImporter:
-  serializedVersion: 21300
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: //RootNode
-  - first:
-      1: 100002
-    second: PIG_
-  - first:
-      1: 100004
-    second: PIG_ Head
-  - first:
-      1: 100006
-    second: PIG_ L Calf
-  - first:
-      1: 100008
-    second: PIG_ L Clavicle
-  - first:
-      1: 100010
-    second: PIG_ L Finger0
-  - first:
-      1: 100012
-    second: PIG_ L Foot
-  - first:
-      1: 100014
-    second: PIG_ L Forearm
-  - first:
-      1: 100016
-    second: PIG_ L Hand
-  - first:
-      1: 100018
-    second: PIG_ L HorseLink
-  - first:
-      1: 100020
-    second: PIG_ L Thigh
-  - first:
-      1: 100022
-    second: PIG_ L UpperArm
-  - first:
-      1: 100024
-    second: PIG_ Neck
-  - first:
-      1: 100026
-    second: PIG_ Neck1
-  - first:
-      1: 100028
-    second: PIG_ Pelvis
-  - first:
-      1: 100030
-    second: PIG_ Queue de cheval 1
-  - first:
-      1: 100032
-    second: PIG_ R Calf
-  - first:
-      1: 100034
-    second: PIG_ R Clavicle
-  - first:
-      1: 100036
-    second: PIG_ R Finger0
-  - first:
-      1: 100038
-    second: PIG_ R Foot
-  - first:
-      1: 100040
-    second: PIG_ R Forearm
-  - first:
-      1: 100042
-    second: PIG_ R Hand
-  - first:
-      1: 100044
-    second: PIG_ R HorseLink
-  - first:
-      1: 100046
-    second: PIG_ R Thigh
-  - first:
-      1: 100048
-    second: PIG_ R UpperArm
-  - first:
-      1: 100050
-    second: PIG_ Spine
-  - first:
-      1: 100052
-    second: PIG_ Spine1
-  - first:
-      1: 100054
-    second: PIG_ Tail
-  - first:
-      1: 100056
-    second: PIG_ Tail1
-  - first:
-      1: 100058
-    second: PIG_ Tail2
-  - first:
-      1: 100060
-    second: PIG_ Tail3
-  - first:
-      1: 100062
-    second: PIG_ Tail4
-  - first:
-      1: 100064
-    second: PIG_ Tail5
-  - first:
-      1: 100066
-    second: PIG_ Tail6
-  - first:
-      1: 100068
-    second: Pig_Nose
-  - first:
-      1: 100070
-    second: root
-  - first:
-      4: 400000
-    second: //RootNode
-  - first:
-      4: 400002
-    second: PIG_
-  - first:
-      4: 400004
-    second: PIG_ Head
-  - first:
-      4: 400006
-    second: PIG_ L Calf
-  - first:
-      4: 400008
-    second: PIG_ L Clavicle
-  - first:
-      4: 400010
-    second: PIG_ L Finger0
-  - first:
-      4: 400012
-    second: PIG_ L Foot
-  - first:
-      4: 400014
-    second: PIG_ L Forearm
-  - first:
-      4: 400016
-    second: PIG_ L Hand
-  - first:
-      4: 400018
-    second: PIG_ L HorseLink
-  - first:
-      4: 400020
-    second: PIG_ L Thigh
-  - first:
-      4: 400022
-    second: PIG_ L UpperArm
-  - first:
-      4: 400024
-    second: PIG_ Neck
-  - first:
-      4: 400026
-    second: PIG_ Neck1
-  - first:
-      4: 400028
-    second: PIG_ Pelvis
-  - first:
-      4: 400030
-    second: PIG_ Queue de cheval 1
-  - first:
-      4: 400032
-    second: PIG_ R Calf
-  - first:
-      4: 400034
-    second: PIG_ R Clavicle
-  - first:
-      4: 400036
-    second: PIG_ R Finger0
-  - first:
-      4: 400038
-    second: PIG_ R Foot
-  - first:
-      4: 400040
-    second: PIG_ R Forearm
-  - first:
-      4: 400042
-    second: PIG_ R Hand
-  - first:
-      4: 400044
-    second: PIG_ R HorseLink
-  - first:
-      4: 400046
-    second: PIG_ R Thigh
-  - first:
-      4: 400048
-    second: PIG_ R UpperArm
-  - first:
-      4: 400050
-    second: PIG_ Spine
-  - first:
-      4: 400052
-    second: PIG_ Spine1
-  - first:
-      4: 400054
-    second: PIG_ Tail
-  - first:
-      4: 400056
-    second: PIG_ Tail1
-  - first:
-      4: 400058
-    second: PIG_ Tail2
-  - first:
-      4: 400060
-    second: PIG_ Tail3
-  - first:
-      4: 400062
-    second: PIG_ Tail4
-  - first:
-      4: 400064
-    second: PIG_ Tail5
-  - first:
-      4: 400066
-    second: PIG_ Tail6
-  - first:
-      4: 400068
-    second: Pig_Nose
-  - first:
-      4: 400070
-    second: root
-  - first:
-      74: 7400000
-    second: Death
-  - first:
-      95: 9500000
-    second: //RootNode
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PIG_
+    100004: PIG_ Head
+    100006: PIG_ L Calf
+    100008: PIG_ L Clavicle
+    100010: PIG_ L Finger0
+    100012: PIG_ L Foot
+    100014: PIG_ L Forearm
+    100016: PIG_ L Hand
+    100018: PIG_ L HorseLink
+    100020: PIG_ L Thigh
+    100022: PIG_ L UpperArm
+    100024: PIG_ Neck
+    100026: PIG_ Neck1
+    100028: PIG_ Pelvis
+    100030: PIG_ Queue de cheval 1
+    100032: PIG_ R Calf
+    100034: PIG_ R Clavicle
+    100036: PIG_ R Finger0
+    100038: PIG_ R Foot
+    100040: PIG_ R Forearm
+    100042: PIG_ R Hand
+    100044: PIG_ R HorseLink
+    100046: PIG_ R Thigh
+    100048: PIG_ R UpperArm
+    100050: PIG_ Spine
+    100052: PIG_ Spine1
+    100054: PIG_ Tail
+    100056: PIG_ Tail1
+    100058: PIG_ Tail2
+    100060: PIG_ Tail3
+    100062: PIG_ Tail4
+    100064: PIG_ Tail5
+    100066: PIG_ Tail6
+    100068: Pig_Nose
+    100070: root
+    400000: //RootNode
+    400002: PIG_
+    400004: PIG_ Head
+    400006: PIG_ L Calf
+    400008: PIG_ L Clavicle
+    400010: PIG_ L Finger0
+    400012: PIG_ L Foot
+    400014: PIG_ L Forearm
+    400016: PIG_ L Hand
+    400018: PIG_ L HorseLink
+    400020: PIG_ L Thigh
+    400022: PIG_ L UpperArm
+    400024: PIG_ Neck
+    400026: PIG_ Neck1
+    400028: PIG_ Pelvis
+    400030: PIG_ Queue de cheval 1
+    400032: PIG_ R Calf
+    400034: PIG_ R Clavicle
+    400036: PIG_ R Finger0
+    400038: PIG_ R Foot
+    400040: PIG_ R Forearm
+    400042: PIG_ R Hand
+    400044: PIG_ R HorseLink
+    400046: PIG_ R Thigh
+    400048: PIG_ R UpperArm
+    400050: PIG_ Spine
+    400052: PIG_ Spine1
+    400054: PIG_ Tail
+    400056: PIG_ Tail1
+    400058: PIG_ Tail2
+    400060: PIG_ Tail3
+    400062: PIG_ Tail4
+    400064: PIG_ Tail5
+    400066: PIG_ Tail6
+    400068: Pig_Nose
+    400070: root
+    7400000: Death
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 1
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -236,7 +88,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -257,8 +108,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Death
       takeName: Take 001
-      internalID: 0
-      firstFrame: 64
+      firstFrame: 0
       lastFrame: 70
       wrapMode: 0
       orientationOffsetY: 0
@@ -378,34 +228,25 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
-    nodeNameCollisionStrategy: 0
-    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    optimizeBones: 1
-    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 0
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -414,10 +255,10 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 1
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -427,19 +268,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: root
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 7cce7c32a6f9b2b4181f2ea08d2a469d,
     type: 3}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 2
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
-  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
