@@ -260,7 +260,7 @@ MonoBehaviour:
         en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
         Sort que tu no tens sentit del f\xE0stic, oi?"
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: d15a20f655443884884ac11954185dd5, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -270,7 +270,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "S\u2019obre un nou m\xF3n per tu, eh R"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -296,17 +296,33 @@ MonoBehaviour:
         una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
         veure alguna an\xE0lisi, o obtenir una mostra.\r\n"
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 11d3d296025cd624ea28a7467880c75c, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 197.95416
+        - 399.95416
+        - 594.95416
+        lastLetter: c2000000c8000000be00000079000000
+        bypasstextLayout: 00000000
         textSub:
-        - 
+        - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
+          Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
+          d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent."
+        - "Per\xF2 la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica
+          habitual. Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques,
+          per\xF2 no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua"
+        - "La pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
+          purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
+          si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes?"
+        - "Baixem una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial
+          si pogu\xE9ssim veure alguna an\xE0lisi, o obtenir una mostra."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -317,22 +333,23 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Felicitats
+      - Acala_Puzle_2030
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes, busca'l
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 9971b22d5d082e24cab1f4d7ca2949ce, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 57000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes,
+          busca'l
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -343,22 +360,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Perseguidor
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 239576ec4d4e9d14988f73f19f71f861, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 4c000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -621,12 +638,12 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Depuradora04_Salta
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - 'SALTA! ARA! '
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: b648ecebb166e614e9a1caf06a6bf3ea, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -636,7 +653,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - 'SALTA! ARA! '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -647,22 +664,32 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Carn01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
+        connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
+        la manera de fugir d\u2019aqu\xED\u2026 S\xED, tu avan\xE7a que a la que
+        pugui et connecto a una base de c\xE0rrega\u2026 No et preocupis, encara
+        podem reinserir-te al sistema\u2026"
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 0ffe60cb27d1b9a41b86f879f752c15f, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 0101
         startPointsClip:
         - 0
+        - 2
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 164.51875
+        lastLetter: a4000000c8000000
+        bypasstextLayout: 0100
         textSub:
-        - 
+        - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
+          connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
+          la manera de fugir d\u2019aqu\xED\u2026"
+        - "S\xED, tu avan\xE7a que a la que pugui et connecto a una base de c\xE0rrega\u2026
+          No et preocupis, encara podem reinserir-te al sistema\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -673,22 +700,41 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Carn02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
+        \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
+        \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
+        dantesc\u2026 \r\r\nO sigui que d\u2019aqu\xED venen els nitrats\u2026 dels
+        fems\u2026 Per\xF2 per enverinar tant l\u2019aigua de nitrats perqu\xE8 fins
+        i tot ells hagin de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026
+        Tot aquest pan\xF2ptic\u2026 Ha d\u2019haver-hi milions d\u2019animals\u2026
+        \r"
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 3867a7c98d9f3564abfeea11a1ead02a, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 010101
         startPointsClip:
         - 0
+        - 2
+        - 4
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 182
+        - 367
+        lastLetter: b2000000b900000021000000
+        bypasstextLayout: 000000
         textSub:
-        - 
+        - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
+          \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
+          \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
+          dantesc\u2026"
+        - "O sigui que d\u2019aqu\xED venen els nitrats\u2026 dels fems\u2026 Per\xF2
+          per enverinar tant l\u2019aigua de nitrats perqu\xE8 fins i tot ells hagin
+          de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026 Tot aquest
+          pan\xF2ptic\u2026"
+        - " Ha d\u2019haver-hi milions d\u2019animals\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1348,6 +1394,58 @@ MonoBehaviour:
       uniqueItemID: 60
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 61
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 62
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puz01_Captcha
@@ -1623,14 +1721,23 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 00010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 30
+        - 60
+        - 90
+        lastLetter: 1e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000
         textSub:
+        - 
+        - 
+        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -1917,14 +2024,17 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 0001
         startPointsClip:
         - 0
+        - 2
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 30
+        lastLetter: 1e0000001e000000
+        bypasstextLayout: 0000
         textSub:
+        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -1943,14 +2053,20 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 000101
         startPointsClip:
         - 0
+        - 2
+        - 4
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 30
+        - 60
+        lastLetter: 1e0000001e0000001e000000
+        bypasstextLayout: 000000
         textSub:
+        - 
+        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -2611,6 +2727,58 @@ MonoBehaviour:
       uniqueItemID: 60
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 61
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 62
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puzle01_Captcha
@@ -2886,15 +3054,29 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 17.925
+        - 60
+        - 90
+        lastLetter: c1000000c80000001e0000001e000000
+        bypasstextLayout: 00000000
         textSub:
-        - 
+        - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
+          Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
+          d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent"
+        - " primeres plantes hi ha una depuradora d\u2019aigua\u2026 Interessant\u2026
+          Si et preguntes, que hi ha de dolent a tenir una depuradora d'aigua a la
+          f\xE0brica, et diria que no t\xE9 res de dolent.\r\n\r\nPer\xF2 la simple
+          imple"
+        - "igua\u2026 Interessant\u2026 Si et pregu"
+        - ntes, que hi ha de dolent a te
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2905,22 +3087,23 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Puzle2030
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes, busca'l
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 50000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes,
+          busca'l
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2931,22 +3114,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_perseguidor
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 4f000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3210,10 +3393,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Salta_Depuradora04
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - 'SALTA! ARA! '
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3225,7 +3408,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - 'SALTA! ARA! '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3236,22 +3419,32 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Carn01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
+        connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
+        la manera de fugir d\u2019aqu\xED\u2026 S\xED, tu avan\xE7a que a la que
+        pugui et connecto a una base de c\xE0rrega\u2026 No et preocupis, encara
+        podem reinserir-te al sistema\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 0101
         startPointsClip:
         - 0
+        - 2
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 165.03542
+        lastLetter: a4000000c8000000
+        bypasstextLayout: 0000
         textSub:
-        - 
+        - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
+          connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
+          la manera de fugir d\u2019aqu\xED\u2026"
+        - "S\xED, tu avan\xE7a que a la que pugui et connecto a una base de c\xE0rrega\u2026
+          No et preocupis, encara podem reinserir-te al sistema\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3262,22 +3455,35 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Carn02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
+        \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
+        \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
+        dantesc\u2026 \r\n\r\nO sigui que d\u2019aqu\xED venen els nitrats\u2026
+        dels fems\u2026 Per\xF2 per enverinar tant l\u2019aigua de nitrats perqu\xE8
+        fins i tot ells hagin de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026
+        Tot aquest pan\xF2ptic\u2026 Ha d\u2019haver-hi milions d\u2019animals\u2026
+        \r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 000101
         startPointsClip:
         - 0
+        - 2
+        - 4
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 30
+        - 60
+        lastLetter: 1e0000001e0000001e000000
+        bypasstextLayout: 000000
         textSub:
-        - 
+        - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D"
+        - "\xE9u meu. S\xF3n animals vius\u2026 \r\nTe"
+        - "nen animals vius\u2026 No estan cre"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3937,6 +4143,58 @@ MonoBehaviour:
       uniqueItemID: 60
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 61
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 62
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -3951,8 +4209,8 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 15
-  b_EditSubtitle: 0
+  selectedID: 18
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
