@@ -8,6 +8,7 @@ public class CameraFocusTrigger : MonoBehaviour
     public GameObject[] gameObjectsToActivate; // Array de GameObjects que quieres activar
     public float activationDuration = 43f; // Duración en segundos para mantener activados los GameObjects
     public Animator animatorToActivate; // Animator que quieres activar después del tiempo especificado
+    public AudioClip soundToPlay; // Sonido que quieres reproducir después del tiempo especificado
 
     private bool objectsActivated = false;
 
@@ -21,6 +22,7 @@ public class CameraFocusTrigger : MonoBehaviour
                 ActivateObjects();
                 Invoke("DeactivateObjects", activationDuration); // Desactiva los GameObjects después de un tiempo
                 Invoke("ActivateAnimator", activationDuration); // Activa el Animator después del tiempo
+                Invoke("PlaySound", activationDuration); // Reproduce el sonido después del tiempo
             }
         }
     }
@@ -57,4 +59,11 @@ public class CameraFocusTrigger : MonoBehaviour
         }
     }
 
+    void PlaySound()
+    {
+        if (soundToPlay != null)
+        {
+            AudioSource.PlayClipAtPoint(soundToPlay, transform.position);
+        }
+    }
 }
