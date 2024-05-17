@@ -1,4 +1,5 @@
 ﻿// Decription : TextProperties : Choose and update the Text ID. Update the text in game too 
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -34,8 +35,8 @@ public class TextProperties : MonoBehaviour {
 				txt = gameObject.GetComponent<Text> ();
 
             if (txt != null){
-               //Debug.Log("Update : " + ingameGlobalManager.instance.currentLanguage);
-               txt.text = r_TextList().r_Title(ingameGlobalManager.instance.currentLanguage, managerID);
+                //Debug.Log("Update : " + ingameGlobalManager.instance.currentLanguage);			    //[MCH] Passar text a majuscules
+                txt.text = r_TextList().r_Title(ingameGlobalManager.instance.currentLanguage, managerID).ToString().ToUpper();	
             }
 		}
 	}
@@ -43,9 +44,9 @@ public class TextProperties : MonoBehaviour {
 	public string returnInfoText(){
 		if (txt == null)
 			txt = gameObject.GetComponent<Text> ();
-
-		return r_TextList().r_Title (ingameGlobalManager.instance.currentLanguage, managerID);
-	}
+																							 //[MCH] Passar text a majuscules
+        return r_TextList().r_Title (ingameGlobalManager.instance.currentLanguage, managerID).ToString().ToUpper();
+    }
 
 
 	public TextList r_TextList(){

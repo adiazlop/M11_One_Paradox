@@ -43,6 +43,32 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
+      - Puzle02_Carn
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Select the Kt of meat to produce in this cycle. '
+      diaryAudioClip:
+      - {fileID: 8300000, guid: d09344a6a95146f49bda8f5de5205cc8, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 3f000000
+        bypasstextLayout: 00
+        textSub:
+        - 'Select the Kt of meat to produce in this cycle. '
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
       - Puzle03_Distribucio
       diaryTextDisplayState: 01
       diaryText:
@@ -260,7 +286,7 @@ MonoBehaviour:
         en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
         Sort que tu no tens sentit del f\xE0stic, oi?"
       diaryAudioClip:
-      - {fileID: 8300000, guid: d15a20f655443884884ac11954185dd5, type: 3}
+      - {fileID: 0}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -270,7 +296,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - "S\u2019obre un nou m\xF3n per tu, eh R"
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -296,33 +322,17 @@ MonoBehaviour:
         una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
         veure alguna an\xE0lisi, o obtenir una mostra.\r\n"
       diaryAudioClip:
-      - {fileID: 8300000, guid: 11d3d296025cd624ea28a7467880c75c, type: 3}
+      - {fileID: 0}
       diarySub:
-      - showMore: 01010101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
-        - 4
-        - 6
         firstLetter:
         - 0
-        - 197.95416
-        - 399.95416
-        - 594.95416
-        lastLetter: c2000000c8000000be00000079000000
-        bypasstextLayout: 00000000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
-          Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
-          d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent."
-        - "Per\xF2 la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica
-          habitual. Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques,
-          per\xF2 no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua"
-        - "La pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
-          purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
-          si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes?"
-        - "Baixem una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial
-          si pogu\xE9ssim veure alguna an\xE0lisi, o obtenir una mostra."
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -333,161 +343,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Puzle_2030
-      diaryTextDisplayState: 01
-      diaryText:
-      - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes, busca'l
-      diaryAudioClip:
-      - {fileID: 8300000, guid: 9971b22d5d082e24cab1f4d7ca2949ce, type: 3}
-      diarySub:
-      - showMore: 01
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 57000000
-        bypasstextLayout: 00
-        textSub:
-        - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes,
-          busca'l
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 27
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Acala_Perseguidor
-      diaryTextDisplayState: 01
-      diaryText:
-      - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
-      diaryAudioClip:
-      - {fileID: 8300000, guid: 239576ec4d4e9d14988f73f19f71f861, type: 3}
-      diarySub:
-      - showMore: 01
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 4c000000
-        bypasstextLayout: 00
-        textSub:
-        - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 28
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_LoreT1_Vaques
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Vaques - \u201CBos Taurus Mutationem\u201D"
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 29
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_LoreT02_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Porcs - Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs. \r\n\r\n\u201CSus
-        Scrofa Domestica Mutatem\u201D-  Subesp\xE8cie de mam\xEDfer artiod\xE0ctil
-        de la fam\xEDlia Suidae. Aquesta variant de l\u2019anomenat \u201CPorc de
-        granja\u201D \xE9s una mutaci\xF3 encara millor adaptada i de creixement
-        r\xE0pid a la f\xF3rmula aliment\xE0ria que combina soja i blat de moro.\r\n\r\nPendent:
-        \r\n\r\nCalcular rendibilitat i ampliar secci\xF3 porcina en conseq\xFC\xE8ncia\r\nMillorar
-        m\xE8tode de sacrifici: Estudi de viabilitat econ\xF2mica del m\xE8tode d'atordiment
-        i ebullici\xF3 en vida. \r\nAvaluar la capacitat de purificaci\xF3 de l\u2019aigua
-        i determinar noves localitzacions de la purga d\u2019aigua tractada. [Evitar
-        alertes a autoritats] \r"
-      - "L\u2019any 2016 Espanya s\u2019havia convertit en un dels grans exportadors
-        de carn de porc, havent duplicat la seva producci\xF3 des del 2007 i havent
-        trobat a la Xina el seu comprador principal. \r\n\r\nSegons les meves dades,
-        la quantitat anual d\u2019animals que se sacrificaven era d\u2019aprox. els
-        46,5 milions d\u2019individus anuals, una xifra molt similar a la totalitat
-        dels ciutadans espanyols. Dit d\u2019una manera simple m\xE9s adequada per
-        a ments humanes, es mataven cada any tants porcs com ciutadans tenia el mateix
-        Pa\xEDs. \r"
-      - "Sempre m\u2019ha semblat curiosa la fixaci\xF3 dels humans per considerar
-        unes esp\xE8cies mascotes i altres \u201Cmenjar\u201D: no acabo d\u2019entendre
-        l\u2019arbitrarietat amb la qual fan la decisi\xF3 de classificar unes i
-        altres, i \xE9s que he detectat a la f\xE0brica que un porc t\xE9 m\xE9s
-        intel\xB7lig\xE8ncia que un gos i mostra habilitats cognitives similars a
-        les d'un esp\xE8cimen hum\xE0 de 3 anys.\r\n\r\nNo estic programat per fer
-        aquesta distinci\xF3, per tant, potser hauria de criar esp\xE8cimens de \u201CCanis
-        lupus familiaris\u201D per estudiar la viabilitat nutritiva de la seva carn
-        i fins i tot de les seves secrecions mam\xE0ries per subministrar a humans.
-        \r"
-      diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 30
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore T03_Cabres
+      - Felicitats
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -506,24 +362,17 @@ MonoBehaviour:
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
-      showInInventory: 1
+      showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 31
+      uniqueItemID: 27
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT04_Aviram
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Porcs - Decuri\xF3n - Data Files #194. Aviram - Gallus gallus Domesticus\r\n\r\nEn
-        la comercialitzaci\xF3 dels ous en el segle passat s\u2019utilitzava la frase
-        \u201COus de gallines criades en terra\u201D. Si b\xE9 desconec si els humans
-        tenien granges de pollastres a la lluna, aquesta definici\xF3 s\u2019utilitzava
-        per promocionar que els ous. Tot era una campanya de m\xE0rqueting, ja que
-        en la majoria de les explotacions, si b\xE9 les gallines no estaven tancades
-        en g\xE0bies es trobaven en una situaci\xF3 gens natural, ja que passaven
-        la seva curta vida dins de naus industrials\r\n"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -539,54 +388,18 @@ MonoBehaviour:
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
-      showInInventory: 1
+      showInInventory: 0
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 32
+      uniqueItemID: 28
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT5_Llet
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Llet - Data Analysis #6759\r\n\nSempre \xE9s divertit estudiar l\u2019Homo
-        sapiens en especial els seus h\xE0bits de consum relacionats amb l\u2019explotaci\xF3
-        ramadera. Per una banda, no entenc per qu\xE8 la composici\xF3 d\u2019aliments
-        humans utilitza quantitat d\u2019aquests que contenen \u201Cs\xE8rum lacti\u201D
-        o prote\xEFna de la llet sense que aquests aportin un valor nutritiu justificat.
-        Tamb\xE9 \xE9s estrany trobar humans que creuen que les vaques donen llet
-        de manera natural: com a propis mam\xEDfers semblen oblidar que aquests nom\xE9s
-        donen llet quan s\xF3n mares. \r\n\r\nEn el m\xF3n animal no hi ha cap altra
-        criatura que passada el seu per\xEDode de lact\xE0ncia continu\xEF nodrint-se
-        de les segregacions mam\xE0ries dels seus progenitors.\r"
-      - "M\xE9s estrany \xE9s que un mam\xEDfer begui les segregacions mam\xE0ries
-        d\u2019una altra esp\xE8cie de que no sigui la seva. No entenc com els humans
-        no van extendre aquest fetitx bevent tamb\xE9 llet de rata, de gat, de gos\u2026
-        \r\n\nSegons les meves observacions la llet \xE9s perfectament sana i saludable\u2026
-        per a una vedella. Quan la consumeixen els humans s\u2019observen s\xEDmptomes
-        com irritaci\xF3 gastrointestinal, acn\xE9 i he trobat estudis que relacionaven
-        fins i tot el consum d\u2019aquesta amb c\xE0ncers de mama en femelles humanes.
-        \r\n"
-      - "Una problem\xE0tica pr\xE0ctica que he tingut \xE9s que les meves instal\xB7lacions
-        estan basades en el disseny d\u2019explotaci\xF3 cl\xE0ssica i encara no
-        he invertit per solucionar dos problemes menors, per\xF2 relacionats entre
-        ells. \r\n\r\nD\u2019una banda, el disseny actual hum\xE0 provoca mastitis
-        als exemplars en el proc\xE9s de succi\xF3 de la llet. \r\nPrimer, la pus:
-        la secreci\xF3 d\u2019aquesta \xE9s quelcom que no he pogut evitar, donat
-        que el disseny de la \u201Cmunyidora\u201D provoca infeccions i mastitis
-        en els exemplars. Aparentment, als humans no els importava si la llet que
-        consumien contenia concentracions de sang.\r"
-      - "La majoria d\u2019animals d\u2019aquest complex estan suplementats preventivament
-        amb antibi\xF2tics, no nom\xE9s per la mastitis sin\xF3 per altres infeccions
-        i malalties no controlades que poden encomanar-se. \nAix\xF2 provoca que
-        els humans puguin desenvolupar una resist\xE8ncia a aquests, per\xF2 sobretot
-        he de tenir especial cura de prevenir el sorgiment de superbacteris resistents
-        a antibi\xF2tics, o fins i tot que alguna malaltia d\u2019origen zoon\xF2tic
-        muti i provoqui una pand\xE8mia mundial com la del 2019 o la del 2050. "
+      - 
       diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -598,24 +411,23 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 29
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
       - showMore: 00
         startPointsClip:
         - 0
@@ -627,8 +439,83 @@ MonoBehaviour:
         - 
       diarySprite:
       - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 30
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Lore_01
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
       - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
       - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 31
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Lore_02
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 32
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -638,12 +525,12 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Depuradora04_Salta
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - 'SALTA! ARA! '
+      - 
       diaryAudioClip:
-      - {fileID: 8300000, guid: b648ecebb166e614e9a1caf06a6bf3ea, type: 3}
+      - {fileID: 0}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -653,7 +540,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 'SALTA! ARA! '
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -664,32 +551,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Carn01
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
-        connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
-        la manera de fugir d\u2019aqu\xED\u2026 S\xED, tu avan\xE7a que a la que
-        pugui et connecto a una base de c\xE0rrega\u2026 No et preocupis, encara
-        podem reinserir-te al sistema\u2026"
+      - 
       diaryAudioClip:
-      - {fileID: 8300000, guid: 0ffe60cb27d1b9a41b86f879f752c15f, type: 3}
+      - {fileID: 0}
       diarySub:
-      - showMore: 0101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
         firstLetter:
         - 0
-        - 164.51875
-        lastLetter: a4000000c8000000
-        bypasstextLayout: 0100
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
-          connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
-          la manera de fugir d\u2019aqu\xED\u2026"
-        - "S\xED, tu avan\xE7a que a la que pugui et connecto a una base de c\xE0rrega\u2026
-          No et preocupis, encara podem reinserir-te al sistema\u2026"
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -700,41 +577,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Carn02
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
-        \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
-        \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
-        dantesc\u2026 \r\r\nO sigui que d\u2019aqu\xED venen els nitrats\u2026 dels
-        fems\u2026 Per\xF2 per enverinar tant l\u2019aigua de nitrats perqu\xE8 fins
-        i tot ells hagin de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026
-        Tot aquest pan\xF2ptic\u2026 Ha d\u2019haver-hi milions d\u2019animals\u2026
-        \r"
+      - 
       diaryAudioClip:
-      - {fileID: 8300000, guid: 3867a7c98d9f3564abfeea11a1ead02a, type: 3}
+      - {fileID: 0}
       diarySub:
-      - showMore: 010101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
-        - 4
         firstLetter:
         - 0
-        - 182
-        - 367
-        lastLetter: b2000000b900000021000000
-        bypasstextLayout: 000000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
-          \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
-          \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
-          dantesc\u2026"
-        - "O sigui que d\u2019aqu\xED venen els nitrats\u2026 dels fems\u2026 Per\xF2
-          per enverinar tant l\u2019aigua de nitrats perqu\xE8 fins i tot ells hagin
-          de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026 Tot aquest
-          pan\xF2ptic\u2026"
-        - " Ha d\u2019haver-hi milions d\u2019animals\u2026"
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -978,474 +836,6 @@ MonoBehaviour:
       uniqueItemID: 45
       itemType: 0
       audioPriority: 0
-    - diaryTitle:
-      - LoreTest
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 46
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Puzle02_Carn
-      diaryTextDisplayState: 01
-      diaryText:
-      - 'Select the Kt of meat to produce in this cycle. '
-      diaryAudioClip:
-      - {fileID: 8300000, guid: d09344a6a95146f49bda8f5de5205cc8, type: 3}
-      diarySub:
-      - showMore: 01
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 3f000000
-        bypasstextLayout: 00
-        textSub:
-        - 'Select the Kt of meat to produce in this cycle. '
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 18
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Secret door opened
-      diaryTextDisplayState: 01
-      diaryText:
-      - Secret door opened
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 47
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_01
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 48
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_02
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 49
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_03
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 50
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_04
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 51
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_05
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 52
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_06
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 53
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_T03
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 54
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Aviram
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 1
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 55
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 56
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Cabretes
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 57
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 58
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Vaques
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 59
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Llet
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 60
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 61
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 62
-      itemType: 0
-      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puz01_Captcha
@@ -1472,6 +862,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Puz02_Carne
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Selecciona las Kilotoneladas de carne a producir en \xE9ste ciclo. "
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -1721,23 +1137,14 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00010101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
-        - 4
-        - 6
         firstLetter:
         - 0
-        - 30
-        - 60
-        - 90
-        lastLetter: 1e0000001e0000001e0000001e000000
-        bypasstextLayout: 00000000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - 
-        - 
-        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -1831,11 +1238,7 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - 
-      - New Page
-      - New Page
       diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -1847,27 +1250,7 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
       diarySprite:
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -1933,13 +1316,7 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - 
-      - New Page
-      - New Page
-      - New Page
       diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -1951,37 +1328,7 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
       diarySprite:
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -2024,17 +1371,14 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
-        bypasstextLayout: 0000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -2053,20 +1397,14 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 000101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
-        - 4
         firstLetter:
         - 0
-        - 30
-        - 60
-        lastLetter: 1e0000001e0000001e000000
-        bypasstextLayout: 000000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - 
-        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -2311,474 +1649,6 @@ MonoBehaviour:
       uniqueItemID: 45
       itemType: 0
       audioPriority: 0
-    - diaryTitle:
-      - LoreTest
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 46
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Puz02_Carne
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Selecciona las Kilotoneladas de carne a producir en \xE9ste ciclo. "
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 18
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - New Title
-      diaryTextDisplayState: 01
-      diaryText:
-      - New description
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 47
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_01
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 48
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_02
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 49
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_03
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 50
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_04
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 51
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_05
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 52
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_06
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 53
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_T03
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 54
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Aviram
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 55
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 56
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Cabretes
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 57
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 58
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Vaques
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 59
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Llet
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 60
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 61
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 62
-      itemType: 0
-      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puzle01_Captcha
@@ -2806,6 +1676,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 17
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Puzle02_Carn
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Calcula les Kilotonelades de carn a produ\xEFr durant aquest cicle. "
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 66000000
+        bypasstextLayout: 00
+        textSub:
+        - "Calcula els Kg de carn ecol\xF2gica a produ\xEFr durant aquest cicle"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 18
       itemType: 0
       audioPriority: 0
     - diaryTitle:
@@ -3054,29 +1950,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 01010101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
-        - 4
-        - 6
         firstLetter:
         - 0
-        - 17.925
-        - 60
-        - 90
-        lastLetter: c1000000c80000001e0000001e000000
-        bypasstextLayout: 00000000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
-          Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
-          d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent"
-        - " primeres plantes hi ha una depuradora d\u2019aigua\u2026 Interessant\u2026
-          Si et preguntes, que hi ha de dolent a tenir una depuradora d'aigua a la
-          f\xE0brica, et diria que no t\xE9 res de dolent.\r\n\r\nPer\xF2 la simple
-          imple"
-        - "igua\u2026 Interessant\u2026 Si et pregu"
-        - ntes, que hi ha de dolent a te
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3087,23 +1969,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Puzle2030
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes, busca'l
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 01
+      - showMore: 00
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 50000000
+        lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes,
-          busca'l
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3114,22 +1995,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_perseguidor
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 01
+      - showMore: 00
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 4f000000
+        lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3140,10 +2021,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT1_Vaques
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Vaques - \u201CBos Taurus Mutationem\u201D"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3166,40 +2047,11 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT02_Porcs
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Porcs - Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs. \r\n\r\n\u201CSus
-        Scrofa Domestica Mutatem\u201D-  Subesp\xE8cie de mam\xEDfer artiod\xE0ctil
-        de la fam\xEDlia Suidae. Aquesta variant de l\u2019anomenat \u201CPorc de
-        granja\u201D \xE9s una mutaci\xF3 encara millor adaptada i de creixement
-        r\xE0pid a la f\xF3rmula aliment\xE0ria que combina soja i blat de moro.\r\n\r\nPendent:
-        \r\n\r\nCalcular rendibilitat i ampliar secci\xF3 porcina en conseq\xFC\xE8ncia\r\nMillorar
-        m\xE8tode de sacrifici: Estudi de viabilitat econ\xF2mica del m\xE8tode d'atordiment
-        i ebullici\xF3 en vida. \r\nAvaluar la capacitat de purificaci\xF3 de l\u2019aigua
-        i determinar noves localitzacions de la purga d\u2019aigua tractada. [Evitar
-        alertes a autoritats] \r"
-      - "L\u2019any 2016 Espanya s\u2019havia convertit en un dels grans exportadors
-        de carn de porc, havent duplicat la seva producci\xF3 des del 2007 i havent
-        trobat a la Xina el seu comprador principal. \r\n\r\nSegons les meves dades,
-        la quantitat anual d\u2019animals que se sacrificaven era d\u2019aprox. els
-        46,5 milions d\u2019individus anuals, una xifra molt similar a la totalitat
-        dels ciutadans espanyols. Dit d\u2019una manera simple m\xE9s adequada per
-        a ments humanes, es mataven cada any tants porcs com ciutadans tenia el mateix
-        Pa\xEDs. \r"
-      - "Sempre m\u2019ha semblat curiosa la fixaci\xF3 dels humans per considerar
-        unes esp\xE8cies mascotes i altres \u201Cmenjar\u201D: no acabo d\u2019entendre
-        l\u2019arbitrarietat amb la qual fan la decisi\xF3 de classificar unes i
-        altres, i \xE9s que he detectat a la f\xE0brica que un porc t\xE9 m\xE9s
-        intel\xB7lig\xE8ncia que un gos i mostra habilitats cognitives similars a
-        les d'un esp\xE8cimen hum\xE0 de 3 anys.\r\n\r\nNo estic programat per fer
-        aquesta distinci\xF3, per tant, potser hauria de criar esp\xE8cimens de \u201CCanis
-        lupus familiaris\u201D per estudiar la viabilitat nutritiva de la seva carn
-        i fins i tot de les seves secrecions mam\xE0ries per subministrar a humans.
-        \r"
+      - 
       diaryAudioClip:
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -3211,27 +2063,7 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
       diarySprite:
-      - {fileID: 0}
-      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -3241,7 +2073,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore T03_Cabres
+      - Lore_01
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -3267,18 +2099,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT04_Aviram
+      - Lore_02
       diaryTextDisplayState: 01
       diaryText:
-      - "Aviram - Gallus gallus Domesticus\r\n\r\nNuggets, pollets nadons morts amb
-        un dia de vida. Nascuts per morir. \r\n\r\n\u201CRange Free\u201D\r\n\r\nEn
-        la comercialitzaci\xF3 dels ous en el segle passat s\u2019utilitzava la frase
-        \u201COus de gallines criades en terra\u201D. Si b\xE9 desconec si els humans
-        tenien granges de pollastres a la lluna, aquesta definici\xF3 s\u2019utilitzava
-        per promocionar que els ous. Tot era una campanya de m\xE0rqueting, ja que
-        en la majoria de les explotacions, si b\xE9 les gallines no estaven tancades
-        en g\xE0bies es trobaven en una situaci\xF3 gens natural, ja que passaven
-        la seva curta vida dins de naus industrials\r\n"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3301,76 +2125,13 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT5_Llet
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Llet - Data Analysis #6759\r\n\nSempre \xE9s divertit estudiar l\u2019Homo
-        sapiens en especial els seus h\xE0bits de consum relacionats amb l\u2019explotaci\xF3
-        ramadera. Per una banda, no entenc per qu\xE8 la composici\xF3 d\u2019aliments
-        humans utilitza quantitat d\u2019aquests que contenen \u201Cs\xE8rum lacti\u201D
-        o prote\xEFna de la llet sense que aquests aportin un valor nutritiu justificat.
-        Tamb\xE9 \xE9s estrany trobar humans que creuen que les vaques donen llet
-        de manera natural: com a propis mam\xEDfers semblen oblidar que aquests nom\xE9s
-        donen llet quan s\xF3n mares. \r\n\r\nEn el m\xF3n animal no hi ha cap altra
-        criatura que passada el seu per\xEDode de lact\xE0ncia continu\xEF nodrint-se
-        de les segregacions mam\xE0ries dels seus progenitors.\r"
-      - "M\xE9s estrany \xE9s que un mam\xEDfer begui les segregacions mam\xE0ries
-        d\u2019una altra esp\xE8cie de que no sigui la seva. No entenc com els humans
-        no van extendre aquest fetitx bevent tamb\xE9 llet de rata, de gat, de gos\u2026
-        \r\n\nSegons les meves observacions la llet \xE9s perfectament sana i saludable\u2026
-        per a una vedella. Quan la consumeixen els humans s\u2019observen s\xEDmptomes
-        com irritaci\xF3 gastrointestinal, acn\xE9 i he trobat estudis que relacionaven
-        fins i tot el consum d\u2019aquesta amb c\xE0ncers de mama en femelles humanes.
-        \r"
-      - "Una problem\xE0tica pr\xE0ctica que he tingut \xE9s que les meves instal\xB7lacions
-        estan basades en el disseny d\u2019explotaci\xF3 cl\xE0ssica i encara no
-        he invertit per solucionar dos problemes menors, per\xF2 relacionats entre
-        ells. \r\n\r\nD\u2019una banda, el disseny actual hum\xE0 provoca mastitis
-        als exemplars en el proc\xE9s de succi\xF3 de la llet. \r\nPrimer, la pus:
-        la secreci\xF3 d\u2019aquesta \xE9s quelcom que no he pogut evitar, donat
-        que el disseny de la \u201Cmunyidora\u201D provoca infeccions i mastitis
-        en els exemplars. Aparentment, als humans no els importava si la llet que
-        consumien contenia concentracions de sang.\r"
-      - "La majoria d\u2019animals d\u2019aquest complex estan suplementats preventivament
-        amb antibi\xF2tics, no nom\xE9s per la mastitis sin\xF3 per altres infeccions
-        i malalties no controlades que poden encomanar-se. \nAix\xF2 provoca que
-        els humans puguin desenvolupar una resist\xE8ncia a aquests, per\xF2 sobretot
-        he de tenir especial cura de prevenir el sorgiment de superbacteris resistents
-        a antibi\xF2tics, o fins i tot que alguna malaltia d\u2019origen zoon\xF2tic
-        muti i provoqui una pand\xE8mia mundial com la del 2019 o la del 2050. "
+      - 
       diaryAudioClip:
       - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
       diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
       - showMore: 00
         startPointsClip:
         - 0
@@ -3382,9 +2143,6 @@ MonoBehaviour:
         - 
       diarySprite:
       - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
-      - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
       prefabSizeInViewer: 0.5
@@ -3393,10 +2151,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Salta_Depuradora04
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - 'SALTA! ARA! '
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3408,7 +2166,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 'SALTA! ARA! '
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3419,32 +2177,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Carn01
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
-        connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
-        la manera de fugir d\u2019aqu\xED\u2026 S\xED, tu avan\xE7a que a la que
-        pugui et connecto a una base de c\xE0rrega\u2026 No et preocupis, encara
-        podem reinserir-te al sistema\u2026"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
         firstLetter:
         - 0
-        - 165.03542
-        lastLetter: a4000000c8000000
-        bypasstextLayout: 0000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
-          connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
-          la manera de fugir d\u2019aqu\xED\u2026"
-        - "S\xED, tu avan\xE7a que a la que pugui et connecto a una base de c\xE0rrega\u2026
-          No et preocupis, encara podem reinserir-te al sistema\u2026"
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3455,35 +2203,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Acala_Carn02
+      - Voice Name
       diaryTextDisplayState: 01
       diaryText:
-      - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
-        \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
-        \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
-        dantesc\u2026 \r\n\r\nO sigui que d\u2019aqu\xED venen els nitrats\u2026
-        dels fems\u2026 Per\xF2 per enverinar tant l\u2019aigua de nitrats perqu\xE8
-        fins i tot ells hagin de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026
-        Tot aquest pan\xF2ptic\u2026 Ha d\u2019haver-hi milions d\u2019animals\u2026
-        \r"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 000101
+      - showMore: 00
         startPointsClip:
         - 0
-        - 2
-        - 4
         firstLetter:
         - 0
-        - 30
-        - 60
-        lastLetter: 1e0000001e0000001e000000
-        bypasstextLayout: 000000
+        lastLetter: 1e000000
+        bypasstextLayout: 00
         textSub:
-        - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D"
-        - "\xE9u meu. S\xF3n animals vius\u2026 \r\nTe"
-        - "nen animals vius\u2026 No estan cre"
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3727,474 +2462,6 @@ MonoBehaviour:
       uniqueItemID: 45
       itemType: 0
       audioPriority: 0
-    - diaryTitle:
-      - LoreTest
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 46
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Puzle02_Carn
-      diaryTextDisplayState: 01
-      diaryText:
-      - "Calcula les Kilotonelades de carn a produ\xEFr durant aquest cicle. "
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 01
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 66000000
-        bypasstextLayout: 00
-        textSub:
-        - "Calcula els Kg de carn ecol\xF2gica a produ\xEFr durant aquest cicle"
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 18
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Porta secreta oberta
-      diaryTextDisplayState: 01
-      diaryText:
-      - Porta secreta oberta
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 47
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_01
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 48
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_02
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 49
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_03
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 50
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_04
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 51
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_05
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 52
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Meat_Lore_06
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 53
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_T03
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 54
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Aviram
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 55
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 56
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Cabretes
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 57
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Porcs
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 58
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Vaques
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 59
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Lore_Registre_Llet
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 60
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 61
-      itemType: 0
-      audioPriority: 0
-    - diaryTitle:
-      - Voice Name
-      diaryTextDisplayState: 01
-      diaryText:
-      - 
-      diaryAudioClip:
-      - {fileID: 0}
-      diarySub:
-      - showMore: 00
-        startPointsClip:
-        - 0
-        firstLetter:
-        - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
-        textSub:
-        - 
-      diarySprite:
-      - {fileID: 0}
-      refGameObject: {fileID: 0}
-      showInInventory: 0
-      prefabSizeInViewer: 0.5
-      prefabRotationInViewer: {x: 1, y: 1, z: 1}
-      uniqueItemID: 62
-      itemType: 0
-      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -4206,11 +2473,11 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 18
-  b_EditSubtitle: 1
+  selectedID: 6
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
