@@ -226,22 +226,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - EXTRA
+      - Puzle_Aigua
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Connect the entrance to the exit of the water
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: c5738833f3d5f5f49a32e17f73627e12, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 49000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Connect the entrance to the exit of the water
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -260,7 +260,7 @@ MonoBehaviour:
         en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
         Sort que tu no tens sentit del f\xE0stic, oi?"
       diaryAudioClip:
-      - {fileID: 8300000, guid: d15a20f655443884884ac11954185dd5, type: 3}
+      - {fileID: 8300000, guid: 720169b438d49114b8470018adbaf2e2, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -296,7 +296,7 @@ MonoBehaviour:
         una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
         veure alguna an\xE0lisi, o obtenir una mostra.\r\n"
       diaryAudioClip:
-      - {fileID: 8300000, guid: 11d3d296025cd624ea28a7467880c75c, type: 3}
+      - {fileID: 8300000, guid: 759df00ba2bcbf746aa456e8a6b206c3, type: 3}
       diarySub:
       - showMore: 01010101
         startPointsClip:
@@ -338,7 +338,7 @@ MonoBehaviour:
       diaryText:
       - Un roger anterior a tu, ha hagut de deixar-te un codi entre les caixes, busca'l
       diaryAudioClip:
-      - {fileID: 8300000, guid: 9971b22d5d082e24cab1f4d7ca2949ce, type: 3}
+      - {fileID: 8300000, guid: 7eeae8906ee3e0945b3e55a5060a7045, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
@@ -365,7 +365,7 @@ MonoBehaviour:
       diaryText:
       - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diaryAudioClip:
-      - {fileID: 8300000, guid: 239576ec4d4e9d14988f73f19f71f861, type: 3}
+      - {fileID: 8300000, guid: fc2fe28dc46ea924bb8029632f3b2457, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
@@ -643,7 +643,7 @@ MonoBehaviour:
       diaryText:
       - 'SALTA! ARA! '
       diaryAudioClip:
-      - {fileID: 8300000, guid: b648ecebb166e614e9a1caf06a6bf3ea, type: 3}
+      - {fileID: 8300000, guid: 656a8ae54e2e8464baacc4bc81222f7c, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -673,7 +673,7 @@ MonoBehaviour:
         pugui et connecto a una base de c\xE0rrega\u2026 No et preocupis, encara
         podem reinserir-te al sistema\u2026"
       diaryAudioClip:
-      - {fileID: 8300000, guid: 0ffe60cb27d1b9a41b86f879f752c15f, type: 3}
+      - {fileID: 8300000, guid: 51318031bfaa3b7429a18607b2181db3, type: 3}
       diarySub:
       - showMore: 0101
         startPointsClip:
@@ -712,7 +712,7 @@ MonoBehaviour:
         Tot aquest pan\xF2ptic\u2026 Ha d\u2019haver-hi milions d\u2019animals\u2026
         \r"
       diaryAudioClip:
-      - {fileID: 8300000, guid: 3867a7c98d9f3564abfeea11a1ead02a, type: 3}
+      - {fileID: 8300000, guid: c32440f4487a0574eb3671d086d18a24, type: 3}
       diarySub:
       - showMore: 010101
         startPointsClip:
@@ -752,7 +752,7 @@ MonoBehaviour:
         estan purificant aqu\xED\u2026? Si deu ser m\xE9s gran que la mateixa depuradora
         municipal\u2026 Anem a buscar un terminal i extraure les dades. "
       diaryAudioClip:
-      - {fileID: 8300000, guid: bd6507b053b505841b12704245a25832, type: 3}
+      - {fileID: 8300000, guid: 9597386ea51260548847151d037f2641, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
@@ -1600,6 +1600,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 65
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -3037,6 +3063,32 @@ MonoBehaviour:
       uniqueItemID: 65
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puzle01_Captcha
@@ -3240,22 +3292,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - EXTRA
+      - Puzle_Aigua
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Conecta l'entrada i la sortida de l'aigua
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 30000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Conecta l'entrada i la sortida de l'aigua
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4616,6 +4668,32 @@ MonoBehaviour:
       uniqueItemID: 65
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -4630,8 +4708,8 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 21
-  b_EditSubtitle: 1
+  selectedID: 6
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
