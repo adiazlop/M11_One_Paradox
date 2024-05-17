@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 5133627903560087177}
   - component: {fileID: 4207850644787449023}
   - component: {fileID: 7591310531785371718}
-  - component: {fileID: 2654893242503987612}
   - component: {fileID: 54439717729162364}
+  - component: {fileID: 1216651134944605318}
   m_Layer: 0
   m_Name: Cart
   m_TagString: Untagged
@@ -85,20 +85,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &2654893242503987612
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8170962087039567002}
-  m_Material: {fileID: 13400000, guid: 78d04382307048b4681eae7b8232736a, type: 2}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 3200b0bd31ff3634b9425e04a691be13, type: 3}
 --- !u!54 &54439717729162364
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -115,3 +101,16 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!65 &1216651134944605318
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8170962087039567002}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.3987716, y: 0.99934554, z: 0.9738975}
+  m_Center: {x: -0.08513809, y: 0.49935734, z: 0.0000008940698}
