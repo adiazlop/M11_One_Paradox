@@ -1,7 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:M11_One_Paradox/Assets/AP/Assets/Audio/Doblatge/IA_ROBOTIZADA/IA_ROBOTIZADA.meta
 guid: 9dc032bb0a415be4899c0cad8f9360b3
 folderAsset: yes
 DefaultImporter:
+========
+guid: 6ec4be77870676e4c91e3b348b9f5fb8
+PrefabImporter:
+>>>>>>>> Text_Test01:M11_One_Paradox/Assets/AP/Assets/Prefabs/Nuestros/Victor Props.prefab.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
