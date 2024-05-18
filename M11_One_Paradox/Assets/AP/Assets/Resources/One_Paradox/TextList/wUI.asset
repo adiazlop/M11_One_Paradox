@@ -8504,7 +8504,8 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - The End
+      - "Has alliberat a tots els animals vius de la f\xE0brica. Gr\xE0cies per donar-los
+        una altra oportunitat."
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -9129,8 +9130,8 @@ MonoBehaviour:
       audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
-  titleEditorSize: 240
-  textEditorSize: 300
+  titleEditorSize: 400
+  textEditorSize: 500
   showMoreOptions: 1
   showMoveUpDown: 1
   showNameOptions: 1
@@ -9141,7 +9142,7 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 87
+  selectedID: 88
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2

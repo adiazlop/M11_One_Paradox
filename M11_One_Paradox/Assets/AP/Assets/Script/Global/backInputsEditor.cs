@@ -128,10 +128,10 @@ public class backInputsEditor : Editor {
 			GUILayout.Label ("Back Button Joystick : ", GUILayout.Width (150));
 			backButtonJoystick.intValue = EditorGUILayout.Popup (backButtonJoystick.intValue, s_inputListJoystickButton.ToArray ());
 			EditorGUILayout.EndHorizontal ();
-			EditorGUILayout.BeginHorizontal();
+			/*EditorGUILayout.BeginHorizontal();
 			GUILayout.Label("Pause Button Joystick : ", GUILayout.Width(150));
 			pauseButtonJoystick.intValue = EditorGUILayout.Popup(pauseButtonJoystick.intValue, s_inputListJoystickButton.ToArray());
-			EditorGUILayout.EndHorizontal();
+			EditorGUILayout.EndHorizontal();*/
 
 
 

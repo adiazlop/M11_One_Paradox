@@ -6,6 +6,7 @@ public class PauseGame : MonoBehaviour
 {
     private void OnEnable()
     {
+        Debug.Log($"{gameObject.name} has been enabled by {new System.Diagnostics.StackTrace().GetFrame(1).GetMethod().Name}");
         PauseGamePlay();
     }
 

@@ -5,6 +5,7 @@ using UnityEngine;
 public class Activate_Canvas : MonoBehaviour
 {
     public GameObject objectToActivate; // El GameObject que se activará y luego se destruirá
+    public float destructionDelay = 5f; // Tiempo en segundos antes de destruir el objeto
 
     private void OnTriggerEnter(Collider other)
     {
@@ -13,7 +14,7 @@ public class Activate_Canvas : MonoBehaviour
             if (objectToActivate != null) // Asegúrate de que hay un objeto para activar
             {
                 objectToActivate.SetActive(true); // Activa el GameObject
-                Destroy(objectToActivate, 5f); // Destruye el GameObject después de 5 segundos
+                Destroy(objectToActivate, destructionDelay); // Destruye el GameObject después del tiempo especificado
             }
             else
             {
