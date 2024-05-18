@@ -8478,7 +8478,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Press any key to continue
+      - Apreta qualsevol tecla per continuar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9138,10 +9138,10 @@ MonoBehaviour:
   - ENGLISH
   - "ESPA\xD1OL"
   - "CATAL\xC0"
-  currentLanguage: 1
+  currentLanguage: 2
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 75
+  selectedID: 87
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
