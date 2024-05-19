@@ -7,7 +7,8 @@ public class SmoothFollowCanvasHud : MonoBehaviour
     public Transform playerCamera; // La cámara del jugador que queremos seguir
     public Canvas canvas; // El Canvas que queremos ajustar
     public Vector3 offset = new Vector3(0, 0, 2); // Desplazamiento relativo al jugador
-    public float lerpSpeed = 10f; // La velocidad de interpolación, más alta para un seguimiento más rápido
+    public float smoothSpeed = 10f; // La velocidad de interpolación, más alta para un seguimiento más rápido
+    public float maxDistance = 5f; // La distancia máxima del canvas respecto al jugador
 
     private Vector3 initialPosition;
 
@@ -36,11 +37,23 @@ public class SmoothFollowCanvasHud : MonoBehaviour
             // Calcular la posición objetivo con el offset
             Vector3 targetPosition = playerCamera.position + playerCamera.forward * offset.z + playerCamera.right * offset.x + playerCamera.up * offset.y;
 
+            // Limitar la distancia del canvas respecto al jugador
+            Vector3 directionToPlayer = targetPosition - playerCamera.position;
+            float distanceToPlayer = directionToPlayer.magnitude;
+            if (distanceToPlayer > maxDistance)
+            {
+                targetPosition = playerCamera.position + directionToPlayer.normalized * maxDistance;
+            }
+
             // Interpolar suavemente la posición del canvas hacia la posición objetivo
-            canvas.transform.position = Vector3.Lerp(canvas.transform.position, targetPosition, lerpSpeed * Time.deltaTime);
+            Vector3 smoothedPosition = Vector3.Lerp(canvas.transform.position, targetPosition, smoothSpeed * Time.deltaTime);
+
+            // Actualizar la posición del canvas
+            canvas.transform.position = smoothedPosition;
 
             // Asegurar que el Canvas siempre mire hacia la cámara
             canvas.transform.rotation = Quaternion.LookRotation(canvas.transform.position - playerCamera.position);
         }
     }
+
 }
