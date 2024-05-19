@@ -472,6 +472,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4743015037844527615, guid: 7fae018e16e529e44bb59afdea025707,
+        type: 3}
+      propertyPath: hudElement
+      value: 
+      objectReference: {fileID: 5501935}
     - target: {fileID: 7793664818907022259, guid: 7fae018e16e529e44bb59afdea025707,
         type: 3}
       propertyPath: m_Enabled
@@ -492,6 +497,11 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1269780991}
+    - target: {fileID: 7793664818907022268, guid: 7fae018e16e529e44bb59afdea025707,
+        type: 3}
+      propertyPath: m_PlaneDistance
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 7793664819970593790, guid: 7fae018e16e529e44bb59afdea025707,
         type: 3}
       propertyPath: m_RootOrder
@@ -554,6 +564,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7fae018e16e529e44bb59afdea025707, type: 3}
+--- !u!224 &5501935 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 7793664819794864570, guid: 7fae018e16e529e44bb59afdea025707,
+    type: 3}
+  m_PrefabInstance: {fileID: 5501934}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8409614
 PrefabInstance:
   m_ObjectHideFlags: 0

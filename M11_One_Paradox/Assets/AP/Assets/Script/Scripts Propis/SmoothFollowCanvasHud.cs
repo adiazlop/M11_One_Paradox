@@ -4,56 +4,49 @@ using UnityEngine;
 
 public class SmoothFollowCanvasHud : MonoBehaviour
 {
-    public Transform playerCamera; // La cámara del jugador que queremos seguir
-    public Canvas canvas; // El Canvas que queremos ajustar
-    public Vector3 offset = new Vector3(0, 0, 2); // Desplazamiento relativo al jugador
-    public float smoothSpeed = 10f; // La velocidad de interpolación, más alta para un seguimiento más rápido
-    public float maxDistance = 5f; // La distancia máxima del canvas respecto al jugador
+    public RectTransform hudElement; // El RectTransform del elemento del HUD
 
-    private Vector3 initialPosition;
+    public Vector3 activeScale = new Vector3(1.1f, 1.1f, 1.1f); // La escala cuando el ratón se mueve
+    public float smoothSpeed = 5f; // La velocidad de interpolación para el escalado
+    public float returnSpeed = 5f; // La velocidad a la que el HUD vuelve a su escala original
+
+    private Vector3 originalScale;
+    private Vector3 targetScale;
+    private bool isMouseMoving;
 
     void Start()
     {
-        if (canvas == null)
+        if (hudElement == null)
         {
-            canvas = GetComponent<Canvas>();
+            Debug.LogError("No HUD element assigned!");
+            return;
         }
 
-        // Asegurarse de que el canvas está en modo World Space
-        if (canvas.renderMode != RenderMode.WorldSpace)
-        {
-            Debug.LogWarning("El Canvas debe estar en modo World Space");
-            canvas.renderMode = RenderMode.WorldSpace;
-        }
-
-        // Guardar la posición inicial del canvas
-        initialPosition = canvas.transform.position;
+        // Guardar la escala original del HUD
+        originalScale = hudElement.localScale;
     }
 
-    void LateUpdate()
+    void Update()
     {
-        if (playerCamera != null)
+        // Verificar el movimiento del ratón
+        float mouseX = Input.GetAxis("Mouse X");
+        float mouseY = Input.GetAxis("Mouse Y");
+
+        // Si el ratón se está moviendo, escalar el HUD
+        if (Mathf.Abs(mouseX) > 0.01f || Mathf.Abs(mouseY) > 0.01f)
         {
-            // Calcular la posición objetivo con el offset
-            Vector3 targetPosition = playerCamera.position + playerCamera.forward * offset.z + playerCamera.right * offset.x + playerCamera.up * offset.y;
-
-            // Limitar la distancia del canvas respecto al jugador
-            Vector3 directionToPlayer = targetPosition - playerCamera.position;
-            float distanceToPlayer = directionToPlayer.magnitude;
-            if (distanceToPlayer > maxDistance)
-            {
-                targetPosition = playerCamera.position + directionToPlayer.normalized * maxDistance;
-            }
-
-            // Interpolar suavemente la posición del canvas hacia la posición objetivo
-            Vector3 smoothedPosition = Vector3.Lerp(canvas.transform.position, targetPosition, smoothSpeed * Time.deltaTime);
-
-            // Actualizar la posición del canvas
-            canvas.transform.position = smoothedPosition;
-
-            // Asegurar que el Canvas siempre mire hacia la cámara
-            canvas.transform.rotation = Quaternion.LookRotation(canvas.transform.position - playerCamera.position);
+            isMouseMoving = true;
         }
-    }
+        else
+        {
+            isMouseMoving = false;
+        }
 
+        // Determinar la escala objetivo
+        targetScale = isMouseMoving ? activeScale : originalScale;
+
+        // Interpolar suavemente hacia la escala objetivo
+        float speed = isMouseMoving ? smoothSpeed : returnSpeed;
+        hudElement.localScale = Vector3.Lerp(hudElement.localScale, targetScale, Time.deltaTime * speed);
+    }
 }

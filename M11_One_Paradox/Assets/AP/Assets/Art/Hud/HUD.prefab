@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 7793664818907022268}
   - component: {fileID: 7793664818907022269}
   - component: {fileID: 7793664818907022270}
-  - component: {fileID: 7793664818907022259}
   m_Layer: 11
   m_Name: Canvas
   m_TagString: Untagged
@@ -102,23 +101,6 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
---- !u!114 &7793664818907022259
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7793664818907022264}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a34d844e27332946beb45fa4f1570f8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerCamera: {fileID: 0}
-  canvas: {fileID: 7793664818907022268}
-  offset: {x: 0, y: 0, z: 0.6}
-  smoothSpeed: 31.5
-  maxDistance: 0.7
 --- !u!1 &7793664819794864571
 GameObject:
   m_ObjectHideFlags: 0
@@ -130,6 +112,7 @@ GameObject:
   - component: {fileID: 7793664819794864570}
   - component: {fileID: 7793664819794864568}
   - component: {fileID: 7793664819794864569}
+  - component: {fileID: 4743015037844527615}
   m_Layer: 11
   m_Name: Image
   m_TagString: Untagged
@@ -178,7 +161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.62352943, g: 0.62352943, b: 0.62352943, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -195,6 +178,22 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4743015037844527615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7793664819794864571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a34d844e27332946beb45fa4f1570f8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hudElement: {fileID: 0}
+  activeScale: {x: 19.3, y: 11.4, z: 11.4}
+  smoothSpeed: 1
+  returnSpeed: 3
 --- !u!1 &7793664819970593791
 GameObject:
   m_ObjectHideFlags: 0

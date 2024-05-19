@@ -7,6 +7,7 @@ public class Trigger_Deactivate_Final_Rogers : MonoBehaviour
 {
     public Animator[] animatorsToDisable; // Array de componentes Animator a desactivar
     public NavMeshAgent[] navMeshAgentsToControl; // Array de componentes NavMeshAgent a modificar
+    public GameObject[] gameObjectsEnd;
 
     private void OnTriggerEnter(Collider other)
     {
@@ -27,6 +28,15 @@ public class Trigger_Deactivate_Final_Rogers : MonoBehaviour
                 if (navMeshAgent != null)
                 {
                     navMeshAgent.speed = 0;
+                }
+            }
+
+            // Desactivar los componentes Animator
+            foreach (GameObject gameObject in gameObjectsEnd)
+            {
+                if (gameObject != null)
+                {
+                    gameObject.SetActive(false); // Desactiva el GameObject
                 }
             }
         }
