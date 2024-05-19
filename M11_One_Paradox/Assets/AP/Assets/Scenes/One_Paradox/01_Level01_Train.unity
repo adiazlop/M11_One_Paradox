@@ -1181,7 +1181,7 @@ PrefabInstance:
     - target: {fileID: 224038529422647128, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -8.999954
+      value: -8.999939
       objectReference: {fileID: 0}
     - target: {fileID: 224516100504319370, guid: bf5ed656b9c2b494cacce6f32339e32c,
         type: 3}
@@ -6915,7 +6915,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 12, y: -14.299759}
+  m_AnchoredPosition: {x: 12, y: -14.299744}
   m_SizeDelta: {x: -29, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &213951447
@@ -59942,6 +59942,12 @@ PrefabInstance:
       propertyPath: listFootstepSystem.Array.data[0].footstepSamples.Array.data[1]
       value: 
       objectReference: {fileID: 8300000, guid: d0278a911e60a074991ec8886c2d854c, type: 3}
+    - target: {fileID: 3467369817624261252, guid: 868b2417d8fbc4dc9818e0205bfa13e4,
+        type: 3}
+      propertyPath: sharedProfile
+      value: 
+      objectReference: {fileID: 11400000, guid: acdc26863dece4448ac2c4870baad30e,
+        type: 2}
     - target: {fileID: 4013539061341673993, guid: 868b2417d8fbc4dc9818e0205bfa13e4,
         type: 3}
       propertyPath: m_Enabled

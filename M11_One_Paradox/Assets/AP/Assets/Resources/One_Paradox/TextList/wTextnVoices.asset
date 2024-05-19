@@ -789,7 +789,7 @@ MonoBehaviour:
         tan simples i en certa forma, obeeixen les necessitats del moment\u2026 Aquell
         que enganya sempre trobar\xE0 alg\xFA per deixar-se enganyar\u201D..."
       diaryAudioClip:
-      - {fileID: 8300000, guid: 26e5a44961e7a4f43bca8ad2f0c2bb53, type: 3}
+      - {fileID: 8300000, guid: 130b4aece7a55924bb25f50c7644f5bd, type: 3}
       diarySub:
       - showMore: 0101010101
         startPointsClip:
@@ -870,7 +870,7 @@ MonoBehaviour:
         possible. \xC9s el mercat, amic meu\u2026 \r\n"
       diaryAudioClip:
       - {fileID: 0}
-      - {fileID: 8300000, guid: ea29c316e570e674392fda5586c5510b, type: 3}
+      - {fileID: 8300000, guid: da47f38f513b3c0408aa63df17368dac, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -1088,7 +1088,7 @@ MonoBehaviour:
       diaryText:
       - 'Select the Kt of meat to produce in this cycle. '
       diaryAudioClip:
-      - {fileID: 8300000, guid: d09344a6a95146f49bda8f5de5205cc8, type: 3}
+      - {fileID: 8300000, guid: 43586b1090b75e6478a29f38554e1bc7, type: 3}
       diarySub:
       - showMore: 01
         startPointsClip:
@@ -4627,12 +4627,12 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 20
-  b_EditSubtitle: 1
-  currentAudioSubtitleEdit: 0
+  selectedID: 29
+  b_EditSubtitle: 0
+  currentAudioSubtitleEdit: 1
   editorType: 0
   showDefaultLanguage: 1
   multipleVoiceOver: 0
