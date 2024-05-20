@@ -412,11 +412,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT02_Porcs
+      - "Porcs - Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs.  "
       diaryTextDisplayState: 01
       diaryText:
-      - "Porcs - Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs. \r\n\r\n\u201CSus
-        Scrofa Domestica Mutatem\u201D-  Subesp\xE8cie de mam\xEDfer artiod\xE0ctil
+      - "\u201CSus Scrofa Domestica Mutatem\u201D-  Subesp\xE8cie de mam\xEDfer artiod\xE0ctil
         de la fam\xEDlia Suidae. Aquesta variant de l\u2019anomenat \u201CPorc de
         granja\u201D \xE9s una mutaci\xF3 encara millor adaptada i de creixement
         r\xE0pid a la f\xF3rmula aliment\xE0ria que combina soja i blat de moro.\r\n\r\nPendent:
@@ -1317,7 +1316,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Aviram
+      - None
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -1343,7 +1342,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Porcs
+      - None
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -1369,7 +1368,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Cabretes
+      - None
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -1395,7 +1394,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Porcs
+      - None
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -1421,7 +1420,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Vaques
+      - None
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -1447,10 +1446,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Llet
+      - None
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - New Page
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2833,7 +2832,7 @@ MonoBehaviour:
       - Lore_Registre_Porcs
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - New Page
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2885,7 +2884,7 @@ MonoBehaviour:
       - Lore_Registre_Llet
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - New Page
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3398,7 +3397,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT1_Vaques
+      - "Decuri\xF3n -Datalog #464 -  \u201CBos Taurus Mutationem\u201D"
       diaryTextDisplayState: 01
       diaryText:
       - "Vaques - \u201CBos Taurus Mutationem\u201D"
@@ -3424,19 +3423,18 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT02_Porcs
+      - "Decuri\xF3n -Datalog #006. Un pa\xEDs de Porcs.  "
       diaryTextDisplayState: 01
       diaryText:
-      - "Porcs - Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs. \r\n\r\n\u201CSus
-        Scrofa Domestica Mutatem\u201D-  Subesp\xE8cie de mam\xEDfer artiod\xE0ctil
+      - "\u201CSus Scrofa Domestica Mutatem\u201D-  Subesp\xE8cie de mam\xEDfer artiod\xE0ctil
         de la fam\xEDlia Suidae. Aquesta variant de l\u2019anomenat \u201CPorc de
         granja\u201D \xE9s una mutaci\xF3 encara millor adaptada i de creixement
         r\xE0pid a la f\xF3rmula aliment\xE0ria que combina soja i blat de moro.\r\n\r\nPendent:
-        \r\n\r\nCalcular rendibilitat i ampliar secci\xF3 porcina en conseq\xFC\xE8ncia\r\nMillorar
-        m\xE8tode de sacrifici: Estudi de viabilitat econ\xF2mica del m\xE8tode d'atordiment
-        i ebullici\xF3 en vida. \r\nAvaluar la capacitat de purificaci\xF3 de l\u2019aigua
-        i determinar noves localitzacions de la purga d\u2019aigua tractada. [Evitar
-        alertes a autoritats] \r"
+        \r\n\r\n- Calcular rendibilitat i ampliar secci\xF3 porcina en conseq\xFC\xE8ncia\r\n-
+        Millorar m\xE8tode de sacrifici: Estudi de viabilitat econ\xF2mica del m\xE8tode
+        d'atordiment i ebullici\xF3 en vida. \r\n- Avaluar la capacitat de purificaci\xF3
+        de l\u2019aigua i determinar noves localitzacions de la purga d\u2019aigua
+        tractada. [Evitar alertes a autoritats] \r"
       - "L\u2019any 2016 Espanya s\u2019havia convertit en un dels grans exportadors
         de carn de porc, havent duplicat la seva producci\xF3 des del 2007 i havent
         trobat a la Xina el seu comprador principal. \r\n\r\nSegons les meves dades,
@@ -3499,7 +3497,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore T03_Cabres
+      - "Decuri\xF3n -Datalog #166 - Cabres"
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -3525,18 +3523,17 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT04_Aviram
+      - "Decuri\xF3n -Datalog #467- Gallus gallus Domesticus "
       diaryTextDisplayState: 01
       diaryText:
-      - "Aviram - Gallus gallus Domesticus\r\n\r\nNuggets, pollets nadons morts amb
-        un dia de vida. Nascuts per morir. \r\n\r\n\u201CRange Free\u201D\r\n\r\nEn
-        la comercialitzaci\xF3 dels ous en el segle passat s\u2019utilitzava la frase
-        \u201COus de gallines criades en terra\u201D. Si b\xE9 desconec si els humans
-        tenien granges de pollastres a la lluna, aquesta definici\xF3 s\u2019utilitzava
-        per promocionar que els ous. Tot era una campanya de m\xE0rqueting, ja que
-        en la majoria de les explotacions, si b\xE9 les gallines no estaven tancades
-        en g\xE0bies es trobaven en una situaci\xF3 gens natural, ja que passaven
-        la seva curta vida dins de naus industrials\r\n"
+      - "Nuggets, pollets nadons morts amb un dia de vida. Nascuts per morir. \r\n\r\n\u201CRange
+        Free\u201D\r\n\r\nEn la comercialitzaci\xF3 dels ous en el segle passat s\u2019utilitzava
+        la frase \u201COus de gallines criades en terra\u201D. Si b\xE9 desconec
+        si els humans tenien granges de pollastres a la lluna, aquesta definici\xF3
+        s\u2019utilitzava per promocionar que els ous. Tot era una campanya de m\xE0rqueting,
+        ja que en la majoria de les explotacions, si b\xE9 les gallines no estaven
+        tancades en g\xE0bies es trobaven en una situaci\xF3 gens natural, ja que
+        passaven la seva curta vida dins de naus industrials\r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3559,19 +3556,19 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT5_Llet
+      - "Decuri\xF3n -Datalog #100 - Beguda de pus"
       diaryTextDisplayState: 01
       diaryText:
-      - "Llet - Data Analysis #6759\r\n\nSempre \xE9s divertit estudiar l\u2019Homo
-        sapiens en especial els seus h\xE0bits de consum relacionats amb l\u2019explotaci\xF3
-        ramadera. Per una banda, no entenc per qu\xE8 la composici\xF3 d\u2019aliments
-        humans utilitza quantitat d\u2019aquests que contenen \u201Cs\xE8rum lacti\u201D
-        o prote\xEFna de la llet sense que aquests aportin un valor nutritiu justificat.
-        Tamb\xE9 \xE9s estrany trobar humans que creuen que les vaques donen llet
-        de manera natural: com a propis mam\xEDfers semblen oblidar que aquests nom\xE9s
-        donen llet quan s\xF3n mares. \r\n\r\nEn el m\xF3n animal no hi ha cap altra
-        criatura que passada el seu per\xEDode de lact\xE0ncia continu\xEF nodrint-se
-        de les segregacions mam\xE0ries dels seus progenitors.\r"
+      - "Sempre \xE9s divertit estudiar l\u2019Homo sapiens en especial els seus
+        h\xE0bits de consum relacionats amb l\u2019explotaci\xF3 ramadera. Per una
+        banda, no entenc per qu\xE8 la composici\xF3 d\u2019aliments humans utilitza
+        quantitat d\u2019aquests que contenen \u201Cs\xE8rum lacti\u201D o prote\xEFna
+        de la llet sense que aquests aportin un valor nutritiu justificat. Tamb\xE9
+        \xE9s estrany trobar humans que creuen que les vaques donen llet de manera
+        natural: com a propis mam\xEDfers semblen oblidar que aquests nom\xE9s donen
+        llet quan s\xF3n mares. \r\n\r\nEn el m\xF3n animal no hi ha cap altra criatura
+        que passada el seu per\xEDode de lact\xE0ncia continu\xEF nodrint-se de les
+        segregacions mam\xE0ries dels seus progenitors.\r"
       - "M\xE9s estrany \xE9s que un mam\xEDfer begui les segregacions mam\xE0ries
         d\u2019una altra esp\xE8cie de que no sigui la seva. No entenc com els humans
         no van extendre aquest fetitx bevent tamb\xE9 llet de rata, de gat, de gos\u2026
@@ -4409,10 +4406,19 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Porcs
+      - "Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs. "
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Sempre m\u2019ha semblat curiosa la fixaci\xF3 dels humans per considerar
+        unes esp\xE8cies mascotes i altres \u201Cmenjar\u201D: no acabo d\u2019entendre
+        l\u2019arbitrarietat amb la qual fan la decisi\xF3 de classificar unes i
+        altres, i \xE9s que he detectat a la f\xE0brica que un porc t\xE9 m\xE9s
+        intel\xB7lig\xE8ncia que un gos i mostra habilitats cognitives similars a
+        les d'un esp\xE8cimen hum\xE0 de 3 anys.\r\n\r\nNo estic programat per fer
+        aquesta distinci\xF3, per tant, potser hauria de criar esp\xE8cimens de \u201CCanis
+        lupus familiaris\u201D per estudiar la viabilitat nutritiva de la seva carn
+        i fins i tot de les seves secrecions mam\xE0ries per subministrar a humans.
+        \r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4435,7 +4441,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Vaques
+      - "Vaques - \u201CBos Taurus Mutationem\u201D"
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4461,10 +4467,20 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Llet
+      - Llet - Data Analysis #6759
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "M\xE9s estrany \xE9s que un mam\xEDfer begui les segregacions mam\xE0ries
+        d\u2019una altra esp\xE8cie de que no sigui la seva. No entenc com els humans
+        no van extendre aquest fetitx bevent tamb\xE9 llet de rata, de gat, de gos\u2026
+        \r\nSegons les meves observacions la llet \xE9s perfectament sana i saludable\u2026
+        per a una vedella. Quan la consumeixen els humans s\u2019observen s\xEDmptomes
+        com irritaci\xF3 gastrointestinal, acn\xE9 i he trobat estudis que relacionaven
+        fins i tot el consum d\u2019aquesta amb c\xE0ncers de mama en femelles humanes.
+        \r\n\r\nUna problem\xE0tica pr\xE0ctica que he tingut \xE9s que les meves
+        instal\xB7lacions estan basades en el disseny d\u2019explotaci\xF3 cl\xE0ssica
+        i encara no he invertit per solucionar dos problemes menors, per\xF2 relacionats
+        entre ells.\r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4627,10 +4643,10 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
+  currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 29
+  selectedID: 16
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 1
   editorType: 0
