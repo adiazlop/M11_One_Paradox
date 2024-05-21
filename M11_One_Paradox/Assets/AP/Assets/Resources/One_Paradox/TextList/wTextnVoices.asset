@@ -133,11 +133,7 @@ MonoBehaviour:
         At Open Factory One,
         the activity of the distribution center is broadcasted live to the world
         via streaming, 24/7, demonstrating our commitment to transparency and pride
-        in showcasing our sustainable production model to the rest of the world.
-
-
-
-'
+        in showcasing our sustainable production model to the rest of the world.'
       - "You, the Roger units, are the soldiers fighting for a more sustainable tomorrow.
         Autonomous droids, programmed to carry out the tasks of the distribution
         center and connected to the AI Decuri\xF3. You are interconnected, but independent
@@ -1550,10 +1546,23 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Conversa Carn Extra_Plataformes
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - 'IA: See for yourself Roger. In this room you can access the archives of
+        my investigations, these humans are not worthy of your trust.
+
+        
+
+        ACALA:
+        I''m sorry friend... The best thing is to give up... All is lost. I don''t
+        know what to do or say...
+
+        
+
+        ACALA: Billions of living
+        beings killed every day and even more living their short lives in prisons
+        to be exploited...'
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -1576,11 +1585,29 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - PRE FINAL BATTLE
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - 'IA: It''s been an entertaining day, I won''t deny it, but it''s time to
+        close. I have to meet production quotas. Get ready to be recycled Roger.
+
+        
+
+        HACKER:
+        What are you doing Roger!? You have nothing to do... Leave
+
+        
+
+        AI:
+        Unit 1080! you''re starting to touch my silicon batteries! what do you mean'
+      - "ACALA: Where are you going? Wait, are you going to the control room?\r\nAI:
+        WHAT!? DO YOU WANT TO DISCONNECT ME? TO ME?\r\nHOW DARE YOU\u2026\r\n\r\nACALA:
+        Roger... If you can't save yourself anyway...\r\n\r\nIA: That's why we don't
+        put the Rogers in offline mode! Their AI is too advanced, they become empathetic!
+        Stupid hacker, don't you get it? He's not doing it for you! He wants to save
+        the animals!\r\n\r\nACALA: Roger..."
       diaryAudioClip:
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -1592,7 +1619,17 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -1602,10 +1639,15 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - FINAL BOSS ENDING
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "AI: Unit 1080\u2026 A real tin man\u2026 My automaton who thinks he's different
+        from the rest\u2026\r\n\r\nACALA: I've crippled the rest of Rogers. Now,
+        put an end to this. \r\n\r\nIA: Today you won your heart...  yet you don't
+        know how lucky you were not to have one. \n\nRemember: Hearts will never
+        be practical until they can be made unbreakable.ctical until the day they
+        become unbreakable..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3011,10 +3053,15 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Conversa Carn Extra_Plataformes
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "IA: M\xEDralo por ti mismo Roger. En esta sala puedes acceder a los archivos
+        de mis investigaciones; estos humanos no son dignos de tu confianza.\r\n\r\nACALA:
+        Lo siento amigo\u2026 Lo mejor es que te rindas\u2026 Todo est\xE1 perdido.
+        No s\xE9 qu\xE9 hacer ni qu\xE9 decir\u2026\r\n\r\nACALA: Billones de seres
+        vivos asesinados cada d\xEDa y m\xE1s a\xFAn viviendo sus cortas vidas en
+        prisiones para que los explotaran\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3037,11 +3084,23 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - PRE-FINAL BATTLE
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "IA: Ha sido un d\xEDa entretenido, no lo negar\xE9, pero toca ir cerrando.
+        Debo cumplir unas cuotas de producci\xF3n. Prep\xE1rate para ser reciclado
+        Roger.\r\n\r\nHACKER: \xA1Qu\xE9 est\xE1s haciendo Roger!? No tienes nada
+        que hacer\u2026 Abandona\r\n\r\nIA: \xA1Unidad 1080! me est\xE1s empezando
+        a tocar las bater\xEDas de silicio! \xBFQu\xE9 pretendes?"
+      - "ACALA: \xBFD\xF3nde vas...? Un momento, \xBFvas a la sala de control?\r\nIA:
+        \xBFQU\xC9!? T\xDA QUIERES DESCONECTARME? \xBFA M\xCD?\r\nC\xD3MO TE ATREVES\u2026\r\n\r\nACALA:
+        Roger\u2026 Si no podr\xE1s salvarte igualmente\u2026\r\n\r\nIA: \xA1Es por
+        eso que no ponemos a los Rogers en modo offline! Su IA es demasiado avanzada,
+        \xA1se vuelven emp\xE1ticos! Hacker imb\xE9cil, \xBFes que no lo entiendes?
+        \xA1No lo est\xE1 haciendo por ti! \xA1Quiere salvar a los animales!\r\n\r\nACALA:
+        Roger\u2026"
       diaryAudioClip:
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -3053,7 +3112,17 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -3063,10 +3132,15 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - FINAL BOSS ENDING
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "IA: Unidad 1080\u2026 Un verdadero hombre de lata\u2026 Mi aut\xF3mata que
+        se cree diferente al resto\u2026\r\n\r\nACALA: He paralizado al resto de
+        Rogers. Ahora s\xED. Pone fin a todo.\r\n\r\nIA: Hoy has ganado y conseguido
+        tu coraz\xF3n, sin saber la suerte que has tenido hasta ahora de no tenerlo.\r\nRecuerda,
+        los corazones nunca ser\xE1n pr\xE1cticos hasta el d\xEDa de que no se vuelvan
+        irrompibles\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4198,7 +4272,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_01
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4224,7 +4298,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_02
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4250,7 +4324,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_03
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4276,7 +4350,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_04
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4302,7 +4376,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_05
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4328,7 +4402,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_06
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4354,7 +4428,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_T03
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4380,7 +4454,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Aviram
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4406,7 +4480,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Porcs
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4432,7 +4506,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_Registre_Cabretes
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4458,19 +4532,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "Decuri\xF3n - Data Files #006. Un pa\xEDs de Porcs. "
+      - 
       diaryTextDisplayState: 01
       diaryText:
-      - "Sempre m\u2019ha semblat curiosa la fixaci\xF3 dels humans per considerar
-        unes esp\xE8cies mascotes i altres \u201Cmenjar\u201D: no acabo d\u2019entendre
-        l\u2019arbitrarietat amb la qual fan la decisi\xF3 de classificar unes i
-        altres, i \xE9s que he detectat a la f\xE0brica que un porc t\xE9 m\xE9s
-        intel\xB7lig\xE8ncia que un gos i mostra habilitats cognitives similars a
-        les d'un esp\xE8cimen hum\xE0 de 3 anys.\r\n\r\nNo estic programat per fer
-        aquesta distinci\xF3, per tant, potser hauria de criar esp\xE8cimens de \u201CCanis
-        lupus familiaris\u201D per estudiar la viabilitat nutritiva de la seva carn
-        i fins i tot de les seves secrecions mam\xE0ries per subministrar a humans.
-        \r"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4493,7 +4558,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "Vaques - \u201CBos Taurus Mutationem\u201D"
+      - 
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -4519,20 +4584,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Llet - Data Analysis #6759
+      - 
       diaryTextDisplayState: 01
       diaryText:
-      - "M\xE9s estrany \xE9s que un mam\xEDfer begui les segregacions mam\xE0ries
-        d\u2019una altra esp\xE8cie de que no sigui la seva. No entenc com els humans
-        no van extendre aquest fetitx bevent tamb\xE9 llet de rata, de gat, de gos\u2026
-        \r\nSegons les meves observacions la llet \xE9s perfectament sana i saludable\u2026
-        per a una vedella. Quan la consumeixen els humans s\u2019observen s\xEDmptomes
-        com irritaci\xF3 gastrointestinal, acn\xE9 i he trobat estudis que relacionaven
-        fins i tot el consum d\u2019aquesta amb c\xE0ncers de mama en femelles humanes.
-        \r\n\r\nUna problem\xE0tica pr\xE0ctica que he tingut \xE9s que les meves
-        instal\xB7lacions estan basades en el disseny d\u2019explotaci\xF3 cl\xE0ssica
-        i encara no he invertit per solucionar dos problemes menors, per\xF2 relacionats
-        entre ells.\r"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4633,10 +4688,15 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Conversa Carn Extra_Plataformes
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "IA: Mira-ho per tu mateix Roger. En aquesta sala pots accedir als arxius
+        de les meves investigacions, aquests humans no s\xF3n dignes de la teva confian\xE7a.
+        \r\n\r\nACALA: Ho sento amic\u2026 El millor \xE9s que et rendeixis\u2026
+        Tot est\xE0 perdut. No s\xE9 que fer ni que dir\u2026 \r\n\r\nACALA: Bilions
+        d\u2019\xE9ssers vius assassinats cada dia i mes encara vivint les seves
+        curtes vides en presons perqu\xE8 els explotessin\u2026 \r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4659,11 +4719,23 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - PRE FINAL BATTLE
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "IA: Ha sigut un dia entretingut, no ho negar\xE9, per\xF2 toca anar tancant.
+        He de complir unes quotes de producci\xF3. Prepara\u2019t per ser reciclat
+        Roger. \r\n\nHACKER: Que estas fent Roger!? No tens res a fer\u2026 Abandona
+        \r\n\r\nIA:  Unitat 1080! m'est\xE0s comen\xE7ant a tocar les bateries de
+        silici! Qu\xE8 pretens?\r"
+      - "ACALA:  On estas anant? Un moment, est\xE0s anant a la sala de control?\r\nIA:
+        QU\xC9!?  T\xDA VOLS DESCONECTAR-ME? A M\xCD? \r\nCOM T\u2019ATREVEIXES\u2026 
+        \r\n\r\nACALA: Roger\u2026 Si no podr\xE0s salvar-te igualment\u2026 \r\n\r\nIA:
+        \xC9s per aix\xF2 que no posem els Rogers en mode offline! La seva IA \xE9s
+        massa avan\xE7ada, es tornen emp\xE0tics! Hacker imb\xE8cil, \xE9s que no
+        ho entens? No ho est\xE0 fent per tu! Vol salvar els animals!\r\n\r\nACALA:
+        Roger\u2026 "
       diaryAudioClip:
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -4675,7 +4747,17 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -4685,10 +4767,15 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Final Boss Ending
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "IA: Unitat 1080\u2026 Un veritable home de llauna\u2026 El meu aut\xF2mat
+        que es creu diferent de la resta\u2026 \r\n\r\nACALA: He paralitzat la resta
+        de Rogers. Ara s\xED. Posa fi a tot. \r\n\r\nIA: Avui has guanyat i aconseguit
+        el teu cor, sense saber la sort que has tingut fins ara de no tenir-ne. \r\nRecorda,
+        els cors mai seran pr\xE0ctics fins al dia que no es tornin irrompibles\u2026
+        \r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4724,8 +4811,8 @@ MonoBehaviour:
   currentLanguage: 1
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 22
-  b_EditSubtitle: 1
+  selectedID: 47
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
