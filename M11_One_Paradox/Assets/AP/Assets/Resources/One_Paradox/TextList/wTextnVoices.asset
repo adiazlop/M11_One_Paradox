@@ -900,12 +900,12 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puzle_Aigua
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Connect the water flux
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 95db0ab2d5a543e44af5b348bdafa962, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -915,7 +915,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Connect the water flux
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1599,6 +1599,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 65
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -2335,22 +2361,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puzle_Agua
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Conecta la entrada y la salida del agua
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 33000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Conecta la entrada y la salida del agua
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3034,6 +3060,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 65
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -3912,22 +3964,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puzle_Aigua
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Conecta l'entrada i la sortida de l'aigua
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 41000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Conecta l'entrada i la sortida de l'aigua
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4632,6 +4684,32 @@ MonoBehaviour:
       uniqueItemID: 65
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 66
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -4643,12 +4721,12 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 1
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 16
-  b_EditSubtitle: 0
-  currentAudioSubtitleEdit: 1
+  selectedID: 22
+  b_EditSubtitle: 1
+  currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
   multipleVoiceOver: 0
