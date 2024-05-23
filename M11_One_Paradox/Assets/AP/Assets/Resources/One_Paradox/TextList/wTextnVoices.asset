@@ -5470,7 +5470,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - 'IA: Ha sigut un dia entretingu'
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5863,8 +5863,8 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 23
-  b_EditSubtitle: 0
+  selectedID: 52
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
