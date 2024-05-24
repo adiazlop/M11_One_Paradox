@@ -1258,7 +1258,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Game Options
+      - Language
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4036,7 +4036,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "Seguro? No te estar\xE1n hackeando? "
+      - "\xBFSeguro? \xBFNo te estar\xE1n hackeando? "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4296,7 +4296,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Opciones del juego
+      - Idioma
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4920,7 +4920,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Graphics Options
+      - "Opciones gr\xE1ficas"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4946,7 +4946,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Very Low
+      - Muy baja
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4972,7 +4972,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Low
+      - Baja
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -4998,7 +4998,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Medium
+      - Media
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5024,7 +5024,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - High
+      - Alta
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5050,7 +5050,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Very High
+      - Muy alta
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5102,7 +5102,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Validate
+      - Validar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5154,7 +5154,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Music
+      - "M\xFAsica"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5180,7 +5180,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Sfx
+      - Efectos
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5206,7 +5206,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice
+      - Voces
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5258,7 +5258,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Ambiance
+      - Ambiente
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5284,7 +5284,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Master
+      - General
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5310,7 +5310,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Reset
+      - Reiniciar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5362,7 +5362,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Subtitles
+      - "Subt\xEDtulos"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6580,7 +6580,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - CARREGA
+      - "C\xC0RREGA"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -6606,7 +6606,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - CREDITS
+      - "CR\xC8DITS"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7230,7 +7230,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Audio
+      - "\xC0udio"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7334,7 +7334,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Opcions del Joc
+      - Idioma
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7958,7 +7958,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Graphics Options
+      - "Opcions gr\xE0fiques"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7984,7 +7984,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Very Low
+      - Molt baixa
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8010,7 +8010,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Low
+      - Baixa
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8036,7 +8036,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Medium
+      - Mitjana
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8062,7 +8062,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - High
+      - Alta
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8088,7 +8088,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Very High
+      - Molt Alta
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8140,7 +8140,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Validate
+      - Validar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8192,7 +8192,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Music
+      - "M\xFAsica"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8218,7 +8218,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Sfx
+      - Efectes
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8244,7 +8244,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice
+      - Veus
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8296,7 +8296,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Ambiance
+      - Ambient
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8322,7 +8322,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Master
+      - General
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8348,7 +8348,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Reset
+      - Reiniciar
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8400,7 +8400,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Subtitles
+      - "Subt\xEDtols"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9137,12 +9137,12 @@ MonoBehaviour:
   showNameOptions: 1
   listOfLanguage:
   - English
-  - Spanish
-  - Catala
+  - Castellano
+  - "Catal\xE0"
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 84
+  selectedID: 43
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
