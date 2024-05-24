@@ -4280,20 +4280,21 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0000
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 200
-        lastLetter: c800000046000000
+        - 154.26042
+        lastLetter: c8000000c8000000
         bypasstextLayout: 0001
         textSub:
         - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
           de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
           en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de"
-        - " f\xE0stic\u2026 Sort que tu no tens sentit del f\xE0stic, oi?"
+        - "distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
+          Sort que tu no tens sentit del f\xE0stic, oi?"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6142,8 +6143,8 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 16
-  b_EditSubtitle: 0
+  selectedID: 7
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
