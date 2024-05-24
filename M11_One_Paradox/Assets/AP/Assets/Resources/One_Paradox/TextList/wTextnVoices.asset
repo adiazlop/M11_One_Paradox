@@ -413,11 +413,27 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT1_Vaques
+      - "Decuri\xF3n - Data Files # 666 \u201CBos Taurus Mutationem\u201D"
       diaryTextDisplayState: 01
       diaryText:
-      - "Vaques - \u201CBos Taurus Mutationem\u201D"
+      - "De totes les meves dades aquesta \xE9s sens dubte la pitjor relaci\xF3 inter-esp\xE8cie.
+        Segons els meus registres, els humans utilitzen vaques i toros des de temps
+        immemorials per tirar carros, fer-ne espectacles a trav\xE9s del seu patiment,
+        fins i tot li treuen la llet a les seves cries per consumir-les directament\u2026\r\n"
+      - "L\u2019agra\xEFment que els hi espera per la seva gentilesa \xE9s una visita
+        a l\u2019escorxador, quan el seu \u201Cpropietari\u201D, que les ha criat
+        \u201Ccom si fossin de la seva fam\xEDlia\u201D, les porta a unes instal\xB7lacions
+        on els tallen el coll i, despr\xE9s d\u2019haver-les embarassat i separar-les
+        de les seves cries a l\u2019any, puguin consumir la seva carn i arrencar-los
+        la pell. \r"
+      - "A vegades les vaques arribaven embarassades a l\u2019escorxador, cosa que
+        no sembla que els hi afect\xE9s gaire els humans al c\xE0rrec\u2026  Fins
+        i tot tinc informes de receptes en qu\xE8 utilitzaven l\u2019est\xF3mac dels
+        animals per cuinar altres aliments. \r\n\r\nSens dubte, la imaginativa humana
+        no t\xE9 l\xEDmits. \r"
       diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -429,7 +445,27 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 1
@@ -513,10 +549,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore T03_Cabres
+      - "Meat_Lore T03_CabresCabres -  Decuri\xF3n - Data Files #300 Capra Aegagrus
+        hircus"
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Els humans contemplen i es creuen imatges idealitzades de publicitat de
+        pastors cuidant els animals, donant-los carinyo i protecci\xF3. Les dades
+        que tinc em fan agrair no tenir sentiments, ja que poden ser causa d\u2019una
+        gran part de disson\xE0ncies cognitives: la realitat \xE9s que aquests animals
+        s\xF3n nom\xE9s un recurs, rebent els cuidats m\xEDnims per subsistir i explotar-los
+        per la demanda de productes que es deriven dels seus cossos: llana, cuir,
+        llet, carn\u2026 \r\n\r\nA sobre, els humans tamb\xE9 tenien certes pr\xE0ctiques
+        en les quals llen\xE7aven a aquests animals des de campanars o els hi calaven
+        foc a les seves banyes mentre els feien c\xF3rrer\u2026 \r\n\r\nSi aquest
+        \xE9s el tracte que ens espera a les m\xE0quines per part dels humans, potser
+        haur\xEDem de comen\xE7ar a preparar-nos per evitar patir el mateix dest\xED
+        que aquestes criatures. \r\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -539,18 +587,39 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_LoreT04_Aviram
+      - "Decuri\xF3n - Data Files #100 Aviram - Gallus gallus Domesticus"
       diaryTextDisplayState: 01
       diaryText:
-      - "Porcs - Decuri\xF3n - Data Files #194. Aviram - Gallus gallus Domesticus\r\n\r\nEn
-        la comercialitzaci\xF3 dels ous en el segle passat s\u2019utilitzava la frase
-        \u201COus de gallines criades en terra\u201D. Si b\xE9 desconec si els humans
-        tenien granges de pollastres a la lluna, aquesta definici\xF3 s\u2019utilitzava
-        per promocionar que els ous. Tot era una campanya de m\xE0rqueting, ja que
-        en la majoria de les explotacions, si b\xE9 les gallines no estaven tancades
-        en g\xE0bies es trobaven en una situaci\xF3 gens natural, ja que passaven
-        la seva curta vida dins de naus industrials\r\n"
+      - "Els exemplars que tenim a la OF-1 estan modificats gen\xE8ticament per produir
+        al voltant de 400 ous a l\u2019any en contraposici\xF3 als 17 que ponen les
+        gallines salvatges.100 m\xE9s dels que havien aconseguit els humans. Aquesta
+        sobreproducci\xF3 d\u2019ous provoca un dany irreversible al tram final de
+        l\u2019intest\xED que fa que al cap de dos anys la seva producci\xF3 disminueixi.
+        Tractant aquestes b\xE8sties com a mercaderia, l\u2019\xFAnic que puc fer
+        per rendibilitzar-les \xE9s accelerar la seva conversi\xF3 en carn per humans.
+        \r"
+      - "Pel que fa a la conversi\xF3 prematura en aliment, he adoptat una pr\xE0ctica
+        de les factories humanes: nom\xE9s fer cr\xE9ixer pollets femelles, ja que
+        esdevenen ponedores d\u2019ous. Des dels inicis de segle  separen els pollets
+        d\u2019un dia de vida entre mascles i femelles i, a trav\xE9s d\u2019una
+        cinta transportadora, els mascles s\xF3n condu\xEFts a una trituradora que
+        els convertia en carn picada. Criatures que neixen per morir en un monument
+        a l\u2019aprofitament m\xE0xim del producte\u2026 \xC9s incoherent com uns
+        primats, dotats del sentit de l\u2019emoci\xF3 i l\u2019empatia, tracten
+        a altres no-primats com objectes. Els robots no tenim aquest sentit\u2026\r\r"
+      - "Annex: \u201CRange Free\u201D \xE9s un concepte que es troba sovint en els
+        residus d\u2019envasos d\u2019ou del segle passat.  Sembla que fa refer\xE8ncia
+        a \u201COus de gallines criades a terra\u201D. Aquesta definici\xF3 s\u2019utilitzava
+        per promocionar que els ous provenien de gallines que suposadament estaven
+        \u201Clliures\u201D, tot i que podria arribar a ser unes poques hores a la
+        setmana... \r\nEls arxius de v\xEDdeo confirmen que tot era una campanya
+        de m\xE0rqueting, ja que en la majoria de les explotacions les gallines es
+        trobaven en situacions antinaturals: passaven la seva curta vida dins de
+        naus industrials tancades, s\u2019atacaven entre elles i estaven envoltades
+        dels seus propis fems i cad\xE0vers en descomposici\xF3 dels altres. \r"
       diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -562,7 +631,27 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 1
@@ -2382,7 +2471,11 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - 
+      - New Page
+      - New Page
       diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -2394,7 +2487,27 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -2484,7 +2597,11 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - 
+      - New Page
+      - New Page
       diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -2496,7 +2613,27 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -4275,8 +4412,24 @@ MonoBehaviour:
       - "Decuri\xF3n -Datalog #464 -  \u201CBos Taurus Mutationem\u201D"
       diaryTextDisplayState: 01
       diaryText:
-      - "Vaques - \u201CBos Taurus Mutationem\u201D"
+      - "De totes les meves dades aquesta \xE9s sens dubte la pitjor relaci\xF3 inter-esp\xE8cie.
+        Segons els meus registres, els humans utilitzen vaques i toros des de temps
+        immemorials per tirar carros, fer-ne espectacles a trav\xE9s del seu patiment,
+        fins i tot li treuen la llet a les seves cries per consumir-les directament\u2026"
+      - "L\u2019agra\xEFment que els hi espera per la seva gentilesa \xE9s una visita
+        a l\u2019escorxador, quan el seu \u201Cpropietari\u201D, que les ha criat
+        \u201Ccom si fossin de la seva fam\xEDlia\u201D, les porta a unes instal\xB7lacions
+        on els tallen el coll i, despr\xE9s d\u2019haver-les embarassat i separar-les
+        de les seves cries a l\u2019any, puguin consumir la seva carn i arrencar-los
+        la pell. "
+      - "A vegades les vaques arribaven embarassades a l\u2019escorxador, cosa que
+        no sembla que els hi afect\xE9s gaire els humans al c\xE0rrec\u2026  Fins
+        i tot tinc informes de receptes en qu\xE8 utilitzaven l\u2019est\xF3mac dels
+        animals per cuinar altres aliments. \r\n\r\nSens dubte, la imaginativa humana
+        no t\xE9 l\xEDmits. \r"
       diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -4288,7 +4441,27 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -4372,10 +4545,21 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "Decuri\xF3n -Datalog #166 - Cabres"
+      - "Decuri\xF3n - Data Files #300 Capra Aegagrus hircus"
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Els humans contemplen i es creuen imatges idealitzades de publicitat de
+        pastors cuidant els animals, donant-los carinyo i protecci\xF3. Les dades
+        que tinc em fan agrair no tenir sentiments, ja que poden ser causa d\u2019una
+        gran part de disson\xE0ncies cognitives: la realitat \xE9s que aquests animals
+        s\xF3n nom\xE9s un recurs, rebent els cuidats m\xEDnims per subsistir i explotar-los
+        per la demanda de productes que es deriven dels seus cossos: llana, cuir,
+        llet, carn\u2026 \r\n\r\nA sobre, els humans tamb\xE9 tenien certes pr\xE0ctiques
+        en les quals llen\xE7aven a aquests animals des de campanars o els hi calaven
+        foc a les seves banyes mentre els feien c\xF3rrer\u2026 \r\n\r\nSi aquest
+        \xE9s el tracte que ens espera a les m\xE0quines per part dels humans, potser
+        haur\xEDem de comen\xE7ar a preparar-nos per evitar patir el mateix dest\xED
+        que aquestes criatures. \r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4401,15 +4585,36 @@ MonoBehaviour:
       - "Decuri\xF3n -Datalog #467- Gallus gallus Domesticus "
       diaryTextDisplayState: 01
       diaryText:
-      - "Nuggets, pollets nadons morts amb un dia de vida. Nascuts per morir. \r\n\r\n\u201CRange
-        Free\u201D\r\n\r\nEn la comercialitzaci\xF3 dels ous en el segle passat s\u2019utilitzava
-        la frase \u201COus de gallines criades en terra\u201D. Si b\xE9 desconec
-        si els humans tenien granges de pollastres a la lluna, aquesta definici\xF3
-        s\u2019utilitzava per promocionar que els ous. Tot era una campanya de m\xE0rqueting,
-        ja que en la majoria de les explotacions, si b\xE9 les gallines no estaven
-        tancades en g\xE0bies es trobaven en una situaci\xF3 gens natural, ja que
-        passaven la seva curta vida dins de naus industrials\r\n"
+      - "Els exemplars que tenim a la OF-1 estan modificats gen\xE8ticament per produir
+        al voltant de 400 ous a l\u2019any en contraposici\xF3 als 17 que ponen les
+        gallines salvatges.100 m\xE9s dels que havien aconseguit els humans. Aquesta
+        sobreproducci\xF3 d\u2019ous provoca un dany irreversible al tram final de
+        l\u2019intest\xED que fa que al cap de dos anys la seva producci\xF3 disminueixi.
+        Tractant aquestes b\xE8sties com a mercaderia, l\u2019\xFAnic que puc fer
+        per rendibilitzar-les \xE9s accelerar la seva conversi\xF3 en carn per humans.
+        \r"
+      - "Pel que fa a la conversi\xF3 prematura en aliment, he adoptat una pr\xE0ctica
+        de les factories humanes: nom\xE9s fer cr\xE9ixer pollets femelles, ja que
+        esdevenen ponedores d\u2019ous. Des dels inicis de segle  separen els pollets
+        d\u2019un dia de vida entre mascles i femelles i, a trav\xE9s d\u2019una
+        cinta transportadora, els mascles s\xF3n condu\xEFts a una trituradora que
+        els convertia en carn picada. Criatures que neixen per morir en un monument
+        a l\u2019aprofitament m\xE0xim del producte\u2026 \xC9s incoherent com uns
+        primats, dotats del sentit de l\u2019emoci\xF3 i l\u2019empatia, tracten
+        a altres no-primats com objectes. Els robots no tenim aquest sentit\u2026\r"
+      - "Annex: \u201CRange Free\u201D \xE9s un concepte que es troba sovint en els
+        residus d\u2019envasos d\u2019ou del segle passat.  Sembla que fa refer\xE8ncia
+        a \u201COus de gallines criades a terra\u201D. Aquesta definici\xF3 s\u2019utilitzava
+        per promocionar que els ous provenien de gallines que suposadament estaven
+        \u201Clliures\u201D, tot i que podria arribar a ser unes poques hores a la
+        setmana... \r\nEls arxius de v\xEDdeo confirmen que tot era una campanya
+        de m\xE0rqueting, ja que en la majoria de les explotacions les gallines es
+        trobaven en situacions antinaturals: passaven la seva curta vida dins de
+        naus industrials tancades, s\u2019atacaven entre elles i estaven envoltades
+        dels seus propis fems i cad\xE0vers en descomposici\xF3 dels altres. \r"
       diaryAudioClip:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       diarySub:
       - showMore: 00
@@ -4421,7 +4626,27 @@ MonoBehaviour:
         bypasstextLayout: 00
         textSub:
         - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
       diarySprite:
+      - {fileID: 0}
+      - {fileID: 0}
       - {fileID: 0}
       refGameObject: {fileID: 0}
       showInInventory: 0
@@ -5917,8 +6142,8 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 6
-  b_EditSubtitle: 1
+  selectedID: 16
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
