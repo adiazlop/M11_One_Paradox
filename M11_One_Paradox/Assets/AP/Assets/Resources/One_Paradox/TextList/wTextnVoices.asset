@@ -4253,13 +4253,10 @@ MonoBehaviour:
         - 0
         firstLetter:
         - 0
-        lastLetter: c8000000
+        lastLetter: 00000000
         bypasstextLayout: 00
         textSub:
-        - "He sentit a dir que \xE9s incre\xEFble quan el fam\xF3s cuc farcit de
-          color lila a l'espai de la mand\xEDbula amb el diapas\xF3 pica l\u2019ull
-          a Hari Kiri Rock. Necessito unes tisores! 61!\n\nProvant, provant, 1,2,3\u2026
-          Unit"
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6143,8 +6140,8 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 4
-  b_EditSubtitle: 0
+  selectedID: 3
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
