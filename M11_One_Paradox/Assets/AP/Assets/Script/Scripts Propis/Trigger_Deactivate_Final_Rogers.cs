@@ -8,6 +8,7 @@ public class Trigger_Deactivate_Final_Rogers : MonoBehaviour
     public Animator[] animatorsToDisable; // Array de componentes Animator a desactivar
     public NavMeshAgent[] navMeshAgentsToControl; // Array de componentes NavMeshAgent a modificar
     public GameObject[] gameObjectsEnd;
+    public List<AudioSource> audioSourcesToDisable; // Lista de AudioSource a desactivar
 
     private void OnTriggerEnter(Collider other)
     {
@@ -31,12 +32,21 @@ public class Trigger_Deactivate_Final_Rogers : MonoBehaviour
                 }
             }
 
-            // Desactivar los componentes Animator
+            // Desactivar los componentes 
             foreach (GameObject gameObject in gameObjectsEnd)
             {
                 if (gameObject != null)
                 {
                     gameObject.SetActive(false); // Desactiva el GameObject
+                }
+            }
+
+            // Desactivar los componentes AudioSource
+            foreach (AudioSource audioSource in audioSourcesToDisable)
+            {
+                if (audioSource != null)
+                {
+                    audioSource.enabled = false; // Desactiva el AudioSource
                 }
             }
         }
