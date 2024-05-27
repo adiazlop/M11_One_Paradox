@@ -131,6 +131,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1205660604802405818, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 92
+      objectReference: {fileID: 0}
+    - target: {fileID: 1506016075220996188, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 3275521316944164433, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5808333466321164433, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 92
+      objectReference: {fileID: 0}
     - target: {fileID: 6690239153789168140, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
       propertyPath: m_IsActive
@@ -255,6 +275,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Text
       value: "C\xC0RREGA"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6721985051052519593, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 91
+      objectReference: {fileID: 0}
+    - target: {fileID: 6722062239502779921, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 91
       objectReference: {fileID: 0}
     - target: {fileID: 6722226632965206064, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
@@ -411,6 +441,11 @@ PrefabInstance:
       propertyPath: list_gameObjectByPage.Array.data[4].listOfMenuGameobject.Array.data[1].objList
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 7828324775486476588, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 94
+      objectReference: {fileID: 0}
     - target: {fileID: 7852398654054552406, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
       propertyPath: m_Name
@@ -426,6 +461,11 @@ PrefabInstance:
       propertyPath: menuManager
       value: 
       objectReference: {fileID: 1563380816}
+    - target: {fileID: 7959791430462962222, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 94
+      objectReference: {fileID: 0}
     - target: {fileID: 8062334915460778466, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
       propertyPath: m_Alpha
