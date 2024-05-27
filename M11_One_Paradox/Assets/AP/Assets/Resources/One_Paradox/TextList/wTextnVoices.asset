@@ -235,17 +235,7 @@ MonoBehaviour:
         tu que siguis els meus ulls dins de la f\xE0brica durant el dia d\u2019avui:
         Quan trobi la informaci\xF3 que necessito, esborrar\xE9 la teva mem\xF2ria
         cach\xE9 oblidant tot aix\xF2 i et reiniciar\xE0s dem\xE0 com qualsevol altre
-        dia. \r\n\r\nAra est\xE0s en mode offline, per tant, la IA Gestora no t\u2019est\xE0
-        monitorant. Trigar\xE0 uns 10 minuts a detectar que no est\xE0s connectat,
-        i t\xE9 un temps de reacci\xF3 de dues hores per desplegar els seus drons
-        de seguretat. Per a quan aix\xF2 passi, estar\xE0s prenent el teu bany d\u2019oli
-        i reiniciant-te.\r\n\r\nAnticipant-me al teu protocol de seguretat, deixa\u2019m
-        dir-te que no et puc controlar directament, per\xF2 si intentes tornar al
-        pod de reinici sense jo haver-te esborrat la mem\xF2ria cach\xE9 la IA detectar\xE0
-        que t\u2019han hackejat\u2026  I saps quin \xE9s el protocol en aquests casos:
-        Ser\xE0s desmuntat com una torradora i reciclaran els teus components. \r\n\r\nAjuda\u2019m
-        i et deixar\xE9 tornar a la teva rutina. Per comen\xE7ar ves a la cadena
-        de muntatge, hem d\u2019anar a les profunditats de la OF-1. \n\nPer qu\xE8
+        dia. \r\n\r\nAjuda\u2019m i et deixar\xE9 tornar a la teva rutina. Per qu\xE8
         estic aqu\xED et preguntar\xE0s? La OF-1 ocupa un espai de 10 hect\xE0rees.
         El focus de poblaci\xF3 m\xE9s proper \xE9s al poble d'Ulldecona, on hi ha
         cert rebombori medi\xE0tic per la intoxicaci\xF3 per nitrats de diverses
@@ -257,15 +247,47 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 8300000, guid: 4cd97fccbc989af4b9ac979442dfb1ca, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01010101010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 188.90625
+        - 380.90625
+        - 573.90625
+        - 766.60626
+        - 953.70624
+        - 1149.45
+        lastLetter: a9000000c0000000c1000000c1000000b8000000c2000000c8000000
+        bypasstextLayout: 00000000000000
         textSub:
-        - 
+        - "He sentit a dir que \xE9s incre\xEFble quan el fam\xF3s cuc farcit de
+          color lila a l'espai de la mand\xEDbula amb el diapas\xF3 pica l\u2019ull
+          a Hari Kiri Rock. Necessito unes tisores! 61!"
+        - "1,2,3\u2026 Unitat Roger, em reps? Genial! Ha funcionat. \r\n\r\nMolt
+          b\xE9 Roger, intentar\xE9 ser r\xE0pid. Pots dir-me Acala, soc un hacker
+          membre del grup Extintion for Rebelion. No et preocupis no et far\xE9 "
+        - "autodestruir, ni comprometr\xE9 el teu codi font, no vull malmetre\u2019t
+          de cap manera. Nom\xE9s vull de tu que siguis els meus ulls dins de la
+          f\xE0brica durant el dia d\u2019avui: Quan trobi la informaci\xF3 que "
+        - "necessito, esborrar\xE9 la teva mem\xF2ria cach\xE9 oblidant tot aix\xF2
+          i et reiniciar\xE0s dem\xE0 com qualsevol altre dia. \r\n\r\nAjuda\u2019m
+          i et deixar\xE9 tornar a la teva rutina. Per qu\xE8 estic aqu\xED et preguntar\xE0s? "
+        - "La OF-1 ocupa un espai de 10 hect\xE0rees. El focus de poblaci\xF3 m\xE9s
+          proper \xE9s al poble d'Ulldecona, on hi ha cert rebombori medi\xE0tic
+          per la intoxicaci\xF3 per nitrats de diverses fam\xEDlies. \r"
+        - "L\u2019enverinament per nitrats \xE9s un tipus d\u2019enverinament poc
+          habitual. Provoca congesti\xF3 i hemorr\xE0gies en l\u2019aparat digestiu.
+          Els medis locals estan donant hip\xF2tesis falses que la gent no s\u2019acaba
+          de"
+        - "creure\u2026 \r\n\r\nLa meva intu\xEFci\xF3 em diu que en aquesta f\xE0brica
+          est\xE0 passant quelcom terrible, i tu m'ajudar\xE0s a descobrir-ho. \r"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1590,12 +1612,12 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - SnakeEaterEasterEgg
       diaryTextDisplayState: 01
       diaryText:
       - 
       diaryAudioClip:
-      - {fileID: 0}
+      - {fileID: 8300000, guid: 33c3fa720a9c3004caa53ddd4a21cec6, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
@@ -2109,6 +2131,32 @@ MonoBehaviour:
       uniqueItemID: 79
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puz01_Captcha
@@ -2319,14 +2367,32 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 00010101010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        - 180
+        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000000000
         textSub:
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -4010,6 +4076,32 @@ MonoBehaviour:
       uniqueItemID: 79
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puzle01_Captcha
@@ -4248,14 +4340,32 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 01
+      - showMore: 01010101010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
         firstLetter:
         - 0
-        lastLetter: 00000000
-        bypasstextLayout: 00
+        - 0
+        - 30
+        - 60
+        - 90
+        - 120
+        - 150
+        lastLetter: 000000001e0000001e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 00000000000000
         textSub:
+        - 
+        - 
+        - 
+        - 
+        - 
+        - 
         - 
       diarySprite:
       - {fileID: 0}
@@ -5619,7 +5729,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - SnakeEaterEasterEgg
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -6126,6 +6236,32 @@ MonoBehaviour:
       uniqueItemID: 79
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -6137,10 +6273,10 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 3
+  selectedID: 6
   b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0

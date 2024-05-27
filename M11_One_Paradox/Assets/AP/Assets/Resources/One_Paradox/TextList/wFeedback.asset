@@ -261,10 +261,10 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
+  currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 2
+  selectedID: 0
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 3
