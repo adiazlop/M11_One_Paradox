@@ -11076,6 +11076,11 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[4].m_Arguments.m_ObjectArgument
       value: 
       objectReference: {fileID: 1479532286}
+    - target: {fileID: 114543536191183132, guid: cb733571a23f84fcc985fbbef40e560c,
+        type: 3}
+      propertyPath: m_Text
+      value: "MEN\xDA"
+      objectReference: {fileID: 0}
     - target: {fileID: 224322910834653226, guid: cb733571a23f84fcc985fbbef40e560c,
         type: 3}
       propertyPath: m_AnchoredPosition.y

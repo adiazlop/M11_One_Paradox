@@ -6996,7 +6996,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Menu
+      - "MEN\xDA"
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -7074,7 +7074,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - "Est\xE1s segur? No t'estan hackejant? "
+      - "Est\xE0s segur? No t'estan hackejant? "
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9142,7 +9142,7 @@ MonoBehaviour:
   currentLanguage: 2
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 87
+  selectedID: 33
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2

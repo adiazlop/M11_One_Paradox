@@ -3617,7 +3617,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Menu
+  m_Text: "MEN\xDA"
 --- !u!114 &114137845424736348
 MonoBehaviour:
   m_ObjectHideFlags: 0

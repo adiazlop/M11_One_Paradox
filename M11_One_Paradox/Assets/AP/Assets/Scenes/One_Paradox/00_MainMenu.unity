@@ -151,6 +151,11 @@ PrefabInstance:
       propertyPath: managerID
       value: 92
       objectReference: {fileID: 0}
+    - target: {fileID: 6690196797195729098, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6690239153789168140, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
       propertyPath: m_IsActive
@@ -317,6 +322,11 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6900491972703344275, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916452541484236190, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
       propertyPath: m_Alpha
       value: 0
