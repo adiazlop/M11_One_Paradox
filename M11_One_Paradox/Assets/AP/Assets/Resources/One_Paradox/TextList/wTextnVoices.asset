@@ -250,12 +250,12 @@ MonoBehaviour:
       - showMore: 01010101010101
         startPointsClip:
         - 0
-        - 2
-        - 4
-        - 6
-        - 8
-        - 10
-        - 12
+        - 11.77063
+        - 27.674988
+        - 37.56665
+        - 48.585693
+        - 58.352093
+        - 68.619545
         firstLetter:
         - 0
         - 188.90625
@@ -304,22 +304,31 @@ MonoBehaviour:
       - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
         de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
         en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
-        Sort que tu no tens sentit del f\xE0stic, oi?"
+        Sort que tu no tens sentit del f\xE0stic, oi? \nB\xE9 ara haurem de fer una
+        mica d'exploraci\xF3, compte amb aquells Rogers, no s\xE9 qu\xE8 passar\xE0
+        si et detecten."
       diaryAudioClip:
       - {fileID: 8300000, guid: d15a20f655443884884ac11954185dd5, type: 3}
       diarySub:
-      - showMore: 0101
+      - showMore: 010101
         startPointsClip:
         - 0
-        - 2
+        - 9.012937
+        - 15.427172
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
-        bypasstextLayout: 0000
+        - 165.95833
+        - 252.875
+        lastLetter: a600000057000000c8000000
+        bypasstextLayout: 000000
         textSub:
-        - "S\u2019obre un nou m\xF3n per tu, eh R"
-        - oger? Ara estem a les profundi
+        - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
+          de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
+          en el centre de distribuci\xF3\u2026"
+        - " Tot sembla antic i fa una mica de f\xE0stic\u2026 Sort que tu no tens
+          sentit del f\xE0stic, oi? \n"
+        - "B\xE9 ara haurem de fer una mica d'exploraci\xF3, compte amb aquells Rogers,
+          no s\xE9 qu\xE8 passar\xE0 si et detecten."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -938,7 +947,7 @@ MonoBehaviour:
         - '[ACALA] SHIT! What does it mean!? Run Roger! What a run! Quick, find a
           way up that chimney!
 
-          
+
 
           [AI]Predictable...'
       diarySprite:
@@ -2414,16 +2423,19 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 000101
         startPointsClip:
         - 0
         - 2
+        - 4
         firstLetter:
         - 0
         - 30
-        lastLetter: 1e0000001e000000
-        bypasstextLayout: 0000
+        - 60
+        lastLetter: 1e0000001e0000001e000000
+        bypasstextLayout: 000000
         textSub:
+        - 
         - 
         - 
       diarySprite:
@@ -4351,22 +4363,41 @@ MonoBehaviour:
         - 12
         firstLetter:
         - 0
-        - 0
-        - 30
-        - 60
-        - 90
-        - 120
-        - 150
-        lastLetter: 000000001e0000001e0000001e0000001e0000001e0000001e000000
+        - 200.38126
+        - 399.84375
+        - 599.6188
+        - 799.8187
+        - 999.59375
+        - 1522.9001
+        lastLetter: c8000000c8000000c8000000c8000000c8000000c8000000c8000000
         bypasstextLayout: 00000000000000
         textSub:
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
+        - "He sentit a dir que \xE9s incre\xEFble quan el fam\xF3s cuc farcit de
+          color lila a l'espai de la mand\xEDbula amb el diapas\xF3 pica l\u2019ull
+          a Hari Kiri Rock. Necessito unes tisores! 61!\n\nProvant, provant, 1,2,3\u2026
+          Unit"
+        - "at Roger, em reps? Genial! Ha funcionat. \r\n\r\nMolt b\xE9 Roger, intentar\xE9
+          ser r\xE0pid. Pots dir-me Acala, soc un hacker membre del grup Extintion
+          for Rebelion. No et preocupis no et far\xE9 autodestruir, ni co"
+        - "mprometr\xE9 el teu codi font, no vull malmetre\u2019t de cap manera.
+          Nom\xE9s vull de tu que siguis els meus ulls dins de la f\xE0brica durant
+          el dia d\u2019avui: Quan trobi la informaci\xF3 que necessito, esborrar\xE9
+          la te"
+        - "va mem\xF2ria cach\xE9 oblidant tot aix\xF2 i et reiniciar\xE0s dem\xE0
+          com qualsevol altre dia. \r\n\r\nAra est\xE0s en mode offline, per tant,
+          la IA Gestora no t\u2019est\xE0 monitorant. Trigar\xE0 uns 10 minuts a
+          detectar que no e"
+        - "st\xE0s connectat, i t\xE9 un temps de reacci\xF3 de dues hores per desplegar
+          els seus drons de seguretat. Per a quan aix\xF2 passi, estar\xE0s prenent
+          el teu bany d\u2019oli i reiniciant-te.\r\n\r\nAnticipant-me al teu prot"
+        - "ocol de seguretat, deixa\u2019m dir-te que no et puc controlar directament,
+          per\xF2 si intentes tornar al pod de reinici sense jo haver-te esborrat
+          la mem\xF2ria cach\xE9 la IA detectar\xE0 que t\u2019han hackejat\u2026 
+          I saps"
+        - "cus de poblaci\xF3 m\xE9s proper \xE9s al poble d'Ulldecona, on hi ha
+          cert rebombori medi\xE0tic per la intoxicaci\xF3 per nitrats de diverses
+          fam\xEDlies. \r\n\r\nL\u2019enverinament per nitrats \xE9s un tipus d\u2019enverinament
+          poc "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4387,19 +4418,23 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0101
+      - showMore: 010101
         startPointsClip:
         - 0
         - 2
+        - 4
         firstLetter:
         - 0
         - 154.26042
-        lastLetter: c8000000c8000000
-        bypasstextLayout: 0001
+        - 354.26044
+        lastLetter: c8000000c80000001e000000
+        bypasstextLayout: 000101
         textSub:
         - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
           de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
           en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de"
+        - "distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
+          Sort que tu no tens sentit del f\xE0stic, oi?"
         - "distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
           Sort que tu no tens sentit del f\xE0stic, oi?"
       diarySprite:
@@ -6268,7 +6303,7 @@ MonoBehaviour:
   textEditorSize: 350
   showMoreOptions: 1
   showMoveUpDown: 1
-  showNameOptions: 0
+  showNameOptions: 1
   listOfLanguage:
   - English
   - Spanish
@@ -6276,7 +6311,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 20
+  selectedID: 0
   b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
