@@ -50,7 +50,7 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 8300000, guid: 2b096e8e527d4a748bbf7f0585a7ff36, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
@@ -258,11 +258,11 @@ MonoBehaviour:
         - 0
         - 200.90625
         - 398.90625
-        - 573.90625
+        - 594.0062
         - 768.60626
         - 965.70624
         - 1155.45
-        lastLetter: c8000000c6000000c4000000c3000000c5000000bb000000c8000000
+        lastLetter: c8000000c6000000c3000000c3000000c5000000bb000000c8000000
         bypasstextLayout: 00000000000000
         textSub:
         - "I've heard it's amazing when the famous purple stuffed worm in the jaw
@@ -273,10 +273,10 @@ MonoBehaviour:
           won't make you self-destruct, or compromise your source "
         - 'code, I don''t want to harm you in any way. I just want you to be my eyes
           inside the factory for today: When I find the information I need, I''ll
-          wipe your cache forgetting all about it and you''ll r'
-        - "about it and you'll restart tomorrow like any other day.\rHelp me and
-          I'll let you go back to your routine. Why am I here you ask? The OF-1 occupies
-          a space of 10 hectares. The nearest population "
+          wipe your cache forgetting all about it and you''ll '
+        - "restart tomorrow like any other day.\rHelp me and I'll let you go back
+          to your routine. Why am I here you ask? The OF-1 occupies a space of 10
+          hectares. The nearest population center is in the vil"
         - "center is in the village of Ulldecona, where there is some media uproar
           over the nitrate poisoning of several families.\rNitrate poisoning is an
           uncommon type of poisoning. It causes congestion and "
@@ -2230,15 +2230,16 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Bienvenida Unidad Roger 1080! Completa el Captcha p\xE0ra demostrar que
+          no eres humano. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2264,7 +2265,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Selecciona la destinaci\xF3n"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2282,15 +2283,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - 'Enciende las luces para trabajar. '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2308,15 +2309,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Agrupa los productos por fam\xEDlias"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2468,13 +2469,13 @@ MonoBehaviour:
         lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e000000
         bypasstextLayout: 00000000000000
         textSub:
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
+        - "He o\xEDdo decir que es incre\xEDble"
+        - ' cuando el famoso gusano relle'
+        - no de color lila en el espacio
+        - " de la mand\xEDbula con el diapas"
+        - "\xF3n da el ojo a Hari Kiri Rock."
+        - " \xA1Necesito unas tijeras! 61!\r\n"
+        - "\r\nProbando, probando, 1,2,3\u2026 U"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3422,15 +3423,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Selecciona las Kilotoneladas de carne a producir en \xE9ste ciclo. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6571,7 +6572,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 20
+  selectedID: 6
   b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
