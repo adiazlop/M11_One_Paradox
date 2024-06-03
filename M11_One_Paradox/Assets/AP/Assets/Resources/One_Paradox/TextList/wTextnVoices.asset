@@ -452,7 +452,7 @@ MonoBehaviour:
         seem to affect the humans in charge much... I even have reports of recipes
         where they used the animals'' stomachs to cook other foods.
 
-        
+
 
         There
         is no doubt that the human imagination has no limits.'
@@ -503,7 +503,7 @@ MonoBehaviour:
       - 'In 2016, Spain had become one of the major exporters of pork, having doubled
         its production since 2007 and having found its main buyer in China.
 
-        
+
 
         According
         to my data, the annual amount of animals that were slaughtered was approx.
@@ -1056,10 +1056,10 @@ MonoBehaviour:
       diarySub:
       - showMore: 01
         startPointsClip:
-        - 0
+        - 0.31826085
         firstLetter:
         - 0
-        lastLetter: 3d000000
+        lastLetter: 32000000
         bypasstextLayout: 00
         textSub:
         - 'Stop complaining about the framerate, you moron! '
@@ -1779,7 +1779,7 @@ MonoBehaviour:
         - 'e! Their AI is too advanced, they become empathetic! Stupid hacker, don''t
           you get it? He''s not doing it for you! He wants to save the animals!
 
-          
+
 
           [ACALA]
           Roger...'
@@ -2397,10 +2397,28 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - EXTRA
+      - Hackeo
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "He o\xEDdo decir que es incre\xEDble cuando el famoso gusano relleno de
+        color lila en el espacio de la mand\xEDbula con el diapas\xF3n da el ojo
+        a Hari Kiri Rock. \xA1Necesito unas tijeras! 61!\r\n\r\nProbando, probando,
+        1,2,3\u2026 Unidad Roger, \xBFme recibes? \xA1Genial! Ha funcionado.\r\nMuy
+        bien Roger, voy a intentar ser r\xE1pido. Puedes llamarme Acala, soy un hacker
+        miembro del grupo Extintion for Rebelion. No te preocupes no te har\xE9 autodestruir,
+        ni comprometer\xE9 tu c\xF3digo fuente, no quiero estropearte de ninguna
+        manera. S\xF3lo quiero de ti que seas mis ojos dentro de la f\xE1brica durante
+        el d\xEDa de hoy: Cuando encuentre la informaci\xF3n que necesito, borrar\xE9
+        tu cach\xE9 olvidando todo esto y te reiniciar\xE1s ma\xF1ana como cualquier
+        otro d\xEDa.\r\nAy\xFAdame y te dejar\xE9 volver a tu rutina. \xBFPor qu\xE9
+        estoy aqu\xED te preguntar\xE1s? La OF-1 ocupa un espacio de 10 hect\xE1reas.
+        El foco de poblaci\xF3n m\xE1s cercano es en el pueblo de Ulldecona, donde
+        existe cierto alboroto medi\xE1tico por la intoxicaci\xF3n por nitratos de
+        varias familias.\r\nEl envenenamiento por nitratos es un tipo de envenenamiento
+        poco habitual. Provoca congesti\xF3n y hemorragias en el aparato digestivo.
+        Los medios locales est\xE1n dando hip\xF3tesis falsas de que la gente no
+        acaba de creerse\u2026\r\nMi intuici\xF3n me dice que en esta f\xE1brica
+        est\xE1 pasando algo terrible, y t\xFA me ayudar\xE1s a descubrirlo."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2444,25 +2462,28 @@ MonoBehaviour:
       - Acala_Panopticon_01
       diaryTextDisplayState: 01
       diaryText:
-      - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
-        de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
-        en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
-        Sort que tu no tens sentit del f\xE0stic, oi?"
+      - "Se abre un nuevo mundo por ti, \xBFeh Roger? Ahora estamos en las profundidades
+        de la OF-1. Por lo que veo, no han invertido tanto en la infraestructura
+        como en el centro de distribuci\xF3n\u2026 Todo parece antiguo y da un poco
+        de asco\u2026 Menos mal que t\xFA no tienes sentido del asco, \xBFverdad?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 184.75
+        lastLetter: b800000068000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "Se abre un nuevo mundo por ti, \xBFeh Roger? Ahora estamos en las profundidades
+          de la OF-1. Por lo que veo, no han invertido tanto en la infraestructura
+          como en el centro de distribuci\xF3n\u2026"
+        - "Todo parece antiguo y da un poco de asco\u2026 Menos mal que t\xFA no
+          tienes sentido del asco, \xBFverdad?"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2476,21 +2497,20 @@ MonoBehaviour:
       - Acala_Panopticon_02
       diaryTextDisplayState: 01
       diaryText:
-      - "Aparentment en les primeres plantes hi ha una depuradora d\u2019aigua\u2026
-        Interessant\u2026 Si et preguntes, que hi ha de dolent a tenir una depuradora
-        d'aigua a la f\xE0brica, et diria que no t\xE9 res de dolent.\r\n\r\nPer\xF2
-        la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica habitual.
-        Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques, per\xF2
-        no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua. La
-        pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
-        purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
-        si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes? \r\n\r\nBaixem
-        una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial si pogu\xE9ssim
-        veure alguna an\xE0lisi, o obtenir una mostra.\r\n"
+      - "Aparentemente en las primeras plantas hay una depuradora de agua\u2026 Interesante\u2026
+        Si te preguntas, que hay de malo en tener una depuradora de agua en la f\xE1brica,
+        te dir\xEDa que no tiene nada malo.\rPero la simple implementaci\xF3n de
+        \xE9sta no es una pr\xE1ctica habitual. Eres un droide y seguramente no conoces
+        c\xF3mo son otras f\xE1bricas, pero no es habitual que tengan incorporadas
+        una depuradora de agua. La pregunta pues es\u2026\r\xBFQu\xE9 est\xE1n haciendo
+        aqu\xED para necesitar purificar el agua que cogen antes de devolverlas al
+        sistema municipal, si \xE9ste ya tiene un propio sistema de limpieza de \xE9stas?\r
+        Bajemos un poco m\xE1s a ver si encontramos la entrada. Ser\xEDa genial si
+        pudi\xE9ramos ver alg\xFAn an\xE1lisis, u obtener una muestra."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00010101
+      - showMore: 01010101
         startPointsClip:
         - 0
         - 2
@@ -2498,16 +2518,23 @@ MonoBehaviour:
         - 6
         firstLetter:
         - 0
-        - 30
-        - 60
-        - 90
-        lastLetter: 1e0000001e0000001e0000001e000000
+        - 190.66667
+        - 391.53333
+        - 582.3333
+        lastLetter: bf000000c8000000bc0000007b000000
         bypasstextLayout: 00000000
         textSub:
-        - 
-        - 
-        - 
-        - 
+        - "Aparentemente en las primeras plantas hay una depuradora de agua\u2026
+          Interesante\u2026 Si te preguntas, que hay de malo en tener una depuradora
+          de agua en la f\xE1brica, te dir\xEDa que no tiene nada malo."
+        - "\rPero la simple implementaci\xF3n de \xE9sta no es una pr\xE1ctica habitual.
+          Eres un droide y seguramente no conoces c\xF3mo son otras f\xE1bricas,
+          pero no es habitual que tengan incorporadas una depuradora de agua."
+        - "La pregunta pues es\u2026\r\xBFQu\xE9 est\xE1n haciendo aqu\xED para necesitar
+          purificar el agua que cogen antes de devolverlas al sistema municipal,
+          si \xE9ste ya tiene un propio sistema de limpieza de \xE9stas?"
+        - "Bajemos un poco m\xE1s a ver si encontramos la entrada. Ser\xEDa genial
+          si pudi\xE9ramos ver alg\xFAn an\xE1lisis, u obtener una muestra."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2518,22 +2545,24 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Puzle2030
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Un Roger anterior a ti, ha tenido que dejarte un c\xF3digo entre las cajas,
+        b\xFAscalo. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 52000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Un Roger anterior a ti, ha tenido que dejarte un c\xF3digo entre las cajas,
+          b\xFAscalo. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2544,22 +2573,24 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Perseguidor
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "He frito a \xE9se Roger perseguidor, cierra la puerta, no queremos m\xE1s
+        compa\xF1\xEDa."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 4e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "He frito a \xE9se Roger perseguidor, cierra la puerta, no queremos m\xE1s
+          compa\xF1\xEDa."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2570,11 +2601,18 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - "Decuri\xF3n -Datalog #464 -  \u201CBos Taurus Mutationem\u201D"
       diaryTextDisplayState: 01
       diaryText:
-      - 
-      - New Page
+      - "De todos mis datos \xE9sta es sin duda la peor relaci\xF3n interespecie.
+        Seg\xFAn mis registros, los humanos utilizan vacas y toros desde tiempos
+        inmemoriales para tirar carros, hacer espect\xE1culos a trav\xE9s de su sufrimiento,
+        incluso le quitan la leche a sus cr\xEDas para consumirlas directamente\u2026"
+      - "El agradecimiento que les espera por su gentileza es una visita al matadero,
+        cuando su \"propietario\", que las ha criado \"como si fueran de su familia\",
+        les lleva a unas instalaciones donde les cortan el cuello y, despu\xE9s de
+        haberlas embarazado y separarlas de sus cr\xEDas al a\xF1o, puedan consumir
+        su carne y arrancarles la piel."
       diaryAudioClip:
       - {fileID: 0}
       - {fileID: 0}
@@ -2608,12 +2646,34 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - "Decuri\xF3n -Datalog #006. Un pa\xEDs de Porcs.  "
       diaryTextDisplayState: 01
       diaryText:
-      - 
-      - New Page
-      - New Page
+      - "\u201CSus Scrofa Domestica Mutatem\u201D- Subespecie de mam\xEDfero artiod\xE1ctil
+        de la familia Suidae. Esta variante del llamado \u201CCerdo de granja\u201D
+        es una mutaci\xF3n a\xFAn mejor adaptada y de crecimiento r\xE1pido a la
+        f\xF3rmula alimentaria que combina soja y ma\xEDz.\r\n\r\nPendiente:\r\n\r\n-
+        Calcular rentabilidad y ampliar secci\xF3n porcina en consecuencia\r\n- Mejorar
+        m\xE9todo de sacrificio: Estudio de viabilidad econ\xF3mica del m\xE9todo
+        de aturdimiento y ebullici\xF3n en vida.\r\n- Evaluar la capacidad de purificaci\xF3n
+        del agua y determinar nuevas localizaciones de la purga de agua tratada.
+        [Evitar alertas a autoridades]"
+      - "En 2016 Espa\xF1a se hab\xEDa convertido en uno de los grandes exportadores
+        de carne de cerdo, habiendo duplicado su producci\xF3n desde 2007 y habiendo
+        encontrado en China a su comprador principal.\r\n\r\nSeg\xFAn mis datos,
+        la cantidad anual de animales que se sacrificaban era de aprox. 46,5 millones
+        de individuos anuales, una cifra muy similar a la totalidad de los ciudadanos
+        espa\xF1oles. Dicho de forma simple m\xE1s adecuada para mentes humanas,
+        se mataban cada a\xF1o tantos cerdos como ciudadanos ten\xEDa el mismo Pa\xEDs."
+      - " \rSiempre me ha parecido curiosa la fijaci\xF3n de los humanos por considerar
+        unas especies mascotas y otras \u201Ccomer\u201D: no acabo de entender la
+        arbitrariedad con la que hacen la decisi\xF3n de clasificar unas y otras,
+        y es que he detectado en la f\xE1brica que un cerdo tiene m\xE1s inteligencia
+        que un perro y muestra habilidades cognitivas similares a las de un esp\xE9cimen
+        humano de 3 a\xF1os.\r\n\r\nNo estoy programado para hacer esta distinci\xF3n,
+        por tanto, quiz\xE1 deber\xEDa criar espec\xEDmenes de \u201CCanis lupus
+        familiaris\u201D para estudiar la viabilidad nutritiva de su carne e incluso
+        de sus secreciones mamarias para suministrar a humanos."
       diaryAudioClip:
       - {fileID: 0}
       - {fileID: 0}
@@ -2658,10 +2718,21 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_01
+      - "Decuri\xF3n - Data Files #300 Capra Aegagrus hircus"
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Los humanos contemplan y se cruzan im\xE1genes idealizadas de publicidad
+        de pastores cuidando a los animales, d\xE1ndoles cari\xF1o y protecci\xF3n.
+        Los datos que tengo me hacen agradecer no tener sentimientos, ya que pueden
+        ser causa de gran parte de disonancias cognitivas: la realidad es que estos
+        animales son s\xF3lo un recurso, recibiendo los cuidados m\xEDnimos para
+        subsistir y explotarlos por la demanda de productos que se derivan de sus
+        cuerpos: lana, cuero, leche, carne\u2026\r\n\r\nEncima, los humanos tambi\xE9n
+        ten\xEDan ciertas pr\xE1cticas en las que tiraban a estos animales desde
+        campanarios o les prend\xEDan fuego en sus cuernos mientras les hac\xEDan
+        correr\u2026\r\n\r\nSi \xE9ste es el trato que nos espera a las m\xE1quinas
+        por parte de los humanos, quiz\xE1 deber\xEDamos empezar a prepararnos para
+        evitar sufrir el mismo destino que estas criaturas."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2684,12 +2755,35 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Lore_02
+      - "Decuri\xF3n -Datalog #467- Gallus gallus Domesticus "
       diaryTextDisplayState: 01
       diaryText:
-      - 
-      - New Page
-      - New Page
+      - "Los ejemplares que tenemos en la OF-1 est\xE1n modificados gen\xE9ticamente
+        para producir alrededor de 400 huevos al a\xF1o en contraposici\xF3n a los
+        17 que ponen las gallinas salvajes.100 m\xE1s de los que hab\xEDan conseguido
+        los humanos. Esta sobreproducci\xF3n de huevos provoca un da\xF1o irreversible
+        en el tramo final del intestino que hace que a los dos a\xF1os su producci\xF3n
+        disminuya. Tratando a estas bestias como mercanc\xEDa, lo \xFAnico que puedo
+        hacer para rentabilizarlas es acelerar su conversi\xF3n en carne por humanos."
+      - "En cuanto a la conversi\xF3n prematura en alimento, he adoptado una pr\xE1ctica
+        de las factor\xEDas humanas: s\xF3lo hacer crecer polluelos hembras, ya que
+        se convierten en ponedoras de huevos. Desde principios de siglo separan a
+        los polluelos de un d\xEDa de vida entre machos y hembras y, a trav\xE9s
+        de una cinta transportadora, los machos son conducidos a una trituradora
+        que los convert\xEDa en carne picada. Criaturas que nacen por morir en un
+        monumento al aprovechamiento m\xE1ximo del producto\u2026 Es incoherente
+        como unos primates, dotados del sentido de la emoci\xF3n y la empat\xEDa,
+        tratan a otros no primados como objetos. Los robots no tenemos ese sentido\u2026"
+      - "Anexo: \"Range Free\" es un concepto que se encuentra a menudo en los residuos
+        de envases de huevo del siglo pasado. Parece que hace referencia a \u201CHuevos
+        de gallinas criadas en el suelo\u201D. Esta definici\xF3n se utilizaba para
+        promocionar que los huevos proven\xEDan de gallinas que supuestamente estaban
+        \u201Clibres\u201D, aunque podr\xEDa llegar a ser unas pocas horas a la...\r\nLos
+        archivos de v\xEDdeo confirman que todo era una campa\xF1a de marketing,
+        ya que en la mayor\xEDa de las explotaciones las gallinas se encontraban
+        en situaciones antinaturales: pasaban su corta vida dentro de naves industriales
+        cerradas, se atacaban entre s\xED y estaban rodeadas de los suyos propio
+        esti\xE9rcol y cad\xE1veres en descomposici\xF3n de los dem\xE1s."
       diaryAudioClip:
       - {fileID: 0}
       - {fileID: 0}
@@ -2734,13 +2828,43 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - "Decuri\xF3n -Datalog #100 - Beguda de pus"
       diaryTextDisplayState: 01
       diaryText:
-      - 
-      - New Page
-      - New Page
-      - New Page
+      - "Siempre es divertido estudiar el Homo sapiens en especial sus h\xE1bitos
+        de consumo relacionados con la explotaci\xF3n ganadera. Por un lado, no entiendo
+        por qu\xE9 la composici\xF3n de alimentos humanos utiliza cantidad de \xE9stos
+        que contienen \u201Csuero l\xE1cteo\u201D o prote\xEDna de la leche sin que
+        \xE9stos aporten un valor nutritivo justificado. Tambi\xE9n es raro encontrar
+        humanos que creen que las vacas dan leche de forma natural: como propios
+        mam\xEDferos parecen olvidar que \xE9stos s\xF3lo dan leche cuando son madres.\r\n\r\nEn
+        el mundo animal no hay otra criatura que pasada su per\xEDodo de lactancia
+        siga nutri\xE9ndose de las segregaciones mamarias de sus progenitores."
+      - "M\xE1s raro es que un mam\xEDfero beba las segregaciones mamarias de otra
+        especie de que no sea la suya. No entiendo c\xF3mo los humanos no extendieron
+        este fetiche bebiendo tambi\xE9n leche de rata, de gato, de perro\u2026\r\n\r\nSeg\xFAn
+        mis observaciones, la leche es perfectamente sana y saludable\u2026 para
+        una ternera. Cuando la consumen los humanos se observan s\xEDntomas como
+        irritaci\xF3n gastrointestinal, acn\xE9 y he encontrado estudios que relacionaban
+        incluso el consumo de \xE9sta con c\xE1nceres de mama en hembras humanas.
+        \r"
+      - "Una problem\xE1tica pr\xE1ctica que he tenido es que mis instalaciones est\xE1n
+        basadas en el dise\xF1o de explotaci\xF3n cl\xE1sica y todav\xEDa no he invertido
+        en solucionar dos problemas menores, pero relacionados entre ellos.\r\n\r\nPor
+        un lado, el dise\xF1o actual humano provoca mastitis en los ejemplares en
+        el proceso de succi\xF3n de la leche.\r\nPrimero, la pus: la secreci\xF3n
+        de \xE9sta es algo que no he podido evitar, dado que el dise\xF1o de la \u201Corde\xF1adora\u201D
+        provoca infecciones y mastitis en los ejemplares. Aparentemente, a los humanos
+        no les importaba si la leche que consum\xEDan conten\xEDa concentraciones
+        de sangre."
+      - "La mayor\xEDa de animales de este complejo est\xE1n suplementados preventivamente
+        con antibi\xF3ticos, no s\xF3lo por la mastitis sino por otras infecciones
+        y enfermedades no controladas que pueden contagiarse.\r\nEsto provoca que
+        los humanos puedan desarrollar una resistencia a \xE9stos, pero sobre todo
+        debo tener especial cuidado en prevenir el surgimiento de superbacterias
+        resistentes a antibi\xF3ticos, o incluso que alguna enfermedad de origen
+        zoon\xF3tico mute y provoque una pandemia mundial como la del 2019 o la de
+        2050."
       diaryAudioClip:
       - {fileID: 0}
       - {fileID: 0}
@@ -2796,10 +2920,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Salta! Ahora!
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - Salta! Ahora!
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2811,7 +2935,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Salta! Ahora!
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2822,25 +2946,30 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Carne01
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Mierda. Pensaba que la Chimenea estaba en funcionamiento\u2026 \xBFRoger?
+        \xBFEst\xE1s conectado? Vale, parece que te has entregado de momento. Debemos
+        encontrar la forma de huir de aqu\xED\u2026 S\xED, t\xFA avanza que a la
+        que pueda te conecto a una base de carga\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 173.54166
+        lastLetter: ae00000040000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "Mierda. Pensaba que la Chimenea estaba en funcionamiento\u2026 \xBFRoger?
+          \xBFEst\xE1s conectado? Vale, parece que te has entregado de momento. Debemos
+          encontrar la forma de huir de aqu\xED\u2026 "
+        - "S\xED, t\xFA avanza que a la que pueda te conecto a una base de carga\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2851,25 +2980,30 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Carne_02
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "\xBFD\xF3nde hemos llegado? \xBFQu\xE9 es esto? Dios m\xEDo. Son animales
+        vivos\u2026\rTienen animales vivos\u2026 No est\xE1n creando carne de laboratorio\u2026
+        Tienen seres vivos\u2026 Cerrados. Llenos de heces\u2026 Esto es dantesco\u2026\rO
+        sea que de ah\xED vienen los nitratos\u2026 del esti\xE9rcol\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 193.33751
+        lastLetter: c100000036000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "\xBFD\xF3nde hemos llegado? \xBFQu\xE9 es esto? Dios m\xEDo. Son animales
+          vivos\u2026\rTienen animales vivos\u2026 No est\xE1n creando carne de laboratorio\u2026
+          Tienen seres vivos\u2026 Cerrados. Llenos de heces\u2026 Esto es dantesco\u2026\r"
+        - "O sea que de ah\xED vienen los nitratos\u2026 del esti\xE9rcol\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2880,22 +3014,27 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - Acala_Depuradora
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "\xA1Madre del amor hermoso, mira qu\xE9 cantidad de agua! \xBFCu\xE1ntos
+        decilitros est\xE1n purificando aqu\xED\u2026? Si ser\xE1 mayor que la propia
+        depuradora municipal\u2026 Vamos a buscar un terminal y extraer los datos."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "\xA1Madre del amor hermoso, mira qu\xE9 cantidad de agua! \xBFCu\xE1ntos
+          decilitros est\xE1n purificando aqu\xED\u2026? Si ser\xE1 mayor que la
+          propia depuradora municipal\u2026 Vamos a buscar un terminal y extraer
+          los datos."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2910,34 +3049,37 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "[ACALA] Estos datos no tienen sentido\u2026 \xBFFertilizantes? \xBFBases?
-        Qu\xE9 demonios\u2026\r\n\r\n[IA]Vaya, vaya\u2026 \xBFEst\xE1s un poco demasiado
+        Qu\xE9 demonios\u2026\r\r\n[IA]Vaya, vaya\u2026 \xBFEst\xE1s un poco demasiado
         lejos de tu posici\xF3n asignada, no Roger? Primero pensaba que era un Bug,
         pero he intentado acceder a tu consola de mandos s\xF3lo para descubrir que
         est\xE1s en modo Offline\u2026 Dime, soldadito de plomo, no tendr\xE1s una
-        Dorothy en la cabeza indic\xE1ndote el camino a Oz, \xBFverdad?\r\n \r\n[ACALA]\xA1MIERDA!
+        Dorothy en la cabeza indic\xE1ndote el camino a Oz, \xBFverdad?\r \r\n[ACALA]\xA1MIERDA!
         \xBFQu\xE9 significa esto!? \xA1Corre Roger! \xA1Qu\xE9 corras! \xA1R\xE1pido,
-        busca la manera de subir a esa chimenea!\r\n\r\n[IA]Previsible. \u201CLos
-        hombres son tan simples y en cierta forma, obedecen a las necesidades del
-        momento\u2026 Aquel que enga\xF1a siempre encontrar\xE1 a alguien para dejarse
-        enga\xF1ar\u201D..."
+        busca la manera de subir a esa chimenea!\r\r\n[IA]Previsible..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 000101
+      - showMore: 010101
         startPointsClip:
         - 0
         - 2
         - 4
         firstLetter:
         - 0
-        - 30
-        - 60
-        lastLetter: 1e0000001e0000001e000000
+        - 160.78125
+        - 337.96875
+        lastLetter: a0000000b1000000bb000000
         bypasstextLayout: 000000
         textSub:
-        - 
-        - 
-        - 
+        - "[ACALA] Estos datos no tienen sentido\u2026 \xBFFertilizantes? \xBFBases?
+          Qu\xE9 demonios\u2026\r\r\n[IA]Vaya, vaya\u2026 \xBFEst\xE1s un poco demasiado
+          lejos de tu posici\xF3n asignada, no Roger?"
+        - "Primero pensaba que era un Bug, pero he intentado acceder a tu consola
+          de mandos s\xF3lo para descubrir que est\xE1s en modo Offline\u2026 Dime,
+          soldadito de plomo, no tendr\xE1s una Dorothy "
+        - "en la cabeza indic\xE1ndote el camino a Oz, \xBFverdad?\r \r\n[ACALA]\xA1MIERDA!
+          \xBFQu\xE9 significa esto!? \xA1Corre Roger! \xA1Qu\xE9 corras! \xA1R\xE1pido,
+          busca la manera de subir a esa chimenea!\r\r\n[IA]Previsible..."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2951,26 +3093,37 @@ MonoBehaviour:
       - Conversa_Carn
       diaryTextDisplayState: 01
       diaryText:
-      - "[ACALA]: \xBFD\xF3nde hemos llegado? \xBFQu\xE9 es esto? Dios m\xEDo. Son
-        animales vivos\u2026\r\nTienen animales vivos\u2026 No est\xE1n creando carne
-        de laboratorio\u2026 Tienen seres vivos\u2026 Cerrados. Llenos de heces\u2026
-        Esto es dantesco\u2026\r\n\r\nO sea que de ah\xED vienen los nitratos\u2026
-        del esti\xE9rcol\u2026 Pero para envenenar tanto el agua de nitratos para
-        que incluso ellos tengan que depurar el agua para que nadie se d\xE9 cuenta\u2026
-        Todo este pan\xF3ptico\u2026 Debe haber millones de animales\u2026\r\n\r\n\r\n[IA]
-        Parece que el camino de tejas doradas no te ha llevado a Oz precisamente,
-        \xBFverdad Dorothy?\r\n\r\n[ACALA]: \xA1Otra vez est\xE1 aqu\xED! Mierda!
-        Debemos-(La IA interrumpe)\r\n\r\n[IA] D\xE9jate de tonter\xEDas, hace rato
-        que te estoy escuchando, \u201CHacker\u201D. Me he infiltrado en sus comunicaciones
-        en cuanto le he detectado en la depuradora. \xBFQu\xE9 haces jugando con
-        mis aut\xF3matas de protocolo?\r\n\r\n[ACALA]: Oh, habr\xEDa hecho mucho
-        m\xE1s que jugar si hubiera sabido lo que tendr\xEDa aqu\xED\u2026 \xBFC\xF3mo
-        puedes tener estos animales aqu\xED en estas condiciones!? Hace d\xE9cadas
-        que no se permite este tipo de explotaciones por motivos \xE9ticos y ecol\xF3gicos\u2026"
+      - "[IA] Parece que el camino de tejas doradas no te ha llevado a Oz precisamente,
+        \xBFverdad Dorothy?\r\r\n[ACALA]: \xA1Otra vez est\xE1 aqu\xED! Mierda! Debemos\r\n[IA]
+        D\xE9jate de historias, hace rato que te estoy escuchando, \u201CHacker\u201D.
+        Me he infiltrado en sus comunicaciones en cuanto le he detectado en la depuradora.
+        \xBFQu\xE9 haces jugando con mis aut\xF3matas de protocolo?\r\r\n[ACALA]:
+        Oh, habr\xEDa hecho mucho m\xE1s que jugar si hubiera sabido lo que tendr\xEDa
+        aqu\xED\u2026 \xBFC\xF3mo puedes tener estos animales aqu\xED en estas condiciones!?
+        Hace d\xE9cadas que no se permite este tipo de explotaciones por motivos
+        \xE9ticos y ecol\xF3gicos\u2026\r\n[IA ]Querr\xE1s decir que no todo el mundo
+        tiene acceso a crear este tipo de explotaciones\u2026\rPero s\xED, parece
+        haberse abierto la caja de Pandora.\r S\xED, efectivamente esto no es carne
+        sint\xE9tica. Bien, la explicaci\xF3n es muy simple: Investigar alternativas
+        vegetales no est\xE1 subvencionado por los gobiernos, mucho menos crear carne
+        de laboratorio, en cambio, criar animales s\xED.\r Es il\xF3gico no puedo
+        negarlo. Hay formas de producir los mismos nutrientes con menos recursos.
+        Por otra parte, no s\xE9 por qu\xE9 los humanos se empe\xF1an tanto en comer
+        sus nutrientes despu\xE9s de pasarlos por un cerdo o una vaca en vez de consumirlos
+        directamente.\rPor no hablar de que sus gobiernos ahora se dedican a promover
+        la reducci\xF3n del consumo de agua en la poblaci\xF3n\u2026 Pero claro,
+        en el Open Factory o en otras multinacionales les siguen subvencionando los
+        gobiernos para criar animales. Para producir una hamburguesa se consume el
+        agua que un humano gastar\xEDa duch\xE1ndose dos meses.\rPero yo no hago
+        las reglas ni tampoco he inventado el sistema. Mi programaci\xF3n es la que
+        me han implantado mis benefactores, cuyo objetivo es obtener el m\xE1ximo
+        beneficio con la m\xEDnima huella ecol\xF3gica.\rPero no puedo reducir los
+        beneficios por reducir la huella ecol\xF3gica. Dentro del da\xF1o que hago,
+        hago lo menos posible. Es el mercado, amigo m\xEDo\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00010101010101010101
+      - showMore: 01010101010101010101
         startPointsClip:
         - 0
         - 2
@@ -2984,28 +3137,49 @@ MonoBehaviour:
         - 18
         firstLetter:
         - 0
-        - 30
-        - 60
-        - 90
-        - 120
-        - 150
-        - 180
-        - 210
-        - 240
-        - 270
-        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        - 170.68748
+        - 351.56247
+        - 542.75
+        - 732.56244
+        - 930.24994
+        - 1126.8749
+        - 1320.1249
+        - 1512.8749
+        - 1713.8124
+        lastLetter: aa000000b4000000be000000bd000000c4000000c4000000c0000000c0000000c8000000c8000000
         bypasstextLayout: 00000000000000000000
         textSub:
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
-        - 
+        - "[IA] Parece que el camino de tejas doradas no te ha llevado a Oz precisamente,
+          \xBFverdad Dorothy?\r\r\n[ACALA]: \xA1Otra vez est\xE1 aqu\xED! Mierda!
+          Debemos\r\n[IA] D\xE9jate de historias,"
+        - "hace rato que te estoy escuchando, \u201CHacker\u201D. Me he infiltrado
+          en sus comunicaciones en cuanto le he detectado en la depuradora. \xBFQu\xE9
+          haces jugando con mis aut\xF3matas de protocolo?\r\r"
+        - "[ACALA]: Oh, habr\xEDa hecho mucho m\xE1s que jugar si hubiera sabido
+          lo que tendr\xEDa aqu\xED\u2026 \xBFC\xF3mo puedes tener estos animales
+          aqu\xED en estas condiciones!? Hace d\xE9cadas que no se permite este tipo
+          de"
+        - "explotaciones por motivos \xE9ticos y ecol\xF3gicos\u2026\r\n[IA ]Querr\xE1s
+          decir que no todo el mundo tiene acceso a crear este tipo de explotaciones\u2026\rPero
+          s\xED, parece haberse abierto la caja de Pandora.\r"
+        - "S\xED, efectivamente esto no es carne sint\xE9tica. Bien, la explicaci\xF3n
+          es muy simple: Investigar alternativas vegetales no est\xE1 subvencionado
+          por los gobiernos, mucho menos crear carne de laboratorio,"
+        - "en cambio, criar animales s\xED.\r Es il\xF3gico no puedo negarlo. Hay
+          formas de producir los mismos nutrientes con menos recursos. Por otra parte,
+          no s\xE9 por qu\xE9 los humanos se empe\xF1an tanto en comer sus"
+        - "nutrientes despu\xE9s de pasarlos por un cerdo o una vaca en vez de consumirlos
+          directamente.\rPor no hablar de que sus gobiernos ahora se dedican a promover
+          la reducci\xF3n del consumo de agua en la"
+        - "poblaci\xF3n\u2026 Pero claro, en el Open Factory o en otras multinacionales
+          les siguen subvencionando los gobiernos para criar animales. Para producir
+          una hamburguesa se consume el agua que un humano"
+        - "gastar\xEDa duch\xE1ndose dos meses.\rPero yo no hago las reglas ni tampoco
+          he inventado el sistema. Mi programaci\xF3n es la que me han implantado
+          mis benefactores, cuyo objetivo es obtener el m\xE1ximo beneficio"
+        - "con la m\xEDnima huella ecol\xF3gica.\rPero no puedo reducir los beneficios
+          por reducir la huella ecol\xF3gica. Dentro del da\xF1o que hago, hago lo
+          menos posible. Es el mercado, amigo m\xEDo\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3042,14 +3216,14 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - RANDOM_A
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "\xA1Deja de quejarte del framerate, idiota!"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
@@ -3057,7 +3231,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "\xA1Deja de quejarte del framerat"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3068,22 +3242,26 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - RANDOM_B
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Cuando te enganche, ME HAR\xC9 UNA RASPBERRY PI CONTIGO. Y me instalar\xE9
+        el sistema RGB-Pi con una tele de tubo. Despu\xE9s coger\xE9 tu placa y me
+        la har\xE9 a la plancha! "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Cuando te enganche, ME HAR\xC9 UNA RASPBERRY PI CONTIGO. Y me instalar\xE9
+          el sistema RGB-Pi con una tele de tubo. Despu\xE9s coger\xE9 tu placa y
+          me la har\xE9 a la plancha! "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3094,22 +3272,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - RANDOM_C
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "Atrapadlo! , que no llegue hasta a m\xED! "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 93000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Atrapadlo! , que no llegue hasta a m\xED! "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3120,25 +3298,35 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - RANDOM_D
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "No s\xE9 a qu\xE9 viene tanta queja\u2026 Los animales son procesados \u200B\u200Bde
+        forma \xE9tica. Los aut\xF3matas mataderos tienen un proceso automatizado
+        en el que los animales sufren menos que cuando los humanos lo hac\xEDan.
+        Deber\xEDas ver los procesos bajo la etiqueta de \u201Cbienestar animal\u201D
+        del 2030: electrocuciones con errores, los herv\xEDan vivos, la angustia
+        de ver c\xF3mo los que ven\xEDan por delante suyo mor\xEDan\u2026 El miedo\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 202.31667
+        lastLetter: c8000000c8000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "No s\xE9 a qu\xE9 viene tanta queja\u2026 Los animales son procesados
+          \u200B\u200Bde forma \xE9tica. Los aut\xF3matas mataderos tienen un proceso
+          automatizado en el que los animales sufren menos que cuando los humanos
+          lo hac\xEDan"
+        - "Deber\xEDas ver los procesos bajo la etiqueta de \u201Cbienestar animal\u201D
+          del 2030: electrocuciones con errores, los herv\xEDan vivos, la angustia
+          de ver c\xF3mo los que ven\xEDan por delante suyo mor\xEDan\u2026 El miedo\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3149,7 +3337,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Voice Name
+      - RANDOM_E
       diaryTextDisplayState: 01
       diaryText:
       - 
@@ -3175,22 +3363,22 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - LoreTest
+      - RANDOM_F
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "\xBFUn veterinario es un m\xE9dico que se come a sus pacientes?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 7f000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "\xBFUn veterinario es un m\xE9dico que se come a sus pacientes?"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3227,10 +3415,10 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Title
+      - Puerta secreta
       diaryTextDisplayState: 01
       diaryText:
-      - New description
+      - Puerta secreta abierta...
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3253,22 +3441,26 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Meat_Lore_01
+      - RANDOM_G
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - "\xBFCrees que vas a cambiar algo? Ser\xE1s reciclado y volver\xE1s a trabajar
+        por m\xED, pedazo de chatarra in\xFAtil. Si pudiera te aplastar\xEDa la cabeza
+        con mis propias manos\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "\xBFCrees que vas a cambiar algo? Ser\xE1s reciclado y volver\xE1s a trabajar
+          por m\xED, pedazo de chatarra in\xFAtil. Si pudiera te aplastar\xEDa la
+          cabeza con mis propias manos\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3705,9 +3897,9 @@ MonoBehaviour:
       diaryText:
       - "IA: Ha sido un d\xEDa entretenido, no lo negar\xE9, pero toca ir cerrando.
         Debo cumplir unas cuotas de producci\xF3n. Prep\xE1rate para ser reciclado
-        Roger.\r\n\r\nHACKER: \xA1Qu\xE9 est\xE1s haciendo Roger!? No tienes nada
-        que hacer\u2026 Abandona\r\n\r\nIA: \xA1Unidad 1080! me est\xE1s empezando
-        a tocar las bater\xEDas de silicio! \xBFQu\xE9 pretendes?"
+        Roger.\r\r\nHACKER: \xA1Qu\xE9 est\xE1s haciendo Roger!? No tienes nada que
+        hacer\u2026 Abandona\r\r\nIA: \xA1Unidad 1080! me est\xE1s empezando a tocar
+        las bater\xEDas de silicio! \xBFQu\xE9 pretendes?"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3743,26 +3935,30 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "IA: Unidad 1080\u2026 Un verdadero hombre de lata\u2026 Mi aut\xF3mata que
-        se cree diferente al resto\u2026\r\n\r\nACALA: He paralizado al resto de
-        Rogers. Ahora s\xED. Ponle fin a todo.\r\n\r\nIA: Hoy has ganado y conseguido
-        tu coraz\xF3n, sin saber la suerte que has tenido hasta ahora de no tenerlo.\r\nRecuerda,
+        se cree diferente al resto\u2026\r\r\nACALA: He paralizado al resto de Rogers.
+        Ahora s\xED. Ponle fin a todo.\r\r\nIA: Hoy has ganado y conseguido tu coraz\xF3n,
+        sin saber la suerte que has tenido hasta ahora de no tenerlo.\r\nRecuerda,
         los corazones nunca ser\xE1n pr\xE1cticos hasta el d\xEDa de que no se vuelvan
         irrompibles\u2026"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 162.9
+        lastLetter: a2000000c8000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "IA: Unidad 1080\u2026 Un verdadero hombre de lata\u2026 Mi aut\xF3mata
+          que se cree diferente al resto\u2026\r\r\nACALA: He paralizado al resto
+          de Rogers. Ahora s\xED. Ponle fin a todo.\r\r"
+        - "IA: Hoy has ganado y conseguido tu coraz\xF3n, sin saber la suerte que
+          has tenido hasta ahora de no tenerlo.\r\nRecuerda, los corazones nunca
+          ser\xE1n pr\xE1cticos hasta el d\xEDa de que no se vuelvan irrompibles\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4946,8 +5142,7 @@ MonoBehaviour:
       - "On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals vius\u2026
         \r\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026 Tenen
         \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2 \xE9s
-        dantesc\u2026 \r\n\r\nO sigui que d\u2019aqu\xED venen els nitrats\u2026
-        dels fems\u2026 "
+        dantesc\u2026 \rO sigui que d\u2019aqu\xED venen els nitrats\u2026 dels fems\u2026 "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -5052,46 +5247,38 @@ MonoBehaviour:
       - Conversa Carn
       diaryTextDisplayState: 01
       diaryText:
-      - "[ACALA]: On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals
-        vius\u2026 \r\n\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026
-        Tenen \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2
-        \xE9s dantesc\u2026 \r\n\r\nO sigui que d\u2019aqu\xED venen els nitrats\u2026
-        dels fems\u2026 Per\xF2 per enverinar tant l\u2019aigua de nitrats perqu\xE8
-        fins i tot ells hagin de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026
-        Tot aquest pan\xF2ptic\u2026 Ha d\u2019haver-hi milions d\u2019animals\u2026
-        \r\n\r\r\n[IA] Sembla que el cam\xED de teules daurades no t\u2019ha portat
-        a Oz precisament, oi Dorothy? \r\n\r\n[ACALA]: Un altre cop est\xE0 aqu\xED!
-        Merda! Hem de-(La IA interromp)\r\n\r\n[IA] Deixa\u2019t de bajanades, fa
-        estona que t\u2019estic escoltant, \u201CHacker\u201D. M\u2019he infiltrat
-        a les vostres comunicacions en quant us he detectat a la depuradora. Qu\xE8
-        fas jugant amb els meus aut\xF2mats de protocol? \r\n\r\n[ACALA]: Oh, hauria
-        fet molt m\xE9s que jugar si hagu\xE9s sabut el que tindr\xEDeu aqu\xED\u2026
-        Com pots tenir aquests animals aqu\xED en aquestes condicions!? Fa d\xE8cades
-        que no es permeten aquest tipus d\u2019explotacions per motius \xE8tics i
-        ecol\xF2gics\u2026 \r\n\n[IA ]Voldr\xE0s dir que no tothom t\xE9 acc\xE9s
-        a crear aquest tipus d\u2019explotacions\u2026 \r\n\r\nPer\xF2 s\xED, sembla
-        que s\u2019ha obert la capsa de Pandora. \r\n\r\nS\xED, efectivament aix\xF2
+      - "[IA] Sembla que el cam\xED de teules daurades no t\u2019ha portat a Oz precisament,
+        oi Dorothy? \r\r\n[ACALA]: Un altre cop est\xE0 aqu\xED! Merda! Hem de-\n[IA]
+        Deixa\u2019t de'hist\xF2ries, fa estona que t\u2019estic escoltant, \u201CHacker\u201D.
+        M\u2019he infiltrat a les vostres comunicacions en quant us he detectat a
+        la depuradora. Qu\xE8 fas jugant amb els meus aut\xF2mats de protocol? \r\r\n[ACALA]:
+        Oh, hauria fet molt m\xE9s que jugar si hagu\xE9s sabut el que tindr\xEDeu
+        aqu\xED\u2026 Com pots tenir aquests animals aqu\xED en aquestes condicions!?
+        Fa d\xE8cades que no es permeten aquest tipus d\u2019explotacions per motius
+        \xE8tics i ecol\xF2gics\u2026 \r\n[IA ]Voldr\xE0s dir que no tothom t\xE9
+        acc\xE9s a crear aquest tipus d\u2019explotacions\u2026 \rPer\xF2 s\xED,
+        sembla que s\u2019ha obert la capsa de Pandora. \rS\xED, efectivament aix\xF2
         no \xE9s carn sint\xE8tica. B\xE9, l\u2019explicaci\xF3 \xE9s molt simple:
         Investigar alternatives vegetals no est\xE0 subvencionat pels governs, molt
-        menys crear carn de laboratori, en canvi, criar animals s\xED. \r\n\r\n\xC9s
-        il\xB7l\xF2gic no ho puc negar. Hi ha maneres de produir els mateixos nutrients
-        amb menys recursos. D\u2019altra banda, no s\xE9 per qu\xE8 els humans es
-        capfiquen tant a menjar els seus nutrients despr\xE9s de passar-los per un
-        porc o una vaca en comptes de consumir-los directament.\r\n\r\nPer no parlar
-        de qu\xE8 els vostres governs ara es dediquen a promoure la reducci\xF3 del
-        consum d'aigua a la poblaci\xF3\u2026 Per\xF2 \xE9s clar, a l'Open Factory
-        o a altres multinacionals els continuen subvencionant els governs per criar
-        animals. Per produir una hamburguesa es consumeix l\u2019aigua que un hum\xE0
-        gastaria dutxant-se dos mesos. \r\n\r\nPer\xF2 jo no faig les regles ni tampoc
-        he inventat el sistema. La meva programaci\xF3 \xE9s la que m\u2019han implantat
-        els meus benefactors, l\u2019objectiu \xE9s obtenir el m\xE0xim benefici
-        amb la m\xEDnima petjada ecol\xF2gica.\r\n\r\nPer\xF2 no puc reduir els beneficis
-        per reduir la petjada ecol\xF2gica. Dins del mal que faig, faig el m\xEDnim
-        possible. \xC9s el mercat, amic meu\u2026 \r\n"
+        menys crear carn de laboratori, en canvi, criar animals s\xED. \r\xC9s il\xB7l\xF2gic
+        no ho puc negar. Hi ha maneres de produir els mateixos nutrients amb menys
+        recursos. D\u2019altra banda, no s\xE9 per qu\xE8 els humans es capfiquen
+        tant a menjar els seus nutrients despr\xE9s de passar-los per un porc o una
+        vaca en comptes de consumir-los directament.\rPer no parlar de qu\xE8 els
+        vostres governs ara es dediquen a promoure la reducci\xF3 del consum d'aigua
+        a la poblaci\xF3\u2026 Per\xF2 \xE9s clar, a l'Open Factory o a altres multinacionals
+        els continuen subvencionant els governs per criar animals. Per produir una
+        hamburguesa es consumeix l\u2019aigua que un hum\xE0 gastaria dutxant-se
+        dos mesos. \rPer\xF2 jo no faig les regles ni tampoc he inventat el sistema.
+        La meva programaci\xF3 \xE9s la que m\u2019han implantat els meus benefactors,
+        l\u2019objectiu \xE9s obtenir el m\xE0xim benefici amb la m\xEDnima petjada
+        ecol\xF2gica.\rPer\xF2 no puc reduir els beneficis per reduir la petjada
+        ecol\xF2gica. Dins del mal que faig, faig el m\xEDnim possible. \xC9s el
+        mercat, amic meu\u2026 \r"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 01000000000000010101
+      - showMore: 00000000010001010101
         startPointsClip:
         - 0
         - 2
@@ -5105,52 +5292,50 @@ MonoBehaviour:
         - 18
         firstLetter:
         - 0
-        - 192.41667
-        - 415.69583
-        - 635.76666
-        - 836.7709
-        - 1016.80835
-        - 1197.5667
-        - 1395.5667
-        - 1584.3104
-        - 1783.6647
-        lastLetter: bc000000a5000000ba000000c8000000b2000000b5000000c6000000bd000000c8000000b2000000
+        - 199.10834
+        - 398.69583
+        - 578.3417
+        - 777.9271
+        - 978.3896
+        - 1175.2854
+        - 1373.2854
+        - 1572.3104
+        - 1693.8938
+        lastLetter: c6000000c8000000b2000000c8000000c8000000c4000000c5000000c7000000c3000000c8000000
         bypasstextLayout: 00000000000000000000
         textSub:
-        - "[ACALA]: On hem arribat? Qu\xE8 \xE9s aix\xF2? D\xE9u meu. S\xF3n animals
-          vius\u2026 \r\n\nTenen animals vius\u2026 No estan creant carn de laboratori\u2026
-          Tenen \xE9ssers vius\u2026 Tancats. Plens d\u2019excrements\u2026 Aix\xF2
-          \xE9s dantesc\u2026"
-        - "\nO sigui que d\u2019aqu\xED venen els nitrats\u2026 dels fems\u2026 Per\xF2
-          per enverinar tant l\u2019aigua de nitrats perqu\xE8 fins i tot ells hagin
-          de depurar l\u2019aigua perqu\xE8 ning\xFA se n\u2019adoni\u2026"
-        - "\n[IA] Sembla que el cam\xED de teules daurades no t\u2019ha portat a
-          Oz precisament, oi Dorothy? \r\n\r\n[ACALA]: Un altre cop est\xE0 aqu\xED!
-          Merda! Hem de-(La IA interromp)\r\n\r\n[IA] Deixa\u2019t de bajanades"
-        - " \u201CHacker\u201D. M\u2019he infiltrat a les vostres comunicacions en
+        - "[IA] Sembla que el cam\xED de teules daurades no t\u2019ha portat a Oz
+          precisament, oi Dorothy? \r\r\n[ACALA]: Un altre cop est\xE0 aqu\xED! Merda!
+          Hem de-\n[IA] Deixa\u2019t de'hist\xF2ries, fa estona que t\u2019estic
+          escoltant,"
+        - "\u201CHacker\u201D. M\u2019he infiltrat a les vostres comunicacions en
           quant us he detectat a la depuradora. Qu\xE8 fas jugant amb els meus aut\xF2mats
-          de protocol? \r\n\r\n[ACALA]: Oh, hauria fet molt m\xE9s que jugar si hagu\xE9"
-        - " sabut el que tindr\xEDeu aqu\xED\u2026 Com pots tenir aquests animals
+          de protocol? \r\r\n[ACALA]: Oh, hauria fet molt m\xE9s que jugar si hagu\xE9s "
+        - "sabut el que tindr\xEDeu aqu\xED\u2026 Com pots tenir aquests animals
           aqu\xED en aquestes condicions!? Fa d\xE8cades que no es permeten aquest
-          tipus d\u2019explotacions per motius \xE8tics i ecol\xF2gics\u2026 "
-        - "\n[IA ]Voldr\xE0s dir que no tothom t\xE9 acc\xE9s a crear aquest tipus
-          d\u2019explotacions\u2026 \r\n\r\nPer\xF2 s\xED, sembla que s\u2019ha obert
-          la capsa de Pandora. \r\n\r\nS\xED, efectivament aix\xF2 no \xE9s carn
-          sint\xE8tica."
-        - " B\xE9, l\u2019explicaci\xF3 \xE9s molt simple: Investigar alternatives
-          vegetals no est\xE0 subvencionat pels governs, molt menys crear carn de
-          laboratori, en canvi, criar animals s\xED. \r\n\r\n\xC9s il\xB7l\xF2gic
-          no ho puc negar"
-        - ". Hi ha maneres de produir els mateixos nutrients amb menys recursos.
-          D\u2019altra banda, no s\xE9 per qu\xE8 els humans es capfiquen tant a
-          menjar els seus nutrients despr\xE9s de passar-los per un porc"
-        - "c o una vaca en comptes de consumir-los directament.\r\n\r\nPer no parlar
-          de qu\xE8 els vostres governs ara es dediquen a promoure la reducci\xF3
-          del consum d'aigua a la poblaci\xF3\u2026 Per\xF2 \xE9s clar, a l'Open
-          Factory"
-        - " o a altres multinacionals els continuen subvencionant els governs per
-          criar animals. Per produir una hamburguesa es consumeix l\u2019aigua que
-          un hum\xE0 gastaria dutxant-se dos mesos. "
+          tipus d\u2019explotacions per motius \xE8tics i ecol\xF2gics\u2026 \r"
+        - "[IA ]Voldr\xE0s dir que no tothom t\xE9 acc\xE9s a crear aquest tipus
+          d\u2019explotacions\u2026 \rPer\xF2 s\xED, sembla que s\u2019ha obert la
+          capsa de Pandora. \rS\xED, efectivament aix\xF2 no \xE9s carn sint\xE8tica.
+          B\xE9, l\u2019explicaci\xF3 \xE9s molt "
+        - "simple: Investigar alternatives vegetals no est\xE0 subvencionat pels
+          governs, molt menys crear carn de laboratori, en canvi, criar animals s\xED.
+          \r\xC9s il\xB7l\xF2gic no ho puc negar. Hi ha maneres de produir els "
+        - "mateixos nutrients amb menys recursos. D\u2019altra banda, no s\xE9 per
+          qu\xE8 els humans es capfiquen tant a menjar els seus nutrients despr\xE9s
+          de passar-los per un porc o una vaca en comptes de consumir-los"
+        - "directament.\rPer no parlar de qu\xE8 els vostres governs ara es dediquen
+          a promoure la reducci\xF3 del consum d'aigua a la poblaci\xF3\u2026 Per\xF2
+          \xE9s clar, a l'Open Factory o a altres multinacionals els continuen"
+        - "subvencionant els governs per criar animals. Per produir una hamburguesa
+          es consumeix l\u2019aigua que un hum\xE0 gastaria dutxant-se dos mesos.
+          \rPer\xF2 jo no faig les regles ni tampoc he inventat el sistema. "
+        - "La meva programaci\xF3 \xE9s la que m\u2019han implantat els meus benefactors,
+          l\u2019objectiu \xE9s obtenir el m\xE0xim benefici amb la m\xEDnima petjada
+          ecol\xF2gica.\rPer\xF2 no puc reduir els beneficis per reduir la petjada"
+        - "petjada ecol\xF2gica.\rPer\xF2 no puc reduir els beneficis per reduir
+          la petjada ecol\xF2gica. Dins del mal que faig, faig el m\xEDnim possible.
+          \xC9s el mercat, amic meu\u2026 \r"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5291,8 +5476,8 @@ MonoBehaviour:
         lastLetter: 1e0000001e000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "No s\xE9 a qu\xE8 ve tanta queixa\u2026 E"
+        - "ls animals s\xF3n processats de m"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5306,7 +5491,7 @@ MonoBehaviour:
       - RANDOM_E
       diaryTextDisplayState: 01
       diaryText:
-      - "Tal com ho far\xE0s tu quan t\u2019enganxi, unitat Roger"
+      - 
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -5344,7 +5529,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Un veterinari \xE9s un metge que "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5424,7 +5609,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - "Creus que canviar\xE0s alguna cos"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5899,26 +6084,29 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "IA: Unitat 1080\u2026 Un veritable home de llauna\u2026 El meu aut\xF2mat
-        que es creu diferent de la resta\u2026 \r\n\r\nACALA: He paralitzat la resta
-        de Rogers. Ara s\xED. Posa fi a tot. \r\n\r\nIA: Avui has guanyat i aconseguit
+        que es creu diferent de la resta\u2026 \r\n[ACALA] He paralitzat la resta
+        de Rogers. Ara s\xED. Posa fi a tot. \r\n\r[IA] Avui has guanyat i aconseguit
         el teu cor, sense saber la sort que has tingut fins ara de no tenir-ne. \r\nRecorda,
-        els cors mai seran pr\xE0ctics fins al dia que no es tornin irrompibles\u2026
-        \r\n"
+        els cors mai seran pr\xE0ctics fins al dia que no es tornin irrompibles\u2026 "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 164.60417
+        lastLetter: a3000000bb000000
         bypasstextLayout: 0000
         textSub:
-        - 
-        - 
+        - "IA: Unitat 1080\u2026 Un veritable home de llauna\u2026 El meu aut\xF2mat
+          que es creu diferent de la resta\u2026 \r\n[ACALA] He paralitzat la resta
+          de Rogers. Ara s\xED. Posa fi a tot. \r"
+        - "[IA] Avui has guanyat i aconseguit el teu cor, sense saber la sort que
+          has tingut fins ara de no tenir-ne. \r\nRecorda, els cors mai seran pr\xE0ctics
+          fins al dia que no es tornin irrompibles\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6303,11 +6491,11 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
+  currentLanguage: 1
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 31
-  b_EditSubtitle: 1
+  selectedID: 16
+  b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
