@@ -1613,19 +1613,19 @@ MonoBehaviour:
       - SnakeEaterEasterEgg
       diaryTextDisplayState: 01
       diaryText:
-      - 
+      - ...
       diaryAudioClip:
       - {fileID: 8300000, guid: 33c3fa720a9c3004caa53ddd4a21cec6, type: 3}
       diarySub:
       - showMore: 00
         startPointsClip:
-        - 0
+        - 2.6721344
         firstLetter:
         - 0
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - ...
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2192,6 +2192,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 81
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -4330,6 +4356,32 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 80
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 81
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -6480,6 +6532,32 @@ MonoBehaviour:
       uniqueItemID: 80
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 81
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -6491,11 +6569,11 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 1
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 16
-  b_EditSubtitle: 0
+  selectedID: 44
+  b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
   showDefaultLanguage: 1
