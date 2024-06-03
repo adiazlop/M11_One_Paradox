@@ -4726,7 +4726,7 @@ MonoBehaviour:
         firstLetter:
         - 0
         - 198.1625
-        - 400.575
+        - 400.325
         - 594.5125
         lastLetter: c3000000c8000000bf0000007e000000
         bypasstextLayout: 00000000
@@ -4737,9 +4737,9 @@ MonoBehaviour:
         - "Per\xF2 la simple implementaci\xF3 d\u2019aquesta no \xE9s una pr\xE0ctica
           habitual. Ets un droide i segurament no coneixes com s\xF3n altres f\xE0briques,
           per\xF2 no \xE9s habitual que tinguin incorporades una depuradora d\u2019aigua"
-        - "a pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
+        - "La pregunta doncs \xE9s\u2026 \r\n\r\nQu\xE8 estan fent aqu\xED per necessitar
           purificar l\u2019aigua que agafen abans de tornar-les al sistema municipal,
-          si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes? \r"
+          si aquest ja t\xE9 un propi sistema de netejament d\u2019aquestes? "
         - "Baixem una mica m\xE9s a veure si en trobem l\u2019entrada. Seria genial
           si pogu\xE9ssim veure alguna an\xE0lisi, o obtenir una mostra.\r"
       diarySprite:
@@ -5261,8 +5261,8 @@ MonoBehaviour:
         de la teva posici\xF3 assignada, no Roger? Primer pensava que era un Bug,
         per\xF2 he intentat accedir a la teva consola de comandaments nom\xE9s per
         descobrir que est\xE0s en mode Offline\u2026 Digues, soldadet de plom, no
-        tindr\xE0s una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r\n \r\n[ACALA]MERDA!
-        Qu\xE8 vol dir aix\xF2!? Corre Roger! Qu\xE8 corris!\n\r\n[IA]Previsible..."
+        tindr\xE0s una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r\r\n\n[ACALA]MERDA!
+        Qu\xE8 vol dir aix\xF2!? Corre Roger! Qu\xE8 corris!\n\n[IA]Previsible..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -5274,18 +5274,17 @@ MonoBehaviour:
         firstLetter:
         - 0
         - 77.85
-        - 270.625
-        lastLetter: 4b000000c1000000c8000000
+        - 275.45834
+        lastLetter: 4b000000c40000006e000000
         bypasstextLayout: 000000
         textSub:
         - "[ACALA] Aquestes dades no tenen sentit\u2026 Fertilitzants? Fems? Qu\xE8
           dimonis\u2026 \r"
         - "[IA]Vaja, vaja\u2026 Est\xE0s una mica massa lluny de la teva posici\xF3
           assignada, no Roger? Primer pensava que era un Bug, per\xF2 he intentat
-          accedir a la teva consola de comandaments nom\xE9s per descobrir "
-        - "que est\xE0s en mode Offline\u2026 Digues, soldadet de plom, no tindr\xE0s
-          una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r\n \r\n[ACALA]MERDA!
-          Qu\xE8 vol dir aix\xF2!? Corre Roger! Qu\xE8 corris!\n\r\n[IA]Previsible..."
+          accedir a la teva consola de comandaments nom\xE9s per descobrir que"
+        - "est\xE0s en mode Offline\u2026 Digues, soldadet de plom, no tindr\xE0s
+          una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6572,7 +6571,7 @@ MonoBehaviour:
   currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 44
+  selectedID: 20
   b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0
