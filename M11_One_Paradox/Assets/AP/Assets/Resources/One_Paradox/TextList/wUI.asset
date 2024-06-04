@@ -2636,7 +2636,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Input
+      - INTRO
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -5674,7 +5674,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Input
+      - INTRO
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -8713,7 +8713,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - Input
+      - INTRO
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -9139,10 +9139,10 @@ MonoBehaviour:
   - English
   - Castellano
   - "Catal\xE0"
-  currentLanguage: 2
+  currentLanguage: 1
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 84
+  selectedID: 96
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2

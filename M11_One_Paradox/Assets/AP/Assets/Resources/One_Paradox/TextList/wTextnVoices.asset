@@ -253,7 +253,7 @@ MonoBehaviour:
         - 41.07406
         - 50.965717
         - 62.73635
-        - 73.90605
+        - 72.027084
         firstLetter:
         - 0
         - 200.90625
@@ -959,15 +959,15 @@ MonoBehaviour:
       - showMore: 01010101010101010101
         startPointsClip:
         - 0
-        - 10.298417
-        - 22.779467
+        - 13.731222
+        - 25.606483
         - 37.357002
         - 51.08822
-        - 60.28051
-        - 72.98278
-        - 83.39699
-        - 96.11856
-        - 109.445915
+        - 63.107525
+        - 75.20401
+        - 85.41628
+        - 101.1668
+        - 114.29223
         firstLetter:
         - 0
         - 129.41667
@@ -1076,8 +1076,8 @@ MonoBehaviour:
       - RANDOM_B
       diaryTextDisplayState: 01
       diaryText:
-      - WHEN I GET YOU I WILL GET A RASPBERRY AND INSTALL THE RGB-PI SYSTEM WITH
-        A TUBE TV. THEN I WILL TAKE YOUR PLATE AND PUT IT ON THE IRON
+      - When I get you I will get a Raspberry and install the RGP-PI system with
+        a tube TV. Then I will take your plate and put it on the iron.
       diaryAudioClip:
       - {fileID: 8300000, guid: d2fad400c4f944f489c25e75c6e7732b, type: 3}
       diarySub:
@@ -1089,8 +1089,8 @@ MonoBehaviour:
         lastLetter: bf000000
         bypasstextLayout: 00
         textSub:
-        - WHEN I GET YOU I WILL GET A RASPBERRY AND INSTALL THE RGB-PI SYSTEM WITH
-          A TUBE TV. THEN I WILL TAKE YOUR PLATE AND PUT IT ON THE IRON
+        - When I get you I will get a Raspberry and install the RGP-PI system with
+          a tube TV. Then I will take your plate and put it on the iron.
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1141,7 +1141,7 @@ MonoBehaviour:
       - showMore: 0101
         startPointsClip:
         - 0
-        - 2
+        - 11.851479
         firstLetter:
         - 0
         - 188
@@ -1197,15 +1197,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 8300000, guid: 0910cd795667343408ab691cb66b5984, type: 3}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - Is a vet a doctor who eats his
+        - Is a vet a doctor who eats his patients?
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1742,19 +1742,21 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 8300000, guid: 0f2903834e2ecb64c8c0aa4d41f9f5d8, type: 3}
       diarySub:
-      - showMore: 01010101
+      - showMore: 0101010101
         startPointsClip:
         - 0
-        - 20.765461
-        - 38.47871
-        - 55.174553
+        - 16.695843
+        - 33.84387
+        - 50.652756
+        - 65.200745
         firstLetter:
         - 0
         - 179.11874
         - 363.11874
         - 540.1188
-        lastLetter: b3000000b7000000b1000000c8000000
-        bypasstextLayout: 00000000
+        - 740.1188
+        lastLetter: b3000000b7000000b1000000c80000001e000000
+        bypasstextLayout: 0000000000
         textSub:
         - '[IA] It''s been an entertaining day, I won''t deny it, but it''s time
           to close. I have to meet production quotas. Get ready to be recycled Roger.
@@ -1783,6 +1785,7 @@ MonoBehaviour:
 
           [ACALA]
           Roger...'
+        - 
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3930,20 +3933,23 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00010101
+      - showMore: 0001010101
         startPointsClip:
         - 0
         - 2
         - 4
         - 6
+        - 8
         firstLetter:
         - 0
         - 30
         - 60
         - 90
-        lastLetter: 1e0000001e0000001e0000001e000000
-        bypasstextLayout: 00000000
+        - 120
+        lastLetter: 1e0000001e0000001e0000001e0000001e000000
+        bypasstextLayout: 0000000000
         textSub:
+        - 
         - 
         - 
         - 
@@ -4629,7 +4635,7 @@ MonoBehaviour:
         - 600.6188
         - 801.8187
         - 999.59375
-        - 1522.9001
+        - 1196.6958
         lastLetter: c3000000c7000000c8000000c8000000c8000000c8000000c8000000
         bypasstextLayout: 00000000000000
         textSub:
@@ -4655,7 +4661,7 @@ MonoBehaviour:
           Els medis locals estan donant hip\xF2tesis falses que la gent no s\u2019acaba
           de creure\u2026 \rLa meva intu\xEFci\xF3 em diu que en aquesta f\xE0brica
           est"
-        - 
+        - "est\xE0 passant quelcom terrible, i tu m'ajudar\xE0s a descobrir-ho. \r"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5263,7 +5269,7 @@ MonoBehaviour:
         per\xF2 he intentat accedir a la teva consola de comandaments nom\xE9s per
         descobrir que est\xE0s en mode Offline\u2026 Digues, soldadet de plom, no
         tindr\xE0s una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r\r\n\n[ACALA]MERDA!
-        Qu\xE8 vol dir aix\xF2!? Corre Roger! Qu\xE8 corris!\n\n[IA]Previsible..."
+        Qu\xE8 vol dir aix\xF2!? Corre Roger! Qu\xE8 corris!\n[IA]Previsible..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -5276,7 +5282,7 @@ MonoBehaviour:
         - 0
         - 77.85
         - 275.45834
-        lastLetter: 4b000000c40000006e000000
+        lastLetter: 4b000000c4000000c8000000
         bypasstextLayout: 000000
         textSub:
         - "[ACALA] Aquestes dades no tenen sentit\u2026 Fertilitzants? Fems? Qu\xE8
@@ -5285,7 +5291,8 @@ MonoBehaviour:
           assignada, no Roger? Primer pensava que era un Bug, per\xF2 he intentat
           accedir a la teva consola de comandaments nom\xE9s per descobrir que"
         - "est\xE0s en mode Offline\u2026 Digues, soldadet de plom, no tindr\xE0s
-          una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r"
+          una Dorothy al cap indicant-te el cam\xED a Oz, oi? \r\r\n\n[ACALA]MERDA!
+          Qu\xE8 vol dir aix\xF2!? Corre Roger! Qu\xE8 corris!\n[IA]Previsible..."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5330,7 +5337,7 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00000000010001010101
+      - showMore: 00010000010001010101
         startPointsClip:
         - 0
         - 2
@@ -5352,7 +5359,7 @@ MonoBehaviour:
         - 1175.2854
         - 1373.2854
         - 1572.3104
-        - 1693.8938
+        - 1767.1626
         lastLetter: c6000000c8000000b2000000c8000000c8000000c4000000c5000000c7000000c3000000c8000000
         bypasstextLayout: 00000000000000000000
         textSub:
@@ -5385,9 +5392,8 @@ MonoBehaviour:
         - "La meva programaci\xF3 \xE9s la que m\u2019han implantat els meus benefactors,
           l\u2019objectiu \xE9s obtenir el m\xE0xim benefici amb la m\xEDnima petjada
           ecol\xF2gica.\rPer\xF2 no puc reduir els beneficis per reduir la petjada"
-        - "petjada ecol\xF2gica.\rPer\xF2 no puc reduir els beneficis per reduir
-          la petjada ecol\xF2gica. Dins del mal que faig, faig el m\xEDnim possible.
-          \xC9s el mercat, amic meu\u2026 \r"
+        - " ecol\xF2gica. Dins del mal que faig, faig el m\xEDnim possible. \xC9s
+          el mercat, amic meu\u2026 \r"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5453,9 +5459,9 @@ MonoBehaviour:
       - RANDOM_B
       diaryTextDisplayState: 01
       diaryText:
-      - "QUAN T'ENGANXI EM FAR\xC9 UNA RASPBERRY I M\u2019INSTAL\xB7LAR\xC9 EL SISTEMA
-        RGB-PI AMB UNA TV DE TUB. DESPRES AGAFAR\xC9 LA TEVA PLACA I ME LA FARE A
-        LA PLANXA"
+      - "Quan t'enganxi em far\xE9 una Raspberry Pi i m'instalar\xE9 el sistema RGB-Pi
+        amb una TV de tub, despr\xE9s agafar\xE9 la teva placa i me la far\xE9 a
+        la planxa"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -5467,9 +5473,9 @@ MonoBehaviour:
         lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - "QUAN T'ENGANXI EM FAR\xC9 UNA RASPBERRY I M\u2019INSTAL\xB7LAR\xC9 EL
-          SISTEMA RGB-PI AMB UNA TV DE TUB. DESPRES AGAFAR\xC9 LA TEVA PLACA I ME
-          LA FARE A LA PLANXA"
+        - "Quan t'enganxi em far\xE9 una Raspberry Pi i m'instalar\xE9 el sistema
+          RGB-Pi amb una TV de tub, despr\xE9s agafar\xE9 la teva placa i me la far\xE9
+          a la planxa"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5487,15 +5493,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Atureu-lo, no deixeu que arribi fins a mi!!!
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5518,18 +5524,22 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001
+      - showMore: 0101
         startPointsClip:
         - 0
         - 2
         firstLetter:
         - 0
-        - 30
-        lastLetter: 1e0000001e000000
+        - 186.7125
+        lastLetter: bb000000c8000000
         bypasstextLayout: 0000
         textSub:
-        - "No s\xE9 a qu\xE8 ve tanta queixa\u2026 E"
-        - "ls animals s\xF3n processats de m"
+        - "No s\xE9 a qu\xE8 ve tanta queixa\u2026 Els animals s\xF3n processats
+          de manera \xE8tica. Els aut\xF2mats escorxadors tenen un proc\xE9s automatitzat
+          on els animals pateixen menys que quan els humans ho feien. "
+        - "Hauries de veure els processos sota l\u2019etiqueta de \u201Cbenestar
+          animal\u201D del 2030: electrocucions amb errors, els bullien vius, l\u2019angoixa
+          de veure com els que venien per davant seu morien\u2026 La por\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5573,15 +5583,15 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - "Un veterinari \xE9s un metge que "
+        - "Un veterinari \xE9s un metge que es menja els seus pacients? "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5653,15 +5663,17 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 01
         startPointsClip:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - "Creus que canviar\xE0s alguna cos"
+        - "Creus que canviar\xE0s alguna cosa? Ser\xE0s reciclat i tornar\xE0s a
+          treballar per mi, tros de ferralla in\xFAtil. Si pogu\xE9s t\u2019esclafaria
+          el cap amb les meves pr\xF2pies mans\u2026 "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6096,32 +6108,49 @@ MonoBehaviour:
       - PRE FINAL BATTLE
       diaryTextDisplayState: 01
       diaryText:
-      - "IA: Ha sigut un dia entretingut, no ho negar\xE9, per\xF2 toca anar tancant.
-        He de complir unes quotes de producci\xF3. Prepara\u2019t per ser reciclat
-        Roger. \r\n\nHACKER: Que estas fent Roger!? No tens res a fer\u2026 Abandona
-        \r\n\r\nIA:  Unitat 1080! m'est\xE0s comen\xE7ant a tocar les bateries de
-        silici! Qu\xE8 pretens?\r"
+      - "IA: Ha sigut un dia entretingut, no t'ho negar\xE9, per\xF2 toca anar tancant
+        la sessi\xF3 i tancant-la per sempre. He de complir unes quotes de producci\xF3
+        saps. Prepara\u2019t per ser reciclat Roger. \r\n\nHACKER: Que estas fent
+        Roger!? No tens res a fer\u2026 Abandona \r\n\r\nIA:  Unitat 1080! m'est\xE0s
+        comen\xE7ant a tocar les bateries de silici! Qu\xE8 collons pretens?\r\n\nHACKER:
+        On vas? Est\xE0s anant a la sala de control?\n\nIA: Qu\xE8? tu vols desconectarme-me?
+        a mi? Com t'atreveixes!\n\nHACKER: Roger... Si no podr\xE0s salvar-te igualment.\n\nIA:
+        \xE9s per aquest motiu que no podem als Rogers en mode Off-Line, la seva
+        IA es massa avan\xE7ada, es tornen emp\xE0tics, hacker imbecil, \xE9s que
+        no ho entens, no ho est\xE0 fent per tu, vols salvar els animals!\n\nHACKER:
+        Roger..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00010101
+      - showMore: 0101010101
         startPointsClip:
         - 0
         - 2
         - 4
         - 6
+        - 8
         firstLetter:
         - 0
-        - 30
-        - 60
-        - 90
-        lastLetter: 1e0000001e0000001e0000001e000000
-        bypasstextLayout: 00000000
+        - 188.59375
+        - 342.95834
+        - 505.875
+        - 709.0625
+        lastLetter: bb00000098000000a0000000c8000000c8000000
+        bypasstextLayout: 0000000000
         textSub:
-        - 'IA: Ha sigut un dia entretingu'
-        - 'IA: Ha sigut un dia entretingu'
-        - 'IA: Ha sigut un dia entretingu'
-        - 'IA: Ha sigut un dia entretingu'
+        - "IA: Ha sigut un dia entretingut, no t'ho negar\xE9, per\xF2 toca anar
+          tancant la sessi\xF3 i tancant-la per sempre. He de complir unes quotes
+          de producci\xF3 saps. Prepara\u2019t per ser reciclat Roger. \r"
+        - "HACKER: Que estas fent Roger!? No tens res a fer\u2026 Abandona \r\n\r\nIA: 
+          Unitat 1080! m'est\xE0s comen\xE7ant a tocar les bateries de silici! Qu\xE8
+          collons pretens?\r"
+        - "HACKER: On vas? Est\xE0s anant a la sala de control?\n\nIA: Qu\xE8? tu
+          vols desconectarme-me? a mi? Com t'atreveixes!\n\nHACKER: Roger... Si no
+          podr\xE0s salvar-te igualment"
+        - "IA: \xE9s per aquest motiu que no podem als Rogers en mode Off-Line, la
+          seva IA es massa avan\xE7ada, es tornen emp\xE0tics, hacker imbecil, \xE9s
+          que no ho entens, no ho est\xE0 fent per tu, vols salvar els animals"
+        - 'HACKER: Roger...'
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6569,7 +6598,7 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
+  currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
   selectedID: 6
