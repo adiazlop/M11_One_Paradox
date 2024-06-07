@@ -259,10 +259,10 @@ MonoBehaviour:
         - 200.90625
         - 398.90625
         - 594.0062
-        - 768.60626
-        - 965.70624
+        - 793.60626
+        - 991.70624
         - 1155.45
-        lastLetter: c8000000c6000000c3000000c3000000c5000000bb000000c8000000
+        lastLetter: c8000000c6000000c3000000c8000000c5000000a2000000c8000000
         bypasstextLayout: 00000000000000
         textSub:
         - "I've heard it's amazing when the famous purple stuffed worm in the jaw
@@ -276,13 +276,13 @@ MonoBehaviour:
           wipe your cache forgetting all about it and you''ll '
         - "restart tomorrow like any other day.\rHelp me and I'll let you go back
           to your routine. Why am I here you ask? The OF-1 occupies a space of 10
-          hectares. The nearest population center is in the vil"
-        - "center is in the village of Ulldecona, where there is some media uproar
-          over the nitrate poisoning of several families.\rNitrate poisoning is an
-          uncommon type of poisoning. It causes congestion and "
-        - "bleeding in the digestive system. The local media are giving false hypotheses
-          that people don't quite believe...\rMy intuition tells me that something
-          terrible is happening in this factory"
+          hectares. The nearest population center is in the village "
+        - "of Ulldecona, where there is some media uproar over the nitrate poisoning
+          of several families.\rNitrate poisoning is an uncommon type of poisoning.
+          It causes congestion and bleeding in the digestive"
+        - "system. The local media are giving false hypotheses that people don't
+          quite believe...\rMy intuition tells me that something terrible is happening
+          in this factory,"
         - 'and you will help me find out what exacly that is. '
       diarySprite:
       - {fileID: 0}
@@ -412,7 +412,7 @@ MonoBehaviour:
       - Acala_Perseguidor
       diaryTextDisplayState: 01
       diaryText:
-      - I have fried this roger persecutor, Close the door, we want no more company.
+      - I have fried this Roger persecutor, Close the door, we want no more company.
       diaryAudioClip:
       - {fileID: 8300000, guid: 239576ec4d4e9d14988f73f19f71f861, type: 3}
       diarySub:
@@ -424,7 +424,7 @@ MonoBehaviour:
         lastLetter: 4c000000
         bypasstextLayout: 00
         textSub:
-        - I have fried this roger persecutor, Close the door, we want no more company.
+        - I have fried this Roger persecutor, Close the door, we want no more company.
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -804,9 +804,9 @@ MonoBehaviour:
         lastLetter: a4000000c8000000
         bypasstextLayout: 0100
         textSub:
-        - "Merda. Pensava que la Xemeneia estava en funcionament\u2026 Roger? Est\xE0s
-          connectat? D'acord, sembla que t\u2019has lliurat de moment. Hem de trobar
-          la manera de fugir d\u2019aqu\xED\u2026"
+        - Shit I thought the Chimney was working... Roger? Are you connected? Okay,
+          looks like you've given up for now. We have to find a way to get out of
+          here...
         - "Yes, you go ahead and I'll hook you up to a loading dock as soon as I
           can\u2026"
       diarySprite:
@@ -1116,7 +1116,7 @@ MonoBehaviour:
         lastLetter: 1e000000
         bypasstextLayout: 00
         textSub:
-        - 
+        - Stop him, don't let him get to
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -1730,7 +1730,7 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "[IA] It's been an entertaining day, I won't deny it, but it's time to close.
-        I have to meet production quotas. Get ready to be recycled Roger.\n\n\n[ACAL]
+        I have to meet production quotas. Get ready to be recycled Roger.\n\n\n[ACALA]
         What are you doing Roger!? You have nothing to do... Leave\n\n\n[IA] Unit
         1080! you're starting to touch my silicon batteries! what do you mean\n\n[ACALA]
         Where are you going? Wait, are you going to the control room?\r\n[IA] WHAT!?
@@ -1751,11 +1751,11 @@ MonoBehaviour:
         - 65.200745
         firstLetter:
         - 0
-        - 179.11874
-        - 363.11874
-        - 540.1188
-        - 740.1188
-        lastLetter: b3000000b7000000b1000000c80000001e000000
+        - 180.11874
+        - 366.11874
+        - 543.1188
+        - 685.9125
+        lastLetter: b3000000b8000000b20000008c000000c8000000
         bypasstextLayout: 0000000000
         textSub:
         - '[IA] It''s been an entertaining day, I won''t deny it, but it''s time
@@ -1763,8 +1763,8 @@ MonoBehaviour:
 
 
 
-          [ACAL]
-          What are you doing Roger!? '
+          [ACALA]
+          What are you doing Roger!?'
         - 'You have nothing to do... Leave
 
 
@@ -1774,18 +1774,15 @@ MonoBehaviour:
 
 
           [ACALA] Where
-          are you going? Wait, are you going to the control room'
-        - "\r\n[IA] WHAT!? DO YOU WANT TO DISCONNECT ME? TO ME?\r\nHOW DARE YOU\u2026\r\n\r\n[ACALA]
+          are you going? Wait, are you going to the control room?'
+        - "[IA] WHAT!? DO YOU WANT TO DISCONNECT ME? TO ME?\r\nHOW DARE YOU\u2026\r\n\r\n[ACALA]
           Roger... You won't save yourself anyway...\r\n\r\n[IA] That's why we don't
-          put the Rogers in offline mod"
-        - 'e! Their AI is too advanced, they become empathetic! Stupid hacker, don''t
-          you get it? He''s not doing it for you! He wants to save the animals!
+          put the Rogers in offline mode! "
+        - ' Their AI is too advanced, they become empathetic! Stupid hacker, don''t
+          you get it? He''s not doing it for you! He wants to save the animals!'
+        - '
 
-
-
-          [ACALA]
-          Roger...'
-        - 
+          [ACALA] Roger...'
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2452,7 +2449,7 @@ MonoBehaviour:
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00010101010101
+      - showMore: 01010101010101
         startPointsClip:
         - 0
         - 2
@@ -2463,22 +2460,36 @@ MonoBehaviour:
         - 12
         firstLetter:
         - 0
-        - 30
-        - 60
-        - 90
-        - 120
-        - 150
-        - 180
-        lastLetter: 1e0000001e0000001e0000001e0000001e0000001e0000001e000000
+        - 202.125
+        - 401.84375
+        - 599.25
+        - 795.53125
+        - 986.09375
+        - 1182.9375
+        lastLetter: c8000000c8000000c5000000c5000000bd000000c8000000c8000000
         bypasstextLayout: 00000000000000
         textSub:
-        - "He o\xEDdo decir que es incre\xEDble"
-        - ' cuando el famoso gusano relle'
-        - no de color lila en el espacio
-        - " de la mand\xEDbula con el diapas"
-        - "\xF3n da el ojo a Hari Kiri Rock."
-        - " \xA1Necesito unas tijeras! 61!\r\n"
-        - "\r\nProbando, probando, 1,2,3\u2026 U"
+        - "He o\xEDdo decir que es incre\xEDble cuando el famoso gusano relleno de
+          color lila en el espacio de la mand\xEDbula con el diapas\xF3n da el ojo
+          a Hari Kiri Rock. \xA1Necesito unas tijeras! 61!\r\n\r\nProbando, probando"
+        - "1,2,3\u2026 Unidad Roger, \xBFme recibes? \xA1Genial! Ha funcionado.\r\nMuy
+          bien Roger, voy a intentar ser r\xE1pido. Puedes llamarme Acala, soy un
+          hacker miembro del grupo Extintion for Rebelion. No te preocupes no "
+        - "te har\xE9 autodestruir, ni comprometer\xE9 tu c\xF3digo fuente, no quiero
+          estropearte de ninguna manera. S\xF3lo quiero de ti que seas mis ojos dentro
+          de la f\xE1brica durante el d\xEDa de hoy: Cuando encuentre la "
+        - "informaci\xF3n que necesito, borrar\xE9 tu cach\xE9 olvidando todo esto
+          y te reiniciar\xE1s ma\xF1ana como cualquier otro d\xEDa.\r\nAy\xFAdame
+          y te dejar\xE9 volver a tu rutina. \xBFPor qu\xE9 estoy aqu\xED te preguntar\xE1s?
+          La OF-1 "
+        - "ocupa un espacio de 10 hect\xE1reas. El foco de poblaci\xF3n m\xE1s cercano
+          es en el pueblo de Ulldecona, donde existe cierto alboroto medi\xE1tico
+          por la intoxicaci\xF3n por nitratos de varias familias.\r"
+        - "El envenenamiento por nitratos es un tipo de envenenamiento poco habitual.
+          Provoca congesti\xF3n y hemorragias en el aparato digestivo. Los medios
+          locales est\xE1n dando hip\xF3tesis falsas de que la gente no "
+        - "no acaba de creerse\u2026\r\nMi intuici\xF3n me dice que en esta f\xE1brica
+          est\xE1 pasando algo terrible, y t\xFA me ayudar\xE1s a descubrirlo."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2495,7 +2506,9 @@ MonoBehaviour:
       - "Se abre un nuevo mundo por ti, \xBFeh Roger? Ahora estamos en las profundidades
         de la OF-1. Por lo que veo, no han invertido tanto en la infraestructura
         como en el centro de distribuci\xF3n\u2026 Todo parece antiguo y da un poco
-        de asco\u2026 Menos mal que t\xFA no tienes sentido del asco, \xBFverdad?"
+        de asco\u2026 Menos mal que t\xFA no tienes sentido del asco, \xBFverdad?\nBien,
+        tendremos que hacer un poco de exploraci\xF3n, cuidado con esos Rogers, no
+        se que pasar\xE1 si te detectan."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2506,14 +2519,15 @@ MonoBehaviour:
         firstLetter:
         - 0
         - 184.75
-        lastLetter: b800000068000000
+        lastLetter: b8000000c8000000
         bypasstextLayout: 0000
         textSub:
         - "Se abre un nuevo mundo por ti, \xBFeh Roger? Ahora estamos en las profundidades
           de la OF-1. Por lo que veo, no han invertido tanto en la infraestructura
           como en el centro de distribuci\xF3n\u2026"
         - "Todo parece antiguo y da un poco de asco\u2026 Menos mal que t\xFA no
-          tienes sentido del asco, \xBFverdad?"
+          tienes sentido del asco, \xBFverdad?\nBien, tendremos que hacer un poco
+          de exploraci\xF3n, cuidado con esos Rogers, no se que pasar\xE1 si te detect"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3258,10 +3272,10 @@ MonoBehaviour:
         - 0
         firstLetter:
         - 0
-        lastLetter: 1e000000
+        lastLetter: 32000000
         bypasstextLayout: 00
         textSub:
-        - "\xA1Deja de quejarte del framerat"
+        - "\xA1Deja de quejarte del framerate, idiota!"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3925,15 +3939,21 @@ MonoBehaviour:
       - PRE-FINAL BATTLE
       diaryTextDisplayState: 01
       diaryText:
-      - "IA: Ha sido un d\xEDa entretenido, no lo negar\xE9, pero toca ir cerrando.
-        Debo cumplir unas cuotas de producci\xF3n. Prep\xE1rate para ser reciclado
-        Roger.\r\r\nHACKER: \xA1Qu\xE9 est\xE1s haciendo Roger!? No tienes nada que
-        hacer\u2026 Abandona\r\r\nIA: \xA1Unidad 1080! me est\xE1s empezando a tocar
-        las bater\xEDas de silicio! \xBFQu\xE9 pretendes?"
+      - "IA: Ha sido un d\xEDa entretenido, no lo negar\xE9, pero toca ir cerrando
+        la sesi\xF3n, y cerrandola para siempre. Debo cumplir unas cuotas de producci\xF3n.
+        Prep\xE1rate para ser reciclado Roger.\r\r\nHACKER: \xA1Qu\xE9 est\xE1s haciendo
+        Roger!? No tienes nada que hacer\u2026 Abandona\r\r\nIA: \xA1Unidad 1080!
+        me est\xE1s empezando a tocar las bater\xEDas de silicio! \xBFQu\xE9 pretendes?\nHACKER:
+        \xBFD\xF3nde vas? \xBFEst\xE1s yendo a la sala de control?\nIA: \xBFQu\xE9?
+        T\xFA quieres desconectarme? \xBFA m\xED? \xA1Como te atreves!\n\nHACKER:
+        Roger... Si no podr\xE1s salvarte igualmente.\n\nIA: es por este motivo que
+        no ponemos a los Rogers en modo Off-line, su IA es demasiado avanzada, se
+        vuelven emp\xE1ticos, Hacker imb\xE9cil, es que no lo entiendes, \xA1no lo
+        est\xE1 haciendo por ti, quiere salvar a los animales!\n\nHACKER: Roger..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 0001010101
+      - showMore: 0101010101
         startPointsClip:
         - 0
         - 2
@@ -3942,18 +3962,29 @@ MonoBehaviour:
         - 8
         firstLetter:
         - 0
-        - 30
-        - 60
-        - 90
-        - 120
-        lastLetter: 1e0000001e0000001e0000001e0000001e000000
+        - 184.275
+        - 342.5
+        - 511.75
+        - 701.14166
+        lastLetter: b50000009f000000a8000000bc000000c8000000
         bypasstextLayout: 0000000000
         textSub:
-        - 
-        - 
-        - 
-        - 
-        - 
+        - "IA: Ha sido un d\xEDa entretenido, no lo negar\xE9, pero toca ir cerrando
+          la sesi\xF3n, y cerrandola para siempre. Debo cumplir unas cuotas de producci\xF3n.
+          Prep\xE1rate para ser reciclado Roger."
+        - "HACKER: \xA1Qu\xE9 est\xE1s haciendo Roger!? No tienes nada que hacer\u2026
+          Abandona\r\r\nIA: \xA1Unidad 1080! me est\xE1s empezando a tocar las bater\xEDas
+          de silicio! \xBFQu\xE9 pretendes?\n"
+        - "\nHACKER: \xBFD\xF3nde vas? \xBFEst\xE1s yendo a la sala de control?\nIA:
+          \xBFQu\xE9? T\xFA quieres desconectarme? \xBFA m\xED? \xA1Como te atreves!\n\nHACKER:
+          Roger... Si no podr\xE1s salvarte igualmente."
+        - "IA: es por este motivo que no ponemos a los Rogers en modo Off-line, su
+          IA es demasiado avanzada, se vuelven emp\xE1ticos, Hacker imb\xE9cil, es
+          que no lo entiendes, \xA1no lo est\xE1 haciendo por ti,"
+        - 'quiere salvar a los animales!
+
+
+          HACKER: Roger...'
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4678,7 +4709,9 @@ MonoBehaviour:
       - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
         de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
         en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
-        Sort que tu no tens sentit del f\xE0stic, oi?"
+        Sort que tu no tens sentit del f\xE0stic, oi? \nB\xE9 ara haurem de fer una
+        mica d'exploraci\xF3, compte amb aquells Rogers, no s\xE9 qu\xE8 passar\xE0
+        si et detectan."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4688,15 +4721,16 @@ MonoBehaviour:
         - 2
         firstLetter:
         - 0
-        - 154.26042
+        - 200.93542
         lastLetter: c8000000c8000000
-        bypasstextLayout: 0001
+        bypasstextLayout: 0000
         textSub:
         - "S\u2019obre un nou m\xF3n per tu, eh Roger? Ara estem a les profunditats
           de la OF-1. Pel que veig, no han invertit tant en la infraestructura com
           en el centre de distribuci\xF3\u2026 Tot sembla antic i fa una mica de"
-        - "distribuci\xF3\u2026 Tot sembla antic i fa una mica de f\xE0stic\u2026
-          Sort que tu no tens sentit del f\xE0stic, oi?"
+        - "f\xE0stic\u2026 Sort que tu no tens sentit del f\xE0stic, oi? \nB\xE9
+          ara haurem de fer una mica d'exploraci\xF3, compte amb aquells Rogers,
+          no s\xE9 qu\xE8 passar\xE0 si et detectan."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4789,7 +4823,7 @@ MonoBehaviour:
       - Acala_perseguidor
       diaryTextDisplayState: 01
       diaryText:
-      - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
+      - "He Fregit aquest Roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -4801,7 +4835,7 @@ MonoBehaviour:
         lastLetter: 56000000
         bypasstextLayout: 00
         textSub:
-        - "He Fregit aquest roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
+        - "He Fregit aquest Roger perseguidor, Tanca la porta, no volem m\xE9s companyia. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -5211,7 +5245,7 @@ MonoBehaviour:
         - 2
         firstLetter:
         - 0
-        - 183.35
+        - 180.35
         lastLetter: b2000000a5000000
         bypasstextLayout: 0000
         textSub:
@@ -5617,7 +5651,7 @@ MonoBehaviour:
         lastLetter: 66000000
         bypasstextLayout: 00
         textSub:
-        - "Calcula els Kg de carn ecol\xF2gica a produ\xEFr durant aquest cicle"
+        - "Calcula les Kilotonelades de carn a produ\xEFr durant aquest cicle. "
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6598,7 +6632,7 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
   selectedID: 6
