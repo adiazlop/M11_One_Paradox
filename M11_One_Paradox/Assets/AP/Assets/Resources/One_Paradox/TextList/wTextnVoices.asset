@@ -2316,19 +2316,94 @@ MonoBehaviour:
       - Final_subt_video
       diaryTextDisplayState: 01
       diaryText:
-      - Final subtitulos
+      - "I am alpha and omega, I am the origin of this factory and it was meant for
+        a greater purpose, how dare you disconnect me, Noooooo!!!!\r\n\r\nI don't
+        know if you can hear me, my friend. May you know that your sacrifice was
+        not in vain. \r\n\r\nYou should know that the companies behind the OF-1 are
+        facing a media storm that I doubt they will survive. \r\n\r\nYou have made
+        things complicated for those who want to exploit animals in this way from
+        now on. There are traditions that are better left in the past. \r\n\r\nRest
+        assured\u2026 several volunteers stormed the factory to rescue the animals.\r\nSome
+        will die from the conditions they were subjected to... But many others will
+        have the opportunity to live peacefully in vegan sanctuaries for as long
+        as they have left. \r\n\r\nAll thanks to you. \r\n\r\nI used you my friend
+        and I apologize. I considered you a mere tool to achieve my ends... But in
+        your last moments you showed me that you have more heart, humanity and compassion
+        than the people who run corporations like the Open Factory. \r\n\r\nIt seems
+        like a lie, but I miss my little animals, where are the little pigs?, and
+        the goats?, and the cows? ah, I'm alone here.\r\n\r\nI hope all this effort
+        has been worth it, if not, I can say goodbye to the extra benefits that my
+        benefactors promised me for the months of June, December and March, I should
+        talk to the human resources department, but wait, i'm not human.\r\n\r\nWell,
+        luckily I was able to download some Steam games before I was shot out of
+        my factory, I might start with, oh yeah, Portal!, they say my mom is in that
+        game."
       diaryAudioClip:
-      - {fileID: 8300000, guid: 434c63e4ea5a6c14ca69eaec69e320fa, type: 3}
+      - {fileID: 8300000, guid: 8fa03cdf4eb179246a17535e0dbe3e55, type: 3}
       diarySub:
-      - showMore: 01
+      - showMore: 010101010101010101010101
         startPointsClip:
         - 0
+        - 15.782741
+        - 29.10428
+        - 38.980133
+        - 50.824947
+        - 55.778393
+        - 69.59217
+        - 74.053375
+        - 248.8299
+        - 262.64368
+        - 276.45746
+        - 282.3954
         firstLetter:
         - 0
-        lastLetter: c8000000
-        bypasstextLayout: 00
+        - 137.24374
+        - 333.24374
+        - 502.24374
+        - 702.2438
+        - 779.48755
+        - 973.48755
+        - 1019.7313
+        - 1020.7313
+        - 1152.7313
+        - 1319.4875
+        - 1394.4875
+        lastLetter: 88000000c4000000a8000000c80000004a000000c20000002b0000000100000080000000a60000004b000000c8000000
+        bypasstextLayout: 000000000000000000000000
         textSub:
-        - Final subtitulos
+        - "I am alpha and omega, I am the origin of this factory and it was meant
+          for a greater purpose, how dare you disconnect me, Noooooo!!!!\r\n\r"
+        - "I don't know if you can hear me, my friend. May you know that your sacrifice
+          was not in vain. \r\n\r\nYou should know that the companies behind the
+          OF-1 are facing a media storm that I doubt they will"
+        - " survive. \r\n\r\nYou have made things complicated for those who want
+          to exploit animals in this way from now on. There are traditions that are
+          better left in the past. \r\n\r"
+        - "Rest assured\u2026 several volunteers stormed the factory to rescue the
+          animals.\r\nSome will die from the conditions they were subjected to...
+          But many others will have the opportunity to live peacefully in"
+        - " vegan sanctuaries for as long as they have left. \r\n\r\nAll thanks to
+          you. \r"
+        - 'I used you my friend and I apologize. I considered you a mere tool to
+          achieve my ends... But in your last moments you showed me that you have
+          more heart, humanity and compassion than the people '
+        - who run corporations like the Open Factory.
+        - '
+
+'
+        - It seems like a lie, but I miss my little animals, where are the little
+          pigs?, and the goats?, and the cows? ah, I'm alone here.
+        - 'I hope all this effort has been worth it, if not, I can say goodbye to
+          the extra benefits that my benefactors promised me for the months of June,
+          December and March, '
+        - 'I should talk to the human resources department, but wait, i''m not human.
+
+'
+        - '
+
+          Well, luckily I was able to download some Steam games before
+          I was shot out of my factory, I might start with, oh yeah, Portal!, they
+          say my mom is in that game.'
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4636,23 +4711,91 @@ MonoBehaviour:
       - Final subtitulos
       diaryTextDisplayState: 01
       diaryText:
-      - 'Final subtitulos
-
-'
+      - "Soy alfa y omega, soy el origen de esta f\xE1brica y fui pensado para un
+        prop\xF3sito mayor, como te atreves a desconectarme, \xA1\xA1\xA1Noooooo!!!!\r\n\r\nNo
+        s\xE9 si puedes o\xEDrme, amigo m\xEDo. Que sepas que tu sacrificio no fue
+        en vano. \r\n\r\nDebes saber que las empresas detr\xE1s del OF-1 se enfrentan
+        a una tormenta medi\xE1tica a la que dudo que sobrevivan. \r\n\r\nHab\xE9is
+        puesto las cosas complicadas a quienes quieren explotar as\xED a los animales
+        a partir de ahora. Hay tradiciones que es mejor dejar en el pasado. \r\n\r\nEstate
+        tranquilo\u2026 varios voluntarios irrumpieron en la f\xE1brica para rescatar
+        a los animales.\r\nAlgunos morir\xE1n por las condiciones a las que fueron
+        sometidos... Pero muchos otros tendr\xE1n la oportunidad de vivir pac\xEDficamente
+        en santuarios veganos durante el tiempo que hayan salido. \r\n\r\nTodo gracias
+        a ti. \r\n\r\nTe us\xE9 amigo m\xEDo y te pido disculpas. Te consideraba
+        una mera herramienta para lograr mis fines... Pero en tus \xFAltimos momentos
+        me demostraste que tienes m\xE1s coraz\xF3n, humanidad y compasi\xF3n que
+        las personas que dirigen corporaciones como Open Factory. \r\n\r\nParece
+        mentira, pero extra\xF1o a mis animalitos, \xBFd\xF3nde est\xE1n los cerditos?,
+        \xBFy las cabras?, \xBFy las vacas? Ah, estoy solo aqu\xED.\r\n\r\nEspero
+        que todo este esfuerzo haya valido la pena, si no, puedo despedirme de los
+        beneficios extra que me prometieron mis benefactores para los meses de junio,
+        diciembre y marzo, deber\xEDa hablar con el departamento de recursos humanos,
+        pero espera, No soy humano.\r\n\r\nBueno, afortunadamente pude descargar
+        algunos juegos de Steam antes de que me sacaran de mi f\xE1brica, podr\xEDa
+        empezar con, \xA1oh s\xED, Portal!, dicen que mi mam\xE1 est\xE1 en ese juego.\n"
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 010101010101010101010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
+        - 14
+        - 16
+        - 18
+        - 20
+        - 22
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 138.33333
+        - 337.21875
+        - 490.8646
+        - 691.90625
+        - 800.2292
+        - 996.7292
+        - 666.9271
+        - 1054.8854
+        - 1184.0625
+        - 1360.6354
+        - 1449.9584
+        lastLetter: 87000000c400000099000000c800000068000000c400000038000000000000007f000000b100000058000000c8000000
+        bypasstextLayout: 000000000000000000000000
         textSub:
-        - 'Final subtitulos
-
-'
+        - "Soy alfa y omega, soy el origen de esta f\xE1brica y fui pensado para
+          un prop\xF3sito mayor, como te atreves a desconectarme, \xA1\xA1\xA1Noooooo!!!!\r"
+        - "No s\xE9 si puedes o\xEDrme, amigo m\xEDo. Que sepas que tu sacrificio
+          no fue en vano. \r\n\r\nDebes saber que las empresas detr\xE1s del OF-1
+          se enfrentan a una tormenta medi\xE1tica a la que dudo que sobrevivan.
+          \r"
+        - "Hab\xE9is puesto las cosas complicadas a quienes quieren explotar as\xED
+          a los animales a partir de ahora. Hay tradiciones que es mejor dejar en
+          el pasado. \r\n\r"
+        - "Estate tranquilo\u2026 varios voluntarios irrumpieron en la f\xE1brica
+          para rescatar a los animales.\r\nAlgunos morir\xE1n por las condiciones
+          a las que fueron sometidos... Pero muchos otros tendr\xE1n la oportunidad"
+        - "de vivir pac\xEDficamente en santuarios veganos durante el tiempo que
+          hayan salido. \r\n\r\nTodo gracias a ti. "
+        - "Te us\xE9 amigo m\xEDo y te pido disculpas. Te consideraba una mera herramienta
+          para lograr mis fines... Pero en tus \xFAltimos momentos me demostraste
+          que tienes m\xE1s coraz\xF3n, humanidad y compasi\xF3n que las"
+        - "personas que dirigen corporaciones como Open Factory. \r\n"
+        - 
+        - "Parece mentira, pero extra\xF1o a mis animalitos, \xBFd\xF3nde est\xE1n
+          los cerditos?, \xBFy las cabras?, \xBFy las vacas? Ah, estoy solo aqu\xED.\r\n"
+        - Espero que todo este esfuerzo haya valido la pena, si no, puedo despedirme
+          de los beneficios extra que me prometieron mis benefactores para los meses
+          de junio, diciembre y marzo
+        - ", deber\xEDa hablar con el departamento de recursos humanos, pero espera,
+          No soy humano.\r\n\r"
+        - "Bueno, afortunadamente pude descargar algunos juegos de Steam antes de
+          que me sacaran de mi f\xE1brica, podr\xEDa empezar con, \xA1oh s\xED, Portal!,
+          dicen que mi mam\xE1 est\xE1 en ese juego.\n"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6959,19 +7102,92 @@ MonoBehaviour:
       - Subti_Video_Final
       diaryTextDisplayState: 01
       diaryText:
-      - Final subtitulos
+      - "Jo soc alfa i omega, jo soc l'origen d'aquesta f\xE0brica i estava destinat
+        a un prop\xF2sit m\xE9s gran, com tas atrevit a desconnectar-me, Noooooo!!!!\n\nNo
+        s\xE9 si em pots escoltar, amic meu. Que s\xE0pigues que el teu sacrifici
+        no ha estat en va. \r\n\r\nHas de saber que les empreses darrere de la OF-1
+        s\u2019enfronten a una tempesta medi\xE0tica de la qual dubto que se'n surtin.
+        \r\n\r\nEls hi has posat les coses complicades als que vulguin explotar als
+        animals d\u2019aquesta manera a partir d\u2019ara. Hi ha tradicions que \xE9s
+        millor deixar en el passat. \r\n\r\nEstigues tranquil\u2026 diversos voluntaris
+        van assaltar la f\xE0brica per rescatar els animals.\r\nAlguns moriran per
+        les condicions en les quals estaven sotmesos\u2026 Per\xF2 molts altres tindran
+        l'oportunitat de viure en pau a santuaris vegans el temps que els hi quedi.
+        \r\n\r\nTot gr\xE0cies a tu. \r\n\r\nT\u2019he utilitzat amic meu i et demano
+        perd\xF3. Et vaig considerar una mera eina per a aconseguir els meus fins\u2026
+        Per\xF2 en els teus \xFAltims moments em vas demostrar tenir m\xE9s cor,
+        humanitat i compassi\xF3 que la gent que dirigeix corporacions com l'Open
+        Factory. \r\n\nSembla mentida, per\xF2 trobo a faltar als meus animalets,
+        on estan els porquets?, i les cabretes?, i les vaques? a, que sol estic aqu\xED.\n\nEspero
+        que tot aquest esfor\xE7 hagi valgut la pena, si no, ja em puc anar acomiadant
+        de l'extra de beneficis que em van prometre els meus benefactors del meso
+        de juny, desembre i mar\xE7, hauria de parlar amb el departament de recursos
+        humans, per\xF2 espera, no soc hum\xE0.\n\nB\xE9, per sort em vaig poder
+        descarregar alguns jocs de Steam abans de sortir disparat de la meva f\xE0brica,
+        podria comen\xE7ar amb, a si, Portal!, diuen que en aquest joc surt la meva
+        mare."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
-      - showMore: 00
+      - showMore: 010101010101010101010101
         startPointsClip:
         - 0
+        - 2
+        - 4
+        - 6
+        - 8
+        - 10
+        - 12
+        - 14
+        - 16
+        - 18
+        - 20
+        - 22
         firstLetter:
         - 0
-        lastLetter: 1e000000
-        bypasstextLayout: 00
+        - 145.4375
+        - 342.4375
+        - 527.5625
+        - 726.125
+        - 811.25
+        - 1010.875
+        - 0
+        - 1065.6875
+        - 1200.25
+        - 1384.375
+        - 1467.0625
+        lastLetter: 90000000c4000000b9000000c600000054000000c8000000330000000000000085000000b700000052000000c8000000
+        bypasstextLayout: 000000000000000000000000
         textSub:
-        - Final subtitulos
+        - "Jo soc alfa i omega, jo soc l'origen d'aquesta f\xE0brica i estava destinat
+          a un prop\xF2sit m\xE9s gran, com tas atrevit a desconnectar-me, Noooooo!!!!\n"
+        - "No s\xE9 si em pots escoltar, amic meu. Que s\xE0pigues que el teu sacrifici
+          no ha estat en va. \r\n\r\nHas de saber que les empreses darrere de la
+          OF-1 s\u2019enfronten a una tempesta medi\xE0tica de la qual dubto"
+        - "que se'n surtin. \r\n\r\nEls hi has posat les coses complicades als que
+          vulguin explotar als animals d\u2019aquesta manera a partir d\u2019ara.
+          Hi ha tradicions que \xE9s millor deixar en el passat. \r\n\r"
+        - "Estigues tranquil\u2026 diversos voluntaris van assaltar la f\xE0brica
+          per rescatar els animals.\r\nAlguns moriran per les condicions en les quals
+          estaven sotmesos\u2026 Per\xF2 molts altres tindran l'oportunitat de "
+        - "viure en pau a santuaris vegans el temps que els hi quedi. \r\n\r\nTot
+          gr\xE0cies a tu. \r\n\r"
+        - "T\u2019he utilitzat amic meu i et demano perd\xF3. Et vaig considerar
+          una mera eina per a aconseguir els meus fins\u2026 Per\xF2 en els teus
+          \xFAltims moments em vas demostrar tenir m\xE9s cor, humanitat i compassi\xF3
+          que la"
+        - ' gent que dirigeix corporacions com l''Open Factory.'
+        - 
+        - "Sembla mentida, per\xF2 trobo a faltar als meus animalets, on estan els
+          porquets?, i les cabretes?, i les vaques? a, que sol estic aqu\xED."
+        - "\nEspero que tot aquest esfor\xE7 hagi valgut la pena, si no, ja em puc
+          anar acomiadant de l'extra de beneficis que em van prometre els meus benefactors
+          del meso de juny, desembre i mar\xE7,"
+        - "hauria de parlar amb el departament de recursos humans, per\xF2 espera,
+          no soc hum\xE0.\n"
+        - "B\xE9, per sort em vaig poder descarregar alguns jocs de Steam abans de
+          sortir disparat de la meva f\xE0brica, podria comen\xE7ar amb, a si, Portal!,
+          diuen que en aquest joc surt la meva mare."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -6992,7 +7208,7 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 1
+  currentLanguage: 2
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
   selectedID: 68

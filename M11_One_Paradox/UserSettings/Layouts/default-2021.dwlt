@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 67
+  controlID: 79
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 293.6
     height: 512.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -360,23 +360,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AP/Assets/Art/Videos/Death_Victory
+    - Assets/AP/Assets/Script/Scripts Propis
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AP/Assets/Art/Videos/Death_Victory
+  - Assets/AP/Assets/Script/Scripts Propis
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\javi\Desktop\OneParadox\M11_One_Paradox\M11_One_Paradox
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 399}
-    m_SelectedIDs: b8a40a00
-    m_LastClickedID: 697528
-    m_ExpandedIDs: 00000000080901000a0901000c0901000e09010010090100120901001409010016090100180901001a0901001c0901001e09010020090100220901002409010026090100280901002a0901002c0901002e09010030090100320901003409010036090100380901003a0901003c0901003e09010040090100420901004409010046090100480901004a0901004c0901004e09010050090100520901005409010056090100580901005a0901005c0901005e09010060090100620901006409010066090100680901006a0901006c0901006e09010070090100720901007409010076090100780901007a0901007c09010086090100f0090100520a010000ca9a3b
+    scrollPos: {x: 0, y: 1367}
+    m_SelectedIDs: c8e60100
+    m_LastClickedID: 124616
+    m_ExpandedIDs: 0000000092e6010094e6010096e6010098e601009ae601009ce601009ee60100a0e60100a2e60100a4e60100a6e60100a8e60100aae60100ace60100aee60100b0e60100b2e60100b4e60100b6e60100b8e60100bae60100bce60100bee60100c0e60100c2e60100c4e60100c6e60100c8e60100cae60100cce60100cee60100d0e60100d2e60100d4e60100d6e60100d8e60100dae60100dce60100dee60100e0e60100e2e60100e4e60100e6e60100e8e60100eae60100ece60100eee60100f0e60100f2e60100f4e60100f6e60100f8e60100fae60100fce60100fee6010000e7010002e7010004e7010006e701006ae801008ae801003ce9010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,7 +404,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000080901000a0901000c0901000e09010010090100120901001409010016090100180901001a0901001c0901001e09010020090100220901002409010026090100280901002a0901002c0901002e09010030090100320901003409010036090100380901003a0901003c0901003e09010040090100420901004409010046090100480901004a0901004c0901004e09010050090100520901005409010056090100580901005a0901005c0901005e09010060090100620901006409010066090100680901006a0901006c0901006e09010070090100720901007409010076090100780901007a0901007c090100
+    m_ExpandedIDs: 0000000092e6010094e6010096e6010098e601009ae601009ce601009ee60100a0e60100a2e60100a4e60100a6e60100a8e60100aae60100ace60100aee60100b0e60100b2e60100b4e60100b6e60100b8e60100bae60100bce60100bee60100c0e60100c2e60100c4e60100c6e60100c8e60100cae60100cce60100cee60100d0e60100d2e60100d4e60100d6e60100d8e60100dae60100dce60100dee60100e0e60100e2e60100e4e60100e6e60100e8e60100eae60100ece60100eee60100f0e60100f2e60100f4e60100f6e60100f8e60100fae60100fce60100fee6010000e7010002e7010004e7010006e70100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -431,7 +431,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -456,7 +456,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 17}
+    m_ScrollPosition: {x: 0, y: 241}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -535,10 +535,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 660}
-      m_SelectedIDs: 68a2f7ff
-      m_LastClickedID: -548248
-      m_ExpandedIDs: 68a2f7ff6828fcff427cfdff307efdff54b9fefffe83ffff08fbfffff07600007e770000ea79000002860000b4910000969f0000c6a50000b09d110010ae110098bd110036d1110024d5110082ed11000aef1100d0fa11000cfb1100c81a1200e0201200f42612000e301200
+      scrollPos: {x: 0, y: 780}
+      m_SelectedIDs: 16fe0000
+      m_LastClickedID: 65046
+      m_ExpandedIDs: 7006fbff362bfbff1033fbffd03dfbff247dfbff9849fcffa049fcff3020fdff3820fdffba20fdffb6f6fdffcaf6fdff1af9ffff08fbffff906f00008c8100000e8f00007e8f000092a400000aa7000026b60000f0c00000b6cc0000f2cc0000aeec0000c6f200006ef50000c8f60000daf80000b4fe0000ec010100060201002e250100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -855,9 +855,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 959.99994, y: 89.37384, z: 0}
+    m_Target: {x: -13.744011, y: 1.011486, z: 16.84}
     speed: 2
-    m_Value: {x: 959.99994, y: 89.37384, z: 0}
+    m_Value: {x: -13.744011, y: 1.011486, z: 16.84}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -904,13 +904,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.18537092, y: -0.2759924, z: 0.055037532, w: -0.94254917}
+    m_Target: {x: 0.1744162, y: 0.33226627, z: -0.06463787, w: 0.9257491}
     speed: 2
-    m_Value: {x: -0.18518932, y: -0.27572203, z: 0.054983616, w: -0.9416258}
+    m_Value: {x: 0.17424105, y: 0.33193263, z: -0.06457296, w: 0.9248195}
   m_Size:
-    m_Target: 1087.2957
+    m_Target: 8.218959
     speed: 2
-    m_Value: 1087.2957
+    m_Value: 8.218959
   m_Ortho:
     m_Target: 0
     speed: 2
