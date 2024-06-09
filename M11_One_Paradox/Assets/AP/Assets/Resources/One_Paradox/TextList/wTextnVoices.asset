@@ -977,9 +977,9 @@ MonoBehaviour:
         - 920.64166
         - 1138.0585
         - 1331.5167
-        - 1529.6251
-        - 1731.3542
-        lastLetter: 80000000c6000000bf000000c8000000c8000000c8000000c1000000c1000000c8000000c8000000
+        - 1531.6251
+        - 1726.3542
+        lastLetter: 80000000c6000000bf000000c8000000c8000000c8000000c1000000c7000000c3000000c8000000
         bypasstextLayout: 00000000000000000000
         textSub:
         - "[AI] Looks like the gilded road didn't exactly lead you to Oz, did it
@@ -1004,11 +1004,11 @@ MonoBehaviour:
           reduction of water consumption in the population."
         - . But of course, the Open Factory or other multinationals continue to be
           subsidized by governments to raise animals. To produce a hamburger, the
-          water that a human would spend taking a shower f
-        - "o months is consumed.\r But I don't make the rules, nor did I invent the
+          water that a human would spend taking a shower for two
+        - "months is consumed.\r But I don't make the rules, nor did I invent the
           system. My programming is the one my benefactors have implemented, the
-          aim is to obtain the maximum benefit with the minimum eco"
-        - "ogical impact.\r But I can't diminish the benefits reducing the ecological
+          aim is to obtain the maximum benefit with the minimum "
+        - " ecological impact.\r But I can't diminish the benefits reducing the ecological
           footprint. Within the evil that I do, I do as little as possible. It's
           the market, my friend..."
       diarySprite:
@@ -1798,10 +1798,9 @@ MonoBehaviour:
       diaryText:
       - "AI: Unit 1080\u2026 A real tin man\u2026 My automaton who thinks he's different
         from the rest\u2026\r\n\r\nACALA: I've crippled the rest of Rogers. Now,
-        put an end to this. \r\n\r\nIA: Today you won your heart...  yet you don't
-        know how lucky you were not to have one.  Remember: Hearts will never be
-        practical until they can be made unbreakable.ctical until the day they become
-        unbreakable..."
+        put an end to this. \r\nIA: Today you won your heart...  yet you don't know
+        how lucky you were not to have one.  Remember: Hearts will never be practical
+        until they can be made unbreakable.ctical until the day they become unbreakable..."
       diaryAudioClip:
       - {fileID: 8300000, guid: f083c38112ef6c9449dab92d5cc0ccdf, type: 3}
       diarySub:
@@ -1811,16 +1810,16 @@ MonoBehaviour:
         - 19.355179
         firstLetter:
         - 0
-        - 186.2729
-        lastLetter: ba000000b9000000
+        - 187.65205
+        lastLetter: bc000000c8000000
         bypasstextLayout: 0000
         textSub:
         - "AI: Unit 1080\u2026 A real tin man\u2026 My automaton who thinks he's
           different from the rest\u2026\r\n\r\nACALA: I've crippled the rest of Rogers.
-          Now, put an end to this. \r\n\r\nIA: Today you won your heart"
-        - '...  yet you don''t know how lucky you were not to have one.  Remember:
-          Hearts will never be practical until they can be made unbreakable.ctical
-          until the day they become unbreakable...'
+          Now, put an end to this. \r\nIA: Today you won your heart... "
+        - ' yet you don''t know how lucky you were not to have one.  Remember: Hearts
+          will never be practical until they can be made unbreakable.ctical until
+          the day they become unbreakable...'
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2220,13 +2219,132 @@ MonoBehaviour:
       uniqueItemID: 81
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 82
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - SUBT_Video1
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Hi Rogers! I am the AI \u200B\u200BDecurio. If the factory were a human
+        body, each room would be an organ and I would be the brain of it. You are
+        my red cells, my immune system, my beloved children of neon and silicon.
+        \r\n\r\n My job is to balance production and generate the minimum ecological
+        footprint ensuring maximum profit, which is why I am programmed with the
+        guidelines of our investors and with the principles of the 2080 agenda."
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 4b459cac7df37de4eb7f2b97e7e591d3, type: 3}
+      diarySub:
+      - showMore: 010101
+        startPointsClip:
+        - 0
+        - 19.910915
+        - 32.787987
+        firstLetter:
+        - 0
+        - 187.575
+        - 383.1375
+        lastLetter: bc000000c2000000c8000000
+        bypasstextLayout: 000000
+        textSub:
+        - "Hi Rogers! I am the AI \u200B\u200BDecurio. If the factory were a human
+          body, each room would be an organ and I would be the brain of it. You are
+          my red cells, my immune system, my beloved children "
+        - "of neon and silicon. \r\n\r\n My job is to balance production and generate
+          the minimum ecological footprint ensuring maximum profit, which is why
+          I am programmed with the guidelines of our investors"
+        - and with the principles of the 2080 agenda.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 83
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 84
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Final_subt_video
+      diaryTextDisplayState: 01
+      diaryText:
+      - Final subtitulos
+      diaryAudioClip:
+      - {fileID: 8300000, guid: 434c63e4ea5a6c14ca69eaec69e320fa, type: 3}
+      diarySub:
+      - showMore: 01
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: c8000000
+        bypasstextLayout: 00
+        textSub:
+        - Final subtitulos
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 85
+      itemType: 0
+      audioPriority: 0
   - _languageSlot:
     - diaryTitle:
       - Puz01_Captcha
       diaryTextDisplayState: 01
       diaryText:
-      - "Bienvenida Unidad Roger 1080! Completa el Captcha p\xE0ra demostrar que
-        no eres humano. "
+      - 'Bienvenida Unidad Roger 1080! Completa el Captcha para demostrar que no
+        eres humano. '
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2238,8 +2356,8 @@ MonoBehaviour:
         lastLetter: c8000000
         bypasstextLayout: 00
         textSub:
-        - "Bienvenida Unidad Roger 1080! Completa el Captcha p\xE0ra demostrar que
-          no eres humano. "
+        - 'Bienvenida Unidad Roger 1080! Completa el Captcha para demostrar que no
+          eres humano. '
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2503,12 +2621,12 @@ MonoBehaviour:
       - Acala_Panopticon_01
       diaryTextDisplayState: 01
       diaryText:
-      - "Se abre un nuevo mundo por ti, \xBFeh Roger? Ahora estamos en las profundidades
-        de la OF-1. Por lo que veo, no han invertido tanto en la infraestructura
-        como en el centro de distribuci\xF3n\u2026 Todo parece antiguo y da un poco
-        de asco\u2026 Menos mal que t\xFA no tienes sentido del asco, \xBFverdad?\nBien,
-        tendremos que hacer un poco de exploraci\xF3n, cuidado con esos Rogers, no
-        se que pasar\xE1 si te detectan."
+      - "Se abre un nuevo mundo para ti, \xBFeh Roger? Ahora estamos en las profundidades
+        de la OF-1. Veo no han invertido tanto en la infraestructura como en el centro
+        de distribuci\xF3n\u2026 Todo parece antiguo y da un poco de asco\u2026 Menos
+        mal que t\xFA no tienes sentido del asco, \xBFverdad? Bien, tendremos que
+        hacer un poco de exploraci\xF3n, cuidado con esos Rogers, no se que pasar\xE1
+        si te detectan."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -2518,16 +2636,16 @@ MonoBehaviour:
         - 2
         firstLetter:
         - 0
-        - 184.75
-        lastLetter: b8000000c8000000
+        - 178.75
+        lastLetter: b2000000c8000000
         bypasstextLayout: 0000
         textSub:
-        - "Se abre un nuevo mundo por ti, \xBFeh Roger? Ahora estamos en las profundidades
-          de la OF-1. Por lo que veo, no han invertido tanto en la infraestructura
-          como en el centro de distribuci\xF3n\u2026"
-        - "Todo parece antiguo y da un poco de asco\u2026 Menos mal que t\xFA no
-          tienes sentido del asco, \xBFverdad?\nBien, tendremos que hacer un poco
-          de exploraci\xF3n, cuidado con esos Rogers, no se que pasar\xE1 si te detect"
+        - "Se abre un nuevo mundo para ti, \xBFeh Roger? Ahora estamos en las profundidades
+          de la OF-1. Veo no han invertido tanto en la infraestructura como en el
+          centro de distribuci\xF3n\u2026 Todo"
+        - "parece antiguo y da un poco de asco\u2026 Menos mal que t\xFA no tienes
+          sentido del asco, \xBFverdad? Bien, tendremos que hacer un poco de exploraci\xF3n,
+          cuidado con esos Rogers, no se que pasar\xE1 si te detectan."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -2994,7 +3112,7 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "Mierda. Pensaba que la Chimenea estaba en funcionamiento\u2026 \xBFRoger?
-        \xBFEst\xE1s conectado? Vale, parece que te has entregado de momento. Debemos
+        \xBFEst\xE1s conectado? Vale, parece que te has librado de momento. Debemos
         encontrar la forma de huir de aqu\xED\u2026 S\xED, t\xFA avanza que a la
         que pueda te conecto a una base de carga\u2026"
       diaryAudioClip:
@@ -3011,9 +3129,9 @@ MonoBehaviour:
         bypasstextLayout: 0000
         textSub:
         - "Mierda. Pensaba que la Chimenea estaba en funcionamiento\u2026 \xBFRoger?
-          \xBFEst\xE1s conectado? Vale, parece que te has entregado de momento. Debemos
-          encontrar la forma de huir de aqu\xED\u2026 "
-        - "S\xED, t\xFA avanza que a la que pueda te conecto a una base de carga\u2026"
+          \xBFEst\xE1s conectado? Vale, parece que te has librado de momento. Debemos
+          encontrar la forma de huir de aqu\xED\u2026 S\xED"
+        - ", t\xFA avanza que a la que pueda te conecto a una base de carga\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3093,13 +3211,12 @@ MonoBehaviour:
       diaryTextDisplayState: 01
       diaryText:
       - "[ACALA] Estos datos no tienen sentido\u2026 \xBFFertilizantes? \xBFBases?
-        Qu\xE9 demonios\u2026\r\r\n[IA]Vaya, vaya\u2026 \xBFEst\xE1s un poco demasiado
-        lejos de tu posici\xF3n asignada, no Roger? Primero pensaba que era un Bug,
-        pero he intentado acceder a tu consola de mandos s\xF3lo para descubrir que
-        est\xE1s en modo Offline\u2026 Dime, soldadito de plomo, no tendr\xE1s una
-        Dorothy en la cabeza indic\xE1ndote el camino a Oz, \xBFverdad?\r \r\n[ACALA]\xA1MIERDA!
-        \xBFQu\xE9 significa esto!? \xA1Corre Roger! \xA1Qu\xE9 corras! \xA1R\xE1pido,
-        busca la manera de subir a esa chimenea!\r\r\n[IA]Previsible..."
+        Qu\xE9 demonios\u2026\r\r\n[IA]Vaya\u2026 \xBFEst\xE1s un poco lejos de tu
+        posici\xF3n asignada, no Roger? Pensaba que era un Bug, pero he intentado
+        acceder a tu consola de mandos s\xF3lo para descubrir que est\xE1s en modo
+        Offline\u2026 Soldadito de plomo, \xBFno tendr\xE1s una Dorothy en la cabeza
+        indic\xE1ndote el camino a Oz?\r \r\n[ACALA]\xA1MIERDA! \xBFQu\xE9 significa
+        esto!? \xA1Corre Roger! \xA1R\xE1pido, busca la manera de subir a esa chimenea!\r\r\n[IA]Previsible..."
       diaryAudioClip:
       - {fileID: 0}
       diarySub:
@@ -3110,20 +3227,20 @@ MonoBehaviour:
         - 4
         firstLetter:
         - 0
-        - 160.78125
-        - 337.96875
-        lastLetter: a0000000b1000000bb000000
+        - 79.2125
+        - 277.625
+        lastLetter: 4e000000c7000000c8000000
         bypasstextLayout: 000000
         textSub:
         - "[ACALA] Estos datos no tienen sentido\u2026 \xBFFertilizantes? \xBFBases?
-          Qu\xE9 demonios\u2026\r\r\n[IA]Vaya, vaya\u2026 \xBFEst\xE1s un poco demasiado
-          lejos de tu posici\xF3n asignada, no Roger?"
-        - "Primero pensaba que era un Bug, pero he intentado acceder a tu consola
-          de mandos s\xF3lo para descubrir que est\xE1s en modo Offline\u2026 Dime,
-          soldadito de plomo, no tendr\xE1s una Dorothy "
-        - "en la cabeza indic\xE1ndote el camino a Oz, \xBFverdad?\r \r\n[ACALA]\xA1MIERDA!
-          \xBFQu\xE9 significa esto!? \xA1Corre Roger! \xA1Qu\xE9 corras! \xA1R\xE1pido,
-          busca la manera de subir a esa chimenea!\r\r\n[IA]Previsible..."
+          Qu\xE9 demonios\u2026\r\r"
+        - "[IA]Vaya\u2026 \xBFEst\xE1s un poco lejos de tu posici\xF3n asignada,
+          no Roger? Pensaba que era un Bug, pero he intentado acceder a tu consola
+          de mandos s\xF3lo para descubrir que est\xE1s en modo Offline\u2026 Soldadito
+          de "
+        - "plomo, \xBFno tendr\xE1s una Dorothy en la cabeza indic\xE1ndote el camino
+          a Oz?\r \r\n[ACALA]\xA1MIERDA! \xBFQu\xE9 significa esto!? \xA1Corre Roger!
+          \xA1R\xE1pido, busca la manera de subir a esa chimenea!\r\r\n[IA]Previsible..."
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -3181,49 +3298,48 @@ MonoBehaviour:
         - 18
         firstLetter:
         - 0
-        - 170.68748
-        - 351.56247
-        - 542.75
-        - 732.56244
-        - 930.24994
-        - 1126.8749
-        - 1320.1249
-        - 1512.8749
-        - 1713.8124
-        lastLetter: aa000000b4000000be000000bd000000c4000000c4000000c0000000c0000000c8000000c8000000
+        - 194.31248
+        - 391.56247
+        - 591
+        - 788.06244
+        - 990.49994
+        - 1188.9999
+        - 1389.1874
+        - 1584.7499
+        - 1782.9374
+        lastLetter: c2000000c5000000c6000000c5000000c8000000c7000000c8000000c3000000c5000000c8000000
         bypasstextLayout: 00000000000000000000
         textSub:
         - "[IA] Parece que el camino de tejas doradas no te ha llevado a Oz precisamente,
           \xBFverdad Dorothy?\r\r\n[ACALA]: \xA1Otra vez est\xE1 aqu\xED! Mierda!
-          Debemos\r\n[IA] D\xE9jate de historias,"
-        - "hace rato que te estoy escuchando, \u201CHacker\u201D. Me he infiltrado
-          en sus comunicaciones en cuanto le he detectado en la depuradora. \xBFQu\xE9
-          haces jugando con mis aut\xF3matas de protocolo?\r\r"
-        - "[ACALA]: Oh, habr\xEDa hecho mucho m\xE1s que jugar si hubiera sabido
-          lo que tendr\xEDa aqu\xED\u2026 \xBFC\xF3mo puedes tener estos animales
-          aqu\xED en estas condiciones!? Hace d\xE9cadas que no se permite este tipo
-          de"
-        - "explotaciones por motivos \xE9ticos y ecol\xF3gicos\u2026\r\n[IA ]Querr\xE1s
-          decir que no todo el mundo tiene acceso a crear este tipo de explotaciones\u2026\rPero
-          s\xED, parece haberse abierto la caja de Pandora.\r"
-        - "S\xED, efectivamente esto no es carne sint\xE9tica. Bien, la explicaci\xF3n
-          es muy simple: Investigar alternativas vegetales no est\xE1 subvencionado
-          por los gobiernos, mucho menos crear carne de laboratorio,"
-        - "en cambio, criar animales s\xED.\r Es il\xF3gico no puedo negarlo. Hay
-          formas de producir los mismos nutrientes con menos recursos. Por otra parte,
-          no s\xE9 por qu\xE9 los humanos se empe\xF1an tanto en comer sus"
-        - "nutrientes despu\xE9s de pasarlos por un cerdo o una vaca en vez de consumirlos
-          directamente.\rPor no hablar de que sus gobiernos ahora se dedican a promover
-          la reducci\xF3n del consumo de agua en la"
-        - "poblaci\xF3n\u2026 Pero claro, en el Open Factory o en otras multinacionales
-          les siguen subvencionando los gobiernos para criar animales. Para producir
-          una hamburguesa se consume el agua que un humano"
-        - "gastar\xEDa duch\xE1ndose dos meses.\rPero yo no hago las reglas ni tampoco
-          he inventado el sistema. Mi programaci\xF3n es la que me han implantado
-          mis benefactores, cuyo objetivo es obtener el m\xE1ximo beneficio"
-        - "con la m\xEDnima huella ecol\xF3gica.\rPero no puedo reducir los beneficios
-          por reducir la huella ecol\xF3gica. Dentro del da\xF1o que hago, hago lo
-          menos posible. Es el mercado, amigo m\xEDo\u2026"
+          Debemos\r\n[IA] D\xE9jate de historias, hace rato que te estoy "
+        - "escuchando, \u201CHacker\u201D. Me he infiltrado en sus comunicaciones
+          en cuanto le he detectado en la depuradora. \xBFQu\xE9 haces jugando con
+          mis aut\xF3matas de protocolo?\r\r\n[ACALA]: Oh, habr\xEDa hecho mucho
+          m\xE1s que"
+        - "jugar si hubiera sabido lo que tendr\xEDa aqu\xED\u2026 \xBFC\xF3mo puedes
+          tener estos animales aqu\xED en estas condiciones!? Hace d\xE9cadas que
+          no se permite este tipo de explotaciones por motivos \xE9ticos y ecol\xF3gicos\u2026\r"
+        - "[IA ]Querr\xE1s decir que no todo el mundo tiene acceso a crear este tipo
+          de explotaciones\u2026\rPero s\xED, parece haberse abierto la caja de Pandora.\r
+          S\xED, efectivamente esto no es carne sint\xE9tica. Bien, la "
+        - "explicaci\xF3n es muy simple: Investigar alternativas vegetales no est\xE1
+          subvencionado por los gobiernos, mucho menos crear carne de laboratorio,
+          en cambio, criar animales s\xED.\r Es il\xF3gico no puedo negarlo"
+        - "Hay formas de producir los mismos nutrientes con menos recursos. Por otra
+          parte, no s\xE9 por qu\xE9 los humanos se empe\xF1an tanto en comer sus
+          nutrientes despu\xE9s de pasarlos por un cerdo o una vaca en vez "
+        - "de consumirlos directamente.\rPor no hablar de que sus gobiernos ahora
+          se dedican a promover la reducci\xF3n del consumo de agua en la poblaci\xF3n\u2026
+          Pero claro, en el Open Factory o en otras multinacionales "
+        - "les siguen subvencionando los gobiernos para criar animales. Para producir
+          una hamburguesa se consume el agua que un humano gastar\xEDa duch\xE1ndose
+          dos meses.\rPero yo no hago las reglas ni tampoco he"
+        - "inventado el sistema. Mi programaci\xF3n es la que me han implantado mis
+          benefactores, cuyo objetivo es obtener el m\xE1ximo beneficio con la m\xEDnima
+          huella ecol\xF3gica.\rPero no puedo reducir los beneficios"
+        - "por reducir la huella ecol\xF3gica. Dentro del da\xF1o que hago, hago
+          lo menos posible. Es el mercado, amigo m\xEDo\u2026"
       diarySprite:
       - {fileID: 0}
       refGameObject: {fileID: 0}
@@ -4420,6 +4536,130 @@ MonoBehaviour:
       prefabSizeInViewer: 0.5
       prefabRotationInViewer: {x: 1, y: 1, z: 1}
       uniqueItemID: 81
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 82
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - SUBT_Video1
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Hola Rogers! Soy la IA Decurio. Si la f\xE1brica fuera un cuerpo humano,
+        cada habitaci\xF3n ser\xEDa un \xF3rgano y yo ser\xEDa el cerebro del mismo.
+        Ustedes son mis gl\xF3bulos rojos, mi sistema inmunol\xF3gico, mis amados
+        hijos del ne\xF3n y del silicio. \r\n\r\n Mi trabajo es equilibrar la producci\xF3n
+        y generar la m\xEDnima huella ecol\xF3gica asegurando el m\xE1ximo beneficio,
+        por eso estoy programado con los alineamientos de nuestros inversionistas
+        y con los principios de la agenda 2080."
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 010101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        firstLetter:
+        - 0
+        - 192.25417
+        - 392.73752
+        lastLetter: be000000c8000000c8000000
+        bypasstextLayout: 000000
+        textSub:
+        - "Hola Rogers! Soy la IA Decurio. Si la f\xE1brica fuera un cuerpo humano,
+          cada habitaci\xF3n ser\xEDa un \xF3rgano y yo ser\xEDa el cerebro del mismo.
+          Ustedes son mis gl\xF3bulos rojos, mi sistema inmunol\xF3gico"
+        - "mis amados hijos del ne\xF3n y del silicio. \r\n\r\n Mi trabajo es equilibrar
+          la producci\xF3n y generar la m\xEDnima huella ecol\xF3gica asegurando
+          el m\xE1ximo beneficio, por eso estoy programado con los alineamientos"
+        - de nuestros inversionistas y con los principios de la agenda 2080.
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 83
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 84
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Final subtitulos
+      diaryTextDisplayState: 01
+      diaryText:
+      - 'Final subtitulos
+
+'
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 'Final subtitulos
+
+'
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 85
       itemType: 0
       audioPriority: 0
   - _languageSlot:
@@ -6621,6 +6861,126 @@ MonoBehaviour:
       uniqueItemID: 81
       itemType: 0
       audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 82
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Subt_Video1
+      diaryTextDisplayState: 01
+      diaryText:
+      - "Hola, Rogers! Jo soc la IA Decuri\xF3. Si la f\xE0brica fos un cos hum\xE0,
+        cada sala seria un \xF2rgan i jo seria el cervell d\u2019aquesta. Vosaltres
+        sou les meves c\xE8l\xB7lules vermelles, el meu sistema immunitari, els meus
+        estimats fills de ne\xF3 i silici. \r\n\r\n La meva feina \xE9s equilibrar
+        la producci\xF3 i generar la m\xEDnima petjada ecol\xF2gica assegurant el
+        m\xE0xim benefici, per aix\xF2 estic programat amb les directrius dels nostres
+        inversors i amb els principis de l\u2019agenda 2080.\r\n"
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 010101
+        startPointsClip:
+        - 0
+        - 2
+        - 4
+        firstLetter:
+        - 0
+        - 196.02501
+        - 395.86667
+        lastLetter: c3000000c8000000c8000000
+        bypasstextLayout: 000000
+        textSub:
+        - "Hola, Rogers! Jo soc la IA Decuri\xF3. Si la f\xE0brica fos un cos hum\xE0,
+          cada sala seria un \xF2rgan i jo seria el cervell d\u2019aquesta. Vosaltres
+          sou les meves c\xE8l\xB7lules vermelles, el meu sistema immunitari"
+        - " els meus estimats fills de ne\xF3 i silici. \r\n\r\n La meva feina \xE9s
+          equilibrar la producci\xF3 i generar la m\xEDnima petjada ecol\xF2gica
+          assegurant el m\xE0xim benefici, per aix\xF2 estic programat amb les directrius "
+        - "dels nostres inversors i amb els principis de l\u2019agenda 2080.\r\n"
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 83
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Voice Name
+      diaryTextDisplayState: 01
+      diaryText:
+      - 
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - 
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 84
+      itemType: 0
+      audioPriority: 0
+    - diaryTitle:
+      - Subti_Video_Final
+      diaryTextDisplayState: 01
+      diaryText:
+      - Final subtitulos
+      diaryAudioClip:
+      - {fileID: 0}
+      diarySub:
+      - showMore: 00
+        startPointsClip:
+        - 0
+        firstLetter:
+        - 0
+        lastLetter: 1e000000
+        bypasstextLayout: 00
+        textSub:
+        - Final subtitulos
+      diarySprite:
+      - {fileID: 0}
+      refGameObject: {fileID: 0}
+      showInInventory: 0
+      prefabSizeInViewer: 0.5
+      prefabRotationInViewer: {x: 1, y: 1, z: 1}
+      uniqueItemID: 85
+      itemType: 0
+      audioPriority: 0
   helpBoxEditor: 1
   idEditorSize: 20
   titleEditorSize: 240
@@ -6632,10 +6992,10 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 0
+  currentLanguage: 1
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
-  selectedID: 6
+  selectedID: 68
   b_EditSubtitle: 1
   currentAudioSubtitleEdit: 0
   editorType: 0

@@ -94,7 +94,7 @@ MonoBehaviour:
       audioPriority: 0
   - _languageSlot:
     - diaryTitle:
-      - New Title
+      - Tienes que calcular el destino antes
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -120,7 +120,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - feedback 0
+      - Primero tienes que calcular la carne
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -146,7 +146,7 @@ MonoBehaviour:
       itemType: 0
       audioPriority: 0
     - diaryTitle:
-      - New Title
+      - Puerta secreta abierta
       diaryTextDisplayState: 01
       diaryText:
       - New description
@@ -261,7 +261,7 @@ MonoBehaviour:
   - English
   - Spanish
   - Catala
-  currentLanguage: 2
+  currentLanguage: 1
   fisrtTextDisplayedInEditor: 0
   howManyEntryDisplayed: 20
   selectedID: 0

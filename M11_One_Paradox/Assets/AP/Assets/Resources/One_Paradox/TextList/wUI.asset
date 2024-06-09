@@ -9139,10 +9139,10 @@ MonoBehaviour:
   - English
   - Castellano
   - "Catal\xE0"
-  currentLanguage: 1
+  currentLanguage: 0
   fisrtTextDisplayedInEditor: 2
   howManyEntryDisplayed: 20
-  selectedID: 96
+  selectedID: 88
   b_EditSubtitle: 0
   currentAudioSubtitleEdit: 0
   editorType: 2
