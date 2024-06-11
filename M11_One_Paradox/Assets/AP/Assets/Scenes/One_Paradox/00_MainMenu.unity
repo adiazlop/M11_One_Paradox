@@ -186,6 +186,16 @@ PrefabInstance:
       propertyPath: managerID
       value: 93
       objectReference: {fileID: 0}
+    - target: {fileID: 5414772196878899518, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: uniqueID
+      value: 101
+      objectReference: {fileID: 0}
+    - target: {fileID: 5414772196878899518, guid: a99ff0d7215dbd949b816741fefb3af3,
+        type: 3}
+      propertyPath: managerID
+      value: 96
+      objectReference: {fileID: 0}
     - target: {fileID: 5808333466321164433, guid: a99ff0d7215dbd949b816741fefb3af3,
         type: 3}
       propertyPath: managerID
